@@ -1,0 +1,1074 @@
+[
+    {
+        "partida_id": "5383",
+        "rodata": "2",
+        "clube": "America-MG",
+        "atleta": "Rafael Bastos",
+        "minuto": "20",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5390",
+        "rodata": "3",
+        "clube": "America-MG",
+        "atleta": "Victor Rangel",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5397",
+        "rodata": "4",
+        "clube": "America-MG",
+        "atleta": "Victor Rangel",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5414",
+        "rodata": "5",
+        "clube": "America-MG",
+        "atleta": "Danilo Barcelos",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5420",
+        "rodata": "6",
+        "clube": "America-MG",
+        "atleta": "Osman",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5427",
+        "rodata": "7",
+        "clube": "America-MG",
+        "atleta": "Adalberto dos Santos Rodrigues",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5442",
+        "rodata": "8",
+        "clube": "America-MG",
+        "atleta": "Bruno Sávio",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5449",
+        "rodata": "9",
+        "clube": "America-MG",
+        "atleta": "Adalberto dos Santos Rodrigues",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5449",
+        "rodata": "9",
+        "clube": "America-MG",
+        "atleta": "Borges",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5526",
+        "rodata": "16",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5538",
+        "rodata": "18",
+        "clube": "America-MG",
+        "atleta": "Danilo Barcelos",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5548",
+        "rodata": "19",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5567",
+        "rodata": "21",
+        "clube": "America-MG",
+        "atleta": "Gilson Gomes do Nascimento",
+        "minuto": "45+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5585",
+        "rodata": "22",
+        "clube": "America-MG",
+        "atleta": "Danilo Barcelos",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5604",
+        "rodata": "24",
+        "clube": "America-MG",
+        "atleta": "Jonas Jessué da Silva Júnior",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5608",
+        "rodata": "25",
+        "clube": "America-MG",
+        "atleta": "Jonas Jessué da Silva Júnior",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5608",
+        "rodata": "25",
+        "clube": "America-MG",
+        "atleta": "Osman",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5626",
+        "rodata": "26",
+        "clube": "America-MG",
+        "atleta": "Michael Vinicius Silva de Morais",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5629",
+        "rodata": "27",
+        "clube": "America-MG",
+        "atleta": "Jonas Jessué da Silva Júnior",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5686",
+        "rodata": "32",
+        "clube": "America-MG",
+        "atleta": "Éder Lima dos Santos",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5696",
+        "rodata": "33",
+        "clube": "America-MG",
+        "atleta": "Michael Vinicius Silva de Morais",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5727",
+        "rodata": "37",
+        "clube": "America-MG",
+        "atleta": "Danilo Barcelos",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5727",
+        "rodata": "37",
+        "clube": "America-MG",
+        "atleta": "Michael Vinicius Silva de Morais",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6129",
+        "rodata": "1",
+        "clube": "America-MG",
+        "atleta": "Serginho",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6129",
+        "rodata": "1",
+        "clube": "America-MG",
+        "atleta": "Carlos Emiliano Pereira",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6129",
+        "rodata": "1",
+        "clube": "America-MG",
+        "atleta": "Serginho",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6154",
+        "rodata": "3",
+        "clube": "America-MG",
+        "atleta": "Rafael Moura",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6154",
+        "rodata": "3",
+        "clube": "America-MG",
+        "atleta": "Marcos Antônio da Silva Gonçalves",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6156",
+        "rodata": "4",
+        "clube": "America-MG",
+        "atleta": "Rafael Moura",
+        "minuto": "32",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6175",
+        "rodata": "5",
+        "clube": "America-MG",
+        "atleta": "Giovanni",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6175",
+        "rodata": "5",
+        "clube": "America-MG",
+        "atleta": "Giovanni",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6181",
+        "rodata": "6",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6195",
+        "rodata": "7",
+        "clube": "America-MG",
+        "atleta": "Rafael Moura",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6212",
+        "rodata": "9",
+        "clube": "America-MG",
+        "atleta": "Serginho",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6212",
+        "rodata": "9",
+        "clube": "America-MG",
+        "atleta": "Serginho",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6212",
+        "rodata": "9",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6225",
+        "rodata": "10",
+        "clube": "America-MG",
+        "atleta": "Messias Rodrigues da Silva Júnior",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6252",
+        "rodata": "13",
+        "clube": "America-MG",
+        "atleta": "Christian Savio",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6273",
+        "rodata": "15",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6273",
+        "rodata": "15",
+        "clube": "America-MG",
+        "atleta": "Giovanni",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6283",
+        "rodata": "16",
+        "clube": "America-MG",
+        "atleta": "Ruy Franco de Almeida Junior",
+        "minuto": "39",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6300",
+        "rodata": "20",
+        "clube": "America-MG",
+        "atleta": "Luan Michel Louzã",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6300",
+        "rodata": "20",
+        "clube": "America-MG",
+        "atleta": "Rafael Moura",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6332",
+        "rodata": "21",
+        "clube": "America-MG",
+        "atleta": "Gérson Magrão",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6332",
+        "rodata": "21",
+        "clube": "America-MG",
+        "atleta": "Rafael Moura",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6355",
+        "rodata": "23",
+        "clube": "America-MG",
+        "atleta": "Carlos Emiliano Pereira",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6355",
+        "rodata": "23",
+        "clube": "America-MG",
+        "atleta": "Gérson Magrão",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6376",
+        "rodata": "26",
+        "clube": "America-MG",
+        "atleta": "Matheus Leonardo Sales Cardoso",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6416",
+        "rodata": "30",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6439",
+        "rodata": "32",
+        "clube": "America-MG",
+        "atleta": "Rafael Moura",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6470",
+        "rodata": "35",
+        "clube": "America-MG",
+        "atleta": "Rafael Moura",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6470",
+        "rodata": "35",
+        "clube": "America-MG",
+        "atleta": "Matheus Leonardo Sales Cardoso",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6492",
+        "rodata": "37",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7307",
+        "rodata": "5",
+        "clube": "America-MG",
+        "atleta": "Geovane",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7320",
+        "rodata": "6",
+        "clube": "America-MG",
+        "atleta": "Paulo Roberto Valoura Junior",
+        "minuto": "85",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7332",
+        "rodata": "7",
+        "clube": "America-MG",
+        "atleta": "Ribamar",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7339",
+        "rodata": "8",
+        "clube": "America-MG",
+        "atleta": "Ribamar",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7339",
+        "rodata": "8",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7339",
+        "rodata": "8",
+        "clube": "America-MG",
+        "atleta": "Felipe Azevedo",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7339",
+        "rodata": "8",
+        "clube": "America-MG",
+        "atleta": "Paulo Roberto Valoura Junior",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7347",
+        "rodata": "9",
+        "clube": "America-MG",
+        "atleta": "João Paulo Gomes da Costa",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7347",
+        "rodata": "9",
+        "clube": "America-MG",
+        "atleta": "Carlos Alberto",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7386",
+        "rodata": "13",
+        "clube": "America-MG",
+        "atleta": "Felipe Azevedo",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7403",
+        "rodata": "14",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7411",
+        "rodata": "15",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7425",
+        "rodata": "16",
+        "clube": "America-MG",
+        "atleta": "Rodolfo",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7440",
+        "rodata": "18",
+        "clube": "America-MG",
+        "atleta": "Fabrício Daniel de Souza",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7440",
+        "rodata": "18",
+        "clube": "America-MG",
+        "atleta": "Fabrício Daniel de Souza",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7456",
+        "rodata": "20",
+        "clube": "America-MG",
+        "atleta": "Felipe Azevedo",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7456",
+        "rodata": "20",
+        "clube": "America-MG",
+        "atleta": "Lucas Kal",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7473",
+        "rodata": "21",
+        "clube": "America-MG",
+        "atleta": "Marlon",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7479",
+        "rodata": "22",
+        "clube": "America-MG",
+        "atleta": "Alexandre Egea",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7486",
+        "rodata": "23",
+        "clube": "America-MG",
+        "atleta": "Mauro Zárate",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7486",
+        "rodata": "23",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7503",
+        "rodata": "24",
+        "clube": "America-MG",
+        "atleta": "Patric Cabral Lalau",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7503",
+        "rodata": "24",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "90+3",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7512",
+        "rodata": "25",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7523",
+        "rodata": "26",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7536",
+        "rodata": "28",
+        "clube": "America-MG",
+        "atleta": "Alexandre Egea",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7536",
+        "rodata": "28",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "45+4",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7559",
+        "rodata": "29",
+        "clube": "America-MG",
+        "atleta": "Felipe Azevedo",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7559",
+        "rodata": "29",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "42",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7573",
+        "rodata": "31",
+        "clube": "America-MG",
+        "atleta": "Paulo Roberto Valoura Junior",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7573",
+        "rodata": "31",
+        "clube": "America-MG",
+        "atleta": "Alexandre Egea",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7573",
+        "rodata": "31",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7587",
+        "rodata": "32",
+        "clube": "America-MG",
+        "atleta": "Felipe Azevedo",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7587",
+        "rodata": "32",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "45+4",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7587",
+        "rodata": "32",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7617",
+        "rodata": "36",
+        "clube": "America-MG",
+        "atleta": "Eduardo",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7612",
+        "rodata": "35",
+        "clube": "America-MG",
+        "atleta": "Fabrício Daniel de Souza",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7612",
+        "rodata": "35",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "70",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7612",
+        "rodata": "35",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7640",
+        "rodata": "38",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7640",
+        "rodata": "38",
+        "clube": "America-MG",
+        "atleta": "Ademir",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7657",
+        "rodata": "2",
+        "clube": "America-MG",
+        "atleta": "Iago Maidana",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7657",
+        "rodata": "2",
+        "clube": "America-MG",
+        "atleta": "Iago Maidana",
+        "minuto": "19",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7657",
+        "rodata": "2",
+        "clube": "America-MG",
+        "atleta": "Felipe Azevedo",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7657",
+        "rodata": "2",
+        "clube": "America-MG",
+        "atleta": "Pedrinho",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7668",
+        "rodata": "4",
+        "clube": "America-MG",
+        "atleta": "Juan Pablo Ramírez Velásquez",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7686",
+        "rodata": "5",
+        "clube": "America-MG",
+        "atleta": "Raúl Cáceres",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7686",
+        "rodata": "5",
+        "clube": "America-MG",
+        "atleta": "Iago Maidana",
+        "minuto": "7",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7702",
+        "rodata": "7",
+        "clube": "America-MG",
+        "atleta": "Aloísio dos Santos Gonçalves",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7722",
+        "rodata": "8",
+        "clube": "America-MG",
+        "atleta": "Aloísio dos Santos Gonçalves",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7726",
+        "rodata": "9",
+        "clube": "America-MG",
+        "atleta": "Alexandre Egea",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7726",
+        "rodata": "9",
+        "clube": "America-MG",
+        "atleta": "Felipe Azevedo",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7793",
+        "rodata": "15",
+        "clube": "America-MG",
+        "atleta": "Henrique Almeida",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7833",
+        "rodata": "19",
+        "clube": "America-MG",
+        "atleta": "Felipe Azevedo",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7843",
+        "rodata": "20",
+        "clube": "America-MG",
+        "atleta": "Henrique Almeida",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7843",
+        "rodata": "20",
+        "clube": "America-MG",
+        "atleta": "Everaldo",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7843",
+        "rodata": "20",
+        "clube": "America-MG",
+        "atleta": "Everaldo",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7846",
+        "rodata": "21",
+        "clube": "America-MG",
+        "atleta": "Pedrinho",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7864",
+        "rodata": "22",
+        "clube": "America-MG",
+        "atleta": "Pedrinho",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7870",
+        "rodata": "23",
+        "clube": "America-MG",
+        "atleta": "Henrique Almeida",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7881",
+        "rodata": "24",
+        "clube": "America-MG",
+        "atleta": "Henrique Almeida",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7889",
+        "rodata": "25",
+        "clube": "America-MG",
+        "atleta": "Pedrinho",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7889",
+        "rodata": "25",
+        "clube": "America-MG",
+        "atleta": "Matheus Leonardo Sales Cardoso",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7911",
+        "rodata": "27",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7922",
+        "rodata": "28",
+        "clube": "America-MG",
+        "atleta": "Gonzalo Mastriani",
+        "minuto": "90+7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7928",
+        "rodata": "29",
+        "clube": "America-MG",
+        "atleta": "Felipe Azevedo",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7928",
+        "rodata": "29",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7944",
+        "rodata": "30",
+        "clube": "America-MG",
+        "atleta": "Aloísio dos Santos Gonçalves",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7953",
+        "rodata": "31",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7953",
+        "rodata": "31",
+        "clube": "America-MG",
+        "atleta": "Matheus Leonardo Sales Cardoso",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7957",
+        "rodata": "32",
+        "clube": "America-MG",
+        "atleta": "Wellington Paulista",
+        "minuto": "90+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7967",
+        "rodata": "33",
+        "clube": "America-MG",
+        "atleta": "Everaldo",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7981",
+        "rodata": "34",
+        "clube": "America-MG",
+        "atleta": "Aloísio dos Santos Gonçalves",
+        "minuto": "60",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7981",
+        "rodata": "34",
+        "clube": "America-MG",
+        "atleta": "Wellington Paulista",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7990",
+        "rodata": "35",
+        "clube": "America-MG",
+        "atleta": "Alexandre Egea",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7998",
+        "rodata": "36",
+        "clube": "America-MG",
+        "atleta": "Henrique Almeida",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7998",
+        "rodata": "36",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7998",
+        "rodata": "36",
+        "clube": "America-MG",
+        "atleta": "Everaldo",
+        "minuto": "42",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7998",
+        "rodata": "36",
+        "clube": "America-MG",
+        "atleta": "Juninho",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8012",
+        "rodata": "37",
+        "clube": "America-MG",
+        "atleta": "Martín Benítez",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8019",
+        "rodata": "38",
+        "clube": "America-MG",
+        "atleta": "Henrique Almeida",
+        "minuto": "45+8",
+        "tipo_de_gol": ""
+    }
+]

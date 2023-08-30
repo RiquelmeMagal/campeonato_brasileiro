@@ -1,0 +1,1634 @@
+[
+    {
+        "partida_id": "4625",
+        "rodata": "2",
+        "clube": "Goias",
+        "atleta": "Willian José de Souza",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4636",
+        "rodata": "3",
+        "clube": "Goias",
+        "atleta": "David França Oliveira e Silva",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4647",
+        "rodata": "5",
+        "clube": "Goias",
+        "atleta": "Ramón Rodrigo de Freitas",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4647",
+        "rodata": "5",
+        "clube": "Goias",
+        "atleta": "Danilo Lopes Cezario",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4665",
+        "rodata": "6",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4665",
+        "rodata": "6",
+        "clube": "Goias",
+        "atleta": "Alex Alves Cardoso",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4670",
+        "rodata": "7",
+        "clube": "Goias",
+        "atleta": "Jackson de Souza",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4731",
+        "rodata": "12",
+        "clube": "Goias",
+        "atleta": "Bruno Mineiro",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4731",
+        "rodata": "12",
+        "clube": "Goias",
+        "atleta": "Willian José de Souza",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4775",
+        "rodata": "16",
+        "clube": "Goias",
+        "atleta": "Thiago Henrique Mendes Ribeiro",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4775",
+        "rodata": "16",
+        "clube": "Goias",
+        "atleta": "Jackson de Souza",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4795",
+        "rodata": "18",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4795",
+        "rodata": "18",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4795",
+        "rodata": "18",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4812",
+        "rodata": "20",
+        "clube": "Goias",
+        "atleta": "Samuel",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4835",
+        "rodata": "22",
+        "clube": "Goias",
+        "atleta": "Jackson de Souza",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4835",
+        "rodata": "22",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4845",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4845",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "David França Oliveira e Silva",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4845",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "Ramón Rodrigo de Freitas",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4845",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "Thiago Henrique Mendes Ribeiro",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4845",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "Esquerdinha",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4845",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "Welinton Júnior",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4876",
+        "rodata": "26",
+        "clube": "Goias",
+        "atleta": "Ramón Rodrigo de Freitas",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4880",
+        "rodata": "27",
+        "clube": "Goias",
+        "atleta": "Bruno Mineiro",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4880",
+        "rodata": "27",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4698",
+        "rodata": "28",
+        "clube": "Goias",
+        "atleta": "Jackson de Souza",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4698",
+        "rodata": "28",
+        "clube": "Goias",
+        "atleta": "David França Oliveira e Silva",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4698",
+        "rodata": "28",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4906",
+        "rodata": "30",
+        "clube": "Goias",
+        "atleta": "Esquerdinha",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4936",
+        "rodata": "33",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4936",
+        "rodata": "33",
+        "clube": "Goias",
+        "atleta": "Thiago Henrique Mendes Ribeiro",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4936",
+        "rodata": "33",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4962",
+        "rodata": "36",
+        "clube": "Goias",
+        "atleta": "Samuel",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4986",
+        "rodata": "38",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4986",
+        "rodata": "38",
+        "clube": "Goias",
+        "atleta": "Welinton Júnior",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4986",
+        "rodata": "38",
+        "clube": "Goias",
+        "atleta": "David França Oliveira e Silva",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4986",
+        "rodata": "38",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4997",
+        "rodata": "2",
+        "clube": "Goias",
+        "atleta": "Bruno Henrique",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4997",
+        "rodata": "2",
+        "clube": "Goias",
+        "atleta": "Bruno Henrique",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5010",
+        "rodata": "3",
+        "clube": "Goias",
+        "atleta": "Victor Ramos",
+        "minuto": "76",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5021",
+        "rodata": "4",
+        "clube": "Goias",
+        "atleta": "Rodrigo Vasconcelos Oliveira",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5063",
+        "rodata": "8",
+        "clube": "Goias",
+        "atleta": "Wesley",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5072",
+        "rodata": "9",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5085",
+        "rodata": "10",
+        "clube": "Goias",
+        "atleta": "Felipe Menezes",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5098",
+        "rodata": "12",
+        "clube": "Goias",
+        "atleta": "Felipe Menezes",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5098",
+        "rodata": "12",
+        "clube": "Goias",
+        "atleta": "Fred",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5098",
+        "rodata": "12",
+        "clube": "Goias",
+        "atleta": "Felipe Menezes",
+        "minuto": "48",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5098",
+        "rodata": "12",
+        "clube": "Goias",
+        "atleta": "Carlos Eduardo Ferreira de Souza",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5117",
+        "rodata": "14",
+        "clube": "Goias",
+        "atleta": "Felipe Menezes",
+        "minuto": "80",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5140",
+        "rodata": "16",
+        "clube": "Goias",
+        "atleta": "Liniker da Silva Moreira",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5169",
+        "rodata": "19",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5169",
+        "rodata": "19",
+        "clube": "Goias",
+        "atleta": "Felipe Menezes",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5169",
+        "rodata": "19",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5177",
+        "rodata": "20",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "17",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5177",
+        "rodata": "20",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "77",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5177",
+        "rodata": "20",
+        "clube": "Goias",
+        "atleta": "Zé Love",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5204",
+        "rodata": "22",
+        "clube": "Goias",
+        "atleta": "Bruno Henrique",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5212",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "Bruno Henrique",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5224",
+        "rodata": "24",
+        "clube": "Goias",
+        "atleta": "Carlos Eduardo Ferreira de Souza",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5235",
+        "rodata": "25",
+        "clube": "Goias",
+        "atleta": "Bruno Henrique",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5239",
+        "rodata": "26",
+        "clube": "Goias",
+        "atleta": "Fred",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5250",
+        "rodata": "27",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "73",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5250",
+        "rodata": "27",
+        "clube": "Goias",
+        "atleta": "Fred",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5250",
+        "rodata": "27",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5274",
+        "rodata": "29",
+        "clube": "Goias",
+        "atleta": "Leandro Silva",
+        "minuto": "67",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5274",
+        "rodata": "29",
+        "clube": "Goias",
+        "atleta": "Zé Love",
+        "minuto": "45+5",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5295",
+        "rodata": "31",
+        "clube": "Goias",
+        "atleta": "David França Oliveira e Silva",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5316",
+        "rodata": "33",
+        "clube": "Goias",
+        "atleta": "Bruno Henrique",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5316",
+        "rodata": "33",
+        "clube": "Goias",
+        "atleta": "Zé Love",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5322",
+        "rodata": "34",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5328",
+        "rodata": "35",
+        "clube": "Goias",
+        "atleta": "Fred",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5339",
+        "rodata": "36",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5339",
+        "rodata": "36",
+        "clube": "Goias",
+        "atleta": "Bruno Henrique",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5353",
+        "rodata": "37",
+        "clube": "Goias",
+        "atleta": "Fred",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5353",
+        "rodata": "37",
+        "clube": "Goias",
+        "atleta": "Fred",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5353",
+        "rodata": "37",
+        "clube": "Goias",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "29",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6515",
+        "rodata": "1",
+        "clube": "Goias",
+        "atleta": "Rafael Vaz",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6521",
+        "rodata": "2",
+        "clube": "Goias",
+        "atleta": "Leandro Barcia Montero",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6533",
+        "rodata": "3",
+        "clube": "Goias",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6538",
+        "rodata": "4",
+        "clube": "Goias",
+        "atleta": "Leandro Barcia Montero",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6538",
+        "rodata": "4",
+        "clube": "Goias",
+        "atleta": "Jonathan Marlone",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6552",
+        "rodata": "5",
+        "clube": "Goias",
+        "atleta": "Kayke Moreno",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6585",
+        "rodata": "8",
+        "clube": "Goias",
+        "atleta": "Kayke Moreno",
+        "minuto": "37",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6585",
+        "rodata": "8",
+        "clube": "Goias",
+        "atleta": "Jefferson",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6585",
+        "rodata": "8",
+        "clube": "Goias",
+        "atleta": "Kayke Moreno",
+        "minuto": "90+2",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6595",
+        "rodata": "9",
+        "clube": "Goias",
+        "atleta": "Leandro Barcia Montero",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6595",
+        "rodata": "9",
+        "clube": "Goias",
+        "atleta": "Kayke Moreno",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6600",
+        "rodata": "10",
+        "clube": "Goias",
+        "atleta": "Kayke Moreno",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6628",
+        "rodata": "13",
+        "clube": "Goias",
+        "atleta": "Kayke Moreno",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6653",
+        "rodata": "15",
+        "clube": "Goias",
+        "atleta": "Fábio Sanches",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6658",
+        "rodata": "16",
+        "clube": "Goias",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6658",
+        "rodata": "16",
+        "clube": "Goias",
+        "atleta": "Rafael Vaz",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6681",
+        "rodata": "18",
+        "clube": "Goias",
+        "atleta": "Rafael Vaz",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6704",
+        "rodata": "20",
+        "clube": "Goias",
+        "atleta": "Yago Rocha",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6704",
+        "rodata": "20",
+        "clube": "Goias",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6704",
+        "rodata": "20",
+        "clube": "Goias",
+        "atleta": "Rafael Vaz",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6709",
+        "rodata": "21",
+        "clube": "Goias",
+        "atleta": "Leandro Barcia Montero",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6725",
+        "rodata": "22",
+        "clube": "Goias",
+        "atleta": "Alan Ruschel",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6732",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6737",
+        "rodata": "24",
+        "clube": "Goias",
+        "atleta": "Marcelo da Conceição Benevenuto Malaquias",
+        "minuto": "77",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6746",
+        "rodata": "25",
+        "clube": "Goias",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6761",
+        "rodata": "26",
+        "clube": "Goias",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6761",
+        "rodata": "26",
+        "clube": "Goias",
+        "atleta": "Leandro Barcia Montero",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6772",
+        "rodata": "27",
+        "clube": "Goias",
+        "atleta": "Rafael Vaz",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6772",
+        "rodata": "27",
+        "clube": "Goias",
+        "atleta": "Rafael Diniz Alves e Silva",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6781",
+        "rodata": "28",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6793",
+        "rodata": "29",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6793",
+        "rodata": "29",
+        "clube": "Goias",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6805",
+        "rodata": "30",
+        "clube": "Goias",
+        "atleta": "Thalles",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6805",
+        "rodata": "30",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "90+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6844",
+        "rodata": "33",
+        "clube": "Goias",
+        "atleta": "Oswaldo José Henríquez Bocanegra",
+        "minuto": "90+7",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6830",
+        "rodata": "34",
+        "clube": "Goias",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6830",
+        "rodata": "34",
+        "clube": "Goias",
+        "atleta": "Gilberto dos Santos Souza Júnior",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6830",
+        "rodata": "34",
+        "clube": "Goias",
+        "atleta": "Jonathan Marlone",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6830",
+        "rodata": "34",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6846",
+        "rodata": "35",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6846",
+        "rodata": "35",
+        "clube": "Goias",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6860",
+        "rodata": "36",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6873",
+        "rodata": "37",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "27",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6882",
+        "rodata": "38",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6882",
+        "rodata": "38",
+        "clube": "Goias",
+        "atleta": "Yago Rocha",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6882",
+        "rodata": "38",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6896",
+        "rodata": "2",
+        "clube": "Goias",
+        "atleta": "Daniel Bessa",
+        "minuto": "45+13",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6908",
+        "rodata": "3",
+        "clube": "Goias",
+        "atleta": "Rafael Vaz",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6919",
+        "rodata": "4",
+        "clube": "Goias",
+        "atleta": "Jefferson",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6928",
+        "rodata": "5",
+        "clube": "Goias",
+        "atleta": "Daniel Bessa",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6928",
+        "rodata": "5",
+        "clube": "Goias",
+        "atleta": "Victor Andrade",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6958",
+        "rodata": "7",
+        "clube": "Goias",
+        "atleta": "Vinícius Lopes",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6974",
+        "rodata": "8",
+        "clube": "Goias",
+        "atleta": "Elton Rodrigues Brandão",
+        "minuto": "68",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6978",
+        "rodata": "9",
+        "clube": "Goias",
+        "atleta": "Sabino",
+        "minuto": "83",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6978",
+        "rodata": "9",
+        "clube": "Goias",
+        "atleta": "Ignacio Jara",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6978",
+        "rodata": "9",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "45",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6993",
+        "rodata": "10",
+        "clube": "Goias",
+        "atleta": "Vinícius Lopes",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7002",
+        "rodata": "12",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7002",
+        "rodata": "12",
+        "clube": "Goias",
+        "atleta": "David Duarte",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7013",
+        "rodata": "13",
+        "clube": "Goias",
+        "atleta": "Victor Andrade",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7013",
+        "rodata": "13",
+        "clube": "Goias",
+        "atleta": "Vinícius Lopes",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7021",
+        "rodata": "14",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "67",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7021",
+        "rodata": "14",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6945",
+        "rodata": "11",
+        "clube": "Goias",
+        "atleta": "Vinícius Lopes",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7043",
+        "rodata": "16",
+        "clube": "Goias",
+        "atleta": "Vinícius Lopes",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7073",
+        "rodata": "19",
+        "clube": "Goias",
+        "atleta": "Shaylon",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7077",
+        "rodata": "20",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7099",
+        "rodata": "22",
+        "clube": "Goias",
+        "atleta": "Miguel Figueira",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7108",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6955",
+        "rodata": "6",
+        "clube": "Goias",
+        "atleta": "João Marcos Lima Candido",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7125",
+        "rodata": "24",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7145",
+        "rodata": "26",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7147",
+        "rodata": "27",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7158",
+        "rodata": "28",
+        "clube": "Goias",
+        "atleta": "Fábio Sanches",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7158",
+        "rodata": "28",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7203",
+        "rodata": "32",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "76",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7203",
+        "rodata": "32",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7203",
+        "rodata": "32",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7203",
+        "rodata": "32",
+        "clube": "Goias",
+        "atleta": "David Duarte",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7219",
+        "rodata": "34",
+        "clube": "Goias",
+        "atleta": "Eduardo Figueiredo da Cruz",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7226",
+        "rodata": "35",
+        "clube": "Goias",
+        "atleta": "Vinícius Lopes",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7226",
+        "rodata": "35",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7226",
+        "rodata": "35",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7236",
+        "rodata": "36",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7236",
+        "rodata": "36",
+        "clube": "Goias",
+        "atleta": "Rafael Moura",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7264",
+        "rodata": "38",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7264",
+        "rodata": "38",
+        "clube": "Goias",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "45+7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7656",
+        "rodata": "2",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7684",
+        "rodata": "3",
+        "clube": "Goias",
+        "atleta": "Élvis Vieira Araújo",
+        "minuto": "88",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7684",
+        "rodata": "3",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7669",
+        "rodata": "4",
+        "clube": "Goias",
+        "atleta": "Élvis Vieira Araújo",
+        "minuto": "80",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7669",
+        "rodata": "4",
+        "clube": "Goias",
+        "atleta": "Apodi",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7690",
+        "rodata": "5",
+        "clube": "Goias",
+        "atleta": "Élvis Vieira Araújo",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7715",
+        "rodata": "6",
+        "clube": "Goias",
+        "atleta": "Élvis Vieira Araújo",
+        "minuto": "19",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7716",
+        "rodata": "8",
+        "clube": "Goias",
+        "atleta": "Nicolas Godinho Johann",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7735",
+        "rodata": "9",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7735",
+        "rodata": "9",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7745",
+        "rodata": "10",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7751",
+        "rodata": "11",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "85",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7759",
+        "rodata": "12",
+        "clube": "Goias",
+        "atleta": "Da Silva",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7783",
+        "rodata": "14",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7798",
+        "rodata": "16",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7798",
+        "rodata": "16",
+        "clube": "Goias",
+        "atleta": "Nicolas Godinho Johann",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7818",
+        "rodata": "18",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7818",
+        "rodata": "18",
+        "clube": "Goias",
+        "atleta": "Nicolas Godinho Johann",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7826",
+        "rodata": "19",
+        "clube": "Goias",
+        "atleta": "Dada",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7826",
+        "rodata": "19",
+        "clube": "Goias",
+        "atleta": "Danilo Cardoso",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7826",
+        "rodata": "19",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7836",
+        "rodata": "20",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7856",
+        "rodata": "22",
+        "clube": "Goias",
+        "atleta": "Dada",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7866",
+        "rodata": "23",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7876",
+        "rodata": "24",
+        "clube": "Goias",
+        "atleta": "João Victor Andrade Caetano",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7876",
+        "rodata": "24",
+        "clube": "Goias",
+        "atleta": "Marquinhos",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7895",
+        "rodata": "25",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7895",
+        "rodata": "25",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7905",
+        "rodata": "26",
+        "clube": "Goias",
+        "atleta": "Diego",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7908",
+        "rodata": "27",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "55",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7938",
+        "rodata": "30",
+        "clube": "Goias",
+        "atleta": "Nicolas Godinho Johann",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7948",
+        "rodata": "31",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "33",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7948",
+        "rodata": "31",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "45+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7974",
+        "rodata": "33",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7974",
+        "rodata": "33",
+        "clube": "Goias",
+        "atleta": "Vinícius Santos Silva",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7981",
+        "rodata": "34",
+        "clube": "Goias",
+        "atleta": "Diego",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7981",
+        "rodata": "34",
+        "clube": "Goias",
+        "atleta": "Vinícius Santos Silva",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7989",
+        "rodata": "35",
+        "clube": "Goias",
+        "atleta": "Pedro Raúl",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7989",
+        "rodata": "35",
+        "clube": "Goias",
+        "atleta": "Yan Souto",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7999",
+        "rodata": "36",
+        "clube": "Goias",
+        "atleta": "Nicolas Godinho Johann",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    }
+]

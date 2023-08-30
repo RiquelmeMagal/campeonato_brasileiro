@@ -1,0 +1,2138 @@
+[
+    {
+        "partida_id": "4612",
+        "rodata": "1",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4612",
+        "rodata": "1",
+        "clube": "Cruzeiro",
+        "atleta": "Nílton Ferreira Júnior",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4622",
+        "rodata": "2",
+        "clube": "Cruzeiro",
+        "atleta": "Júlio Baptista",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4628",
+        "rodata": "3",
+        "clube": "Cruzeiro",
+        "atleta": "Nílton Ferreira Júnior",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4628",
+        "rodata": "3",
+        "clube": "Cruzeiro",
+        "atleta": "Elierce Barbosa de Souza",
+        "minuto": "75",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4628",
+        "rodata": "3",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4642",
+        "rodata": "4",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4648",
+        "rodata": "5",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4648",
+        "rodata": "5",
+        "clube": "Cruzeiro",
+        "atleta": "Borges",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4648",
+        "rodata": "5",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4659",
+        "rodata": "6",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4659",
+        "rodata": "6",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4673",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4673",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4673",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4692",
+        "rodata": "9",
+        "clube": "Cruzeiro",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4692",
+        "rodata": "9",
+        "clube": "Cruzeiro",
+        "atleta": "Borges",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4692",
+        "rodata": "9",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4715",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4715",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4715",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Berger",
+        "minuto": "62",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "4722",
+        "rodata": "11",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4722",
+        "rodata": "11",
+        "clube": "Cruzeiro",
+        "atleta": "Manoel Messias Silva Carvalho",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4728",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Lucas Silva Borges",
+        "minuto": "41",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4728",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4728",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Dagoberto Pelentier",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4728",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Marcos Antônio da Silva Gonçalves",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4728",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Dedé",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4737",
+        "rodata": "13",
+        "clube": "Cruzeiro",
+        "atleta": "Leonardo Renan Simões de Lacerda",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4762",
+        "rodata": "15",
+        "clube": "Cruzeiro",
+        "atleta": "Júlio Baptista",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4762",
+        "rodata": "15",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4762",
+        "rodata": "15",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4776",
+        "rodata": "16",
+        "clube": "Cruzeiro",
+        "atleta": "Dagoberto Pelentier",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4785",
+        "rodata": "17",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4788",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4788",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Leonardo Renan Simões de Lacerda",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4788",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4788",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4803",
+        "rodata": "19",
+        "clube": "Cruzeiro",
+        "atleta": "Júlio Baptista",
+        "minuto": "14",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4803",
+        "rodata": "19",
+        "clube": "Cruzeiro",
+        "atleta": "Júlio Baptista",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4803",
+        "rodata": "19",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4816",
+        "rodata": "20",
+        "clube": "Cruzeiro",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "54",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4816",
+        "rodata": "20",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4828",
+        "rodata": "22",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4828",
+        "rodata": "22",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4839",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4839",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4848",
+        "rodata": "24",
+        "clube": "Cruzeiro",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4848",
+        "rodata": "24",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "8",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4874",
+        "rodata": "26",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4874",
+        "rodata": "26",
+        "clube": "Cruzeiro",
+        "atleta": "Marcos Antônio da Silva Gonçalves",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4895",
+        "rodata": "29",
+        "clube": "Cruzeiro",
+        "atleta": "Dedé",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4901",
+        "rodata": "30",
+        "clube": "Cruzeiro",
+        "atleta": "Dagoberto Pelentier",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4907",
+        "rodata": "31",
+        "clube": "Cruzeiro",
+        "atleta": "Marcos Antônio da Silva Gonçalves",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4922",
+        "rodata": "32",
+        "clube": "Cruzeiro",
+        "atleta": "Marcos Antônio da Silva Gonçalves",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4922",
+        "rodata": "32",
+        "clube": "Cruzeiro",
+        "atleta": "Egídio de Araújo Pereira Júnior",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4935",
+        "rodata": "33",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4935",
+        "rodata": "33",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4935",
+        "rodata": "33",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4952",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4946",
+        "rodata": "35",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4946",
+        "rodata": "35",
+        "clube": "Cruzeiro",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4962",
+        "rodata": "36",
+        "clube": "Cruzeiro",
+        "atleta": "Ricardo Goulart",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4962",
+        "rodata": "36",
+        "clube": "Cruzeiro",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4973",
+        "rodata": "37",
+        "clube": "Cruzeiro",
+        "atleta": "Hugo Ragelli",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4985",
+        "rodata": "38",
+        "clube": "Cruzeiro",
+        "atleta": "Nílton Ferreira Júnior",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4985",
+        "rodata": "38",
+        "clube": "Cruzeiro",
+        "atleta": "Marcelo Moreno",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5015",
+        "rodata": "3",
+        "clube": "Cruzeiro",
+        "atleta": "Charles Fernando Basílio da Silva",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5026",
+        "rodata": "4",
+        "clube": "Cruzeiro",
+        "atleta": "Henrique Pacheco Lima",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5031",
+        "rodata": "5",
+        "clube": "Cruzeiro",
+        "atleta": "Manoel Messias Silva Carvalho",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5037",
+        "rodata": "6",
+        "clube": "Cruzeiro",
+        "atleta": "Jemerson de Jesus Nascimento",
+        "minuto": "45+2",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5037",
+        "rodata": "6",
+        "clube": "Cruzeiro",
+        "atleta": "Gabriel Xavier",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5037",
+        "rodata": "6",
+        "clube": "Cruzeiro",
+        "atleta": "Marcos Antônio da Silva Gonçalves",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5052",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Leandro Damião",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5052",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Leandro Damião",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5052",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Charles Fernando Basílio da Silva",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5089",
+        "rodata": "11",
+        "clube": "Cruzeiro",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5089",
+        "rodata": "11",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5114",
+        "rodata": "13",
+        "clube": "Cruzeiro",
+        "atleta": "Joel Tagueu",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5125",
+        "rodata": "14",
+        "clube": "Cruzeiro",
+        "atleta": "Marcos Vinícius de Jesus Araújo",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5152",
+        "rodata": "17",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5152",
+        "rodata": "17",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5198",
+        "rodata": "22",
+        "clube": "Cruzeiro",
+        "atleta": "Willians Domingos Fernandes",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5198",
+        "rodata": "22",
+        "clube": "Cruzeiro",
+        "atleta": "Vinícius Vasconcelos Araújo",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5210",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5210",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5210",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Vinícius Vasconcelos Araújo",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5210",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5210",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5231",
+        "rodata": "25",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5244",
+        "rodata": "26",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5244",
+        "rodata": "26",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5255",
+        "rodata": "27",
+        "clube": "Cruzeiro",
+        "atleta": "Fabiano",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5255",
+        "rodata": "27",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Lima",
+        "minuto": "24",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5266",
+        "rodata": "28",
+        "clube": "Cruzeiro",
+        "atleta": "Ceará",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5266",
+        "rodata": "28",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5283",
+        "rodata": "30",
+        "clube": "Cruzeiro",
+        "atleta": "Fabrício dos Santos Silva",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5283",
+        "rodata": "30",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5290",
+        "rodata": "31",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5290",
+        "rodata": "31",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5305",
+        "rodata": "32",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5308",
+        "rodata": "33",
+        "clube": "Cruzeiro",
+        "atleta": "Leandro Damião",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5323",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Leandro Damião",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5323",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5327",
+        "rodata": "35",
+        "clube": "Cruzeiro",
+        "atleta": "Marcos Vinícius de Jesus Araújo",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5327",
+        "rodata": "35",
+        "clube": "Cruzeiro",
+        "atleta": "Durval",
+        "minuto": "61",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5327",
+        "rodata": "35",
+        "clube": "Cruzeiro",
+        "atleta": "Willians Domingos Fernandes",
+        "minuto": "59",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5337",
+        "rodata": "36",
+        "clube": "Cruzeiro",
+        "atleta": "Marcos Vinícius de Jesus Araújo",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5351",
+        "rodata": "37",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5351",
+        "rodata": "37",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5351",
+        "rodata": "37",
+        "clube": "Cruzeiro",
+        "atleta": "Charles Fernando Basílio da Silva",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5379",
+        "rodata": "2",
+        "clube": "Cruzeiro",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5379",
+        "rodata": "2",
+        "clube": "Cruzeiro",
+        "atleta": "Douglas Coutinho",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5391",
+        "rodata": "3",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5397",
+        "rodata": "4",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5413",
+        "rodata": "5",
+        "clube": "Cruzeiro",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5433",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5433",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Duvier Riascos",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5433",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Bruno Rodrigo",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5458",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "55",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5458",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Henrique Pacheco Lima",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5458",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "78",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5458",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5467",
+        "rodata": "11",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5467",
+        "rodata": "11",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5481",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Matías Pisano",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5481",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Fabrício Bruno",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5489",
+        "rodata": "13",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5489",
+        "rodata": "13",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5523",
+        "rodata": "16",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5544",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5544",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5544",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5544",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5555",
+        "rodata": "19",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5561",
+        "rodata": "20",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael da Silva Francisco",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5561",
+        "rodata": "20",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5575",
+        "rodata": "21",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5575",
+        "rodata": "21",
+        "clube": "Cruzeiro",
+        "atleta": "Henrique Pacheco Lima",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5578",
+        "rodata": "22",
+        "clube": "Cruzeiro",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5578",
+        "rodata": "22",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5595",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5595",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5619",
+        "rodata": "26",
+        "clube": "Cruzeiro",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5634",
+        "rodata": "27",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael da Silva Francisco",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5643",
+        "rodata": "28",
+        "clube": "Cruzeiro",
+        "atleta": "Henrique Pacheco Lima",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5653",
+        "rodata": "29",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5653",
+        "rodata": "29",
+        "clube": "Cruzeiro",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5680",
+        "rodata": "32",
+        "clube": "Cruzeiro",
+        "atleta": "Ariel Cabral",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5701",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5701",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5701",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5701",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5710",
+        "rodata": "35",
+        "clube": "Cruzeiro",
+        "atleta": "Henrique Pacheco Lima",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5718",
+        "rodata": "36",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5718",
+        "rodata": "36",
+        "clube": "Cruzeiro",
+        "atleta": "Manoel Messias Silva Carvalho",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5741",
+        "rodata": "38",
+        "clube": "Cruzeiro",
+        "atleta": "Ezequiel",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5741",
+        "rodata": "38",
+        "clube": "Cruzeiro",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5741",
+        "rodata": "38",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5749",
+        "rodata": "1",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5764",
+        "rodata": "2",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5771",
+        "rodata": "3",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5803",
+        "rodata": "6",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "80",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5803",
+        "rodata": "6",
+        "clube": "Cruzeiro",
+        "atleta": "Ramón Ábila",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5825",
+        "rodata": "8",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5825",
+        "rodata": "8",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5825",
+        "rodata": "8",
+        "clube": "Cruzeiro",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5841",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5841",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5850",
+        "rodata": "11",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5862",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5862",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Hudson",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5862",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5870",
+        "rodata": "13",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5870",
+        "rodata": "13",
+        "clube": "Cruzeiro",
+        "atleta": "Lucas Romero",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5881",
+        "rodata": "14",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5893",
+        "rodata": "15",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5925",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "19",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5925",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5925",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5938",
+        "rodata": "20",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5938",
+        "rodata": "20",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5951",
+        "rodata": "21",
+        "clube": "Cruzeiro",
+        "atleta": "Raniel",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5951",
+        "rodata": "21",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5962",
+        "rodata": "22",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael da Silva Francisco",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5973",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael da Silva Francisco",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5973",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Raniel",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5984",
+        "rodata": "24",
+        "clube": "Cruzeiro",
+        "atleta": "Leonardo Renan Simões de Lacerda",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5991",
+        "rodata": "25",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5991",
+        "rodata": "25",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5999",
+        "rodata": "26",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael da Silva Francisco",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6006",
+        "rodata": "28",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6006",
+        "rodata": "28",
+        "clube": "Cruzeiro",
+        "atleta": "Manoel Messias Silva Carvalho",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6019",
+        "rodata": "27",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6042",
+        "rodata": "30",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6055",
+        "rodata": "31",
+        "clube": "Cruzeiro",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6055",
+        "rodata": "31",
+        "clube": "Cruzeiro",
+        "atleta": "José Carlos Ferreira Júnior",
+        "minuto": "6",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6061",
+        "rodata": "32",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6083",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6083",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Lucas Romero",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6083",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Diogo Barbosa",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6087",
+        "rodata": "35",
+        "clube": "Cruzeiro",
+        "atleta": "Judivan",
+        "minuto": "78",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6087",
+        "rodata": "35",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6098",
+        "rodata": "36",
+        "clube": "Cruzeiro",
+        "atleta": "Alisson Euler de Freitas Castro",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6117",
+        "rodata": "38",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6117",
+        "rodata": "38",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6160",
+        "rodata": "4",
+        "clube": "Cruzeiro",
+        "atleta": "Dedé",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6167",
+        "rodata": "5",
+        "clube": "Cruzeiro",
+        "atleta": "Dedé",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6167",
+        "rodata": "5",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6192",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Bruno César Pereira da Silva",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6202",
+        "rodata": "8",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6214",
+        "rodata": "9",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6222",
+        "rodata": "10",
+        "clube": "Cruzeiro",
+        "atleta": "Raniel",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6240",
+        "rodata": "12",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "65",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6252",
+        "rodata": "13",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6252",
+        "rodata": "13",
+        "clube": "Cruzeiro",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6252",
+        "rodata": "13",
+        "clube": "Cruzeiro",
+        "atleta": "Raniel",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6263",
+        "rodata": "14",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6263",
+        "rodata": "14",
+        "clube": "Cruzeiro",
+        "atleta": "Hernán Barcos",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6289",
+        "rodata": "17",
+        "clube": "Cruzeiro",
+        "atleta": "Manoel Messias Silva Carvalho",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6322",
+        "rodata": "19",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6302",
+        "rodata": "20",
+        "clube": "Cruzeiro",
+        "atleta": "Bruno César Pereira da Silva",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6329",
+        "rodata": "21",
+        "clube": "Cruzeiro",
+        "atleta": "Ayrton Lucas Dantas de Medeiros",
+        "minuto": "73",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6329",
+        "rodata": "21",
+        "clube": "Cruzeiro",
+        "atleta": "Raniel",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6347",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Edílson Mendes Guimarães",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6383",
+        "rodata": "26",
+        "clube": "Cruzeiro",
+        "atleta": "Raniel",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6383",
+        "rodata": "26",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6389",
+        "rodata": "27",
+        "clube": "Cruzeiro",
+        "atleta": "Federico Mancuello",
+        "minuto": "31",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6423",
+        "rodata": "30",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6423",
+        "rodata": "30",
+        "clube": "Cruzeiro",
+        "atleta": "Dedé",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6423",
+        "rodata": "30",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6433",
+        "rodata": "31",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6433",
+        "rodata": "31",
+        "clube": "Cruzeiro",
+        "atleta": "Rafael Sóbis",
+        "minuto": "48",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6433",
+        "rodata": "31",
+        "clube": "Cruzeiro",
+        "atleta": "Fred",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6439",
+        "rodata": "32",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "50",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6439",
+        "rodata": "32",
+        "clube": "Cruzeiro",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6461",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "David Corrêa da Fonseca",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6481",
+        "rodata": "36",
+        "clube": "Cruzeiro",
+        "atleta": "Fred",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6481",
+        "rodata": "36",
+        "clube": "Cruzeiro",
+        "atleta": "Fred",
+        "minuto": "55",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6481",
+        "rodata": "36",
+        "clube": "Cruzeiro",
+        "atleta": "Aderlan Santos",
+        "minuto": "43",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6509",
+        "rodata": "1",
+        "clube": "Cruzeiro",
+        "atleta": "Pedro Rocha Neves",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6519",
+        "rodata": "2",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6533",
+        "rodata": "3",
+        "clube": "Cruzeiro",
+        "atleta": "Dedé",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6533",
+        "rodata": "3",
+        "clube": "Cruzeiro",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6542",
+        "rodata": "4",
+        "clube": "Cruzeiro",
+        "atleta": "Dedé",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6546",
+        "rodata": "5",
+        "clube": "Cruzeiro",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6561",
+        "rodata": "6",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6571",
+        "rodata": "7",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6587",
+        "rodata": "9",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6642",
+        "rodata": "14",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6642",
+        "rodata": "14",
+        "clube": "Cruzeiro",
+        "atleta": "Pedro Rocha Neves",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6654",
+        "rodata": "15",
+        "clube": "Cruzeiro",
+        "atleta": "Fred",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6654",
+        "rodata": "15",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6663",
+        "rodata": "16",
+        "clube": "Cruzeiro",
+        "atleta": "Fred",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6673",
+        "rodata": "17",
+        "clube": "Cruzeiro",
+        "atleta": "Maurício",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6682",
+        "rodata": "18",
+        "clube": "Cruzeiro",
+        "atleta": "Fred",
+        "minuto": "37",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6697",
+        "rodata": "20",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "38",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6730",
+        "rodata": "23",
+        "clube": "Cruzeiro",
+        "atleta": "Fred",
+        "minuto": "63",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6755",
+        "rodata": "25",
+        "clube": "Cruzeiro",
+        "atleta": "Dedé",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6759",
+        "rodata": "26",
+        "clube": "Cruzeiro",
+        "atleta": "Thiago Neves",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6767",
+        "rodata": "27",
+        "clube": "Cruzeiro",
+        "atleta": "Fred",
+        "minuto": "38",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6767",
+        "rodata": "27",
+        "clube": "Cruzeiro",
+        "atleta": "Éderson",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6780",
+        "rodata": "28",
+        "clube": "Cruzeiro",
+        "atleta": "Luis Manuel Orejuela",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6795",
+        "rodata": "29",
+        "clube": "Cruzeiro",
+        "atleta": "Carlos de Menezes Júnior",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6795",
+        "rodata": "29",
+        "clube": "Cruzeiro",
+        "atleta": "Éderson",
+        "minuto": "90+7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6804",
+        "rodata": "30",
+        "clube": "Cruzeiro",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6827",
+        "rodata": "34",
+        "clube": "Cruzeiro",
+        "atleta": "Luis Manuel Orejuela",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    }
+]

@@ -1,0 +1,226 @@
+[
+    {
+        "partida_id": "4616",
+        "rodata": "1",
+        "clube": "Criciuma",
+        "atleta": "Paulo Baier",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4631",
+        "rodata": "3",
+        "clube": "Criciuma",
+        "atleta": "Silvinho",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4660",
+        "rodata": "6",
+        "clube": "Criciuma",
+        "atleta": "Silvinho",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4677",
+        "rodata": "8",
+        "clube": "Criciuma",
+        "atleta": "Fábio Ferreira",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4710",
+        "rodata": "10",
+        "clube": "Criciuma",
+        "atleta": "Sérgio Antônio Borges Júnior",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4710",
+        "rodata": "10",
+        "clube": "Criciuma",
+        "atleta": "Paulo Baier",
+        "minuto": "40",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4710",
+        "rodata": "10",
+        "clube": "Criciuma",
+        "atleta": "Paulo Baier",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4729",
+        "rodata": "12",
+        "clube": "Criciuma",
+        "atleta": "Sérgio Antônio Borges Júnior",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4738",
+        "rodata": "13",
+        "clube": "Criciuma",
+        "atleta": "Rodrigo Souza",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4826",
+        "rodata": "21",
+        "clube": "Criciuma",
+        "atleta": "Luís Felipe Dias do Nascimento",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4830",
+        "rodata": "22",
+        "clube": "Criciuma",
+        "atleta": "Silvinho",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4838",
+        "rodata": "23",
+        "clube": "Criciuma",
+        "atleta": "Paulo Baier",
+        "minuto": "68",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4857",
+        "rodata": "25",
+        "clube": "Criciuma",
+        "atleta": "Souza",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4875",
+        "rodata": "26",
+        "clube": "Criciuma",
+        "atleta": "Rafael Pereira dos Santos",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4875",
+        "rodata": "26",
+        "clube": "Criciuma",
+        "atleta": "Souza",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4875",
+        "rodata": "26",
+        "clube": "Criciuma",
+        "atleta": "Souza",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4706",
+        "rodata": "28",
+        "clube": "Criciuma",
+        "atleta": "Joílson de Jesus Cardoso",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4706",
+        "rodata": "28",
+        "clube": "Criciuma",
+        "atleta": "Rodrigo Souza",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4706",
+        "rodata": "28",
+        "clube": "Criciuma",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4889",
+        "rodata": "29",
+        "clube": "Criciuma",
+        "atleta": "Ronaldo Alves",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4889",
+        "rodata": "29",
+        "clube": "Criciuma",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4910",
+        "rodata": "31",
+        "clube": "Criciuma",
+        "atleta": "Rodrigo Souza",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4923",
+        "rodata": "32",
+        "clube": "Criciuma",
+        "atleta": "Souza",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4935",
+        "rodata": "33",
+        "clube": "Criciuma",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4960",
+        "rodata": "36",
+        "clube": "Criciuma",
+        "atleta": "Cléber Santana",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4967",
+        "rodata": "37",
+        "clube": "Criciuma",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4967",
+        "rodata": "37",
+        "clube": "Criciuma",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4977",
+        "rodata": "38",
+        "clube": "Criciuma",
+        "atleta": "Róger Guedes",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    }
+]

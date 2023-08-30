@@ -1,0 +1,4274 @@
+[
+    {
+        "partida_id": "4634",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Paulinho",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4634",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Márcio Rodrigues Araújo",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4634",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Alecsandro",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4634",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Alecsandro",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4658",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Paulinho",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4685",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Alecsandro",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4712",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Samir",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4735",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Alecsandro",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4750",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4759",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4773",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4773",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Léo Moura",
+        "minuto": "65",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4781",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Lucas Mugni",
+        "minuto": "78",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4781",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4796",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Alecsandro",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4796",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Marcelo Augusto Mathias da Silva",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4822",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Wallace Reis da Silva",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4832",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Héctor Canteros",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4832",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Alecsandro",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4840",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4851",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Alecsandro",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4851",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4860",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4883",
+        "rodata": "27",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4883",
+        "rodata": "27",
+        "clube": "Flamengo",
+        "atleta": "Nixon Darlanio Reis Cardoso",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4700",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Dedé",
+        "minuto": "15",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "4700",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Héctor Canteros",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4700",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4891",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4899",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4899",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4915",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4925",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Anderson Pico",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4925",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Nixon Darlanio Reis Cardoso",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4925",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Nixon Darlanio Reis Cardoso",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4933",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Márcio Rodrigues Araújo",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4933",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Nixon Darlanio Reis Cardoso",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4951",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Nixon Darlanio Reis Cardoso",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4951",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Lucas Mugni",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4951",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4960",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Elton Rodrigues Brandão",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4969",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Nixon Darlanio Reis Cardoso",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4969",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Kadu",
+        "minuto": "28",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "4969",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Elton Rodrigues Brandão",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4969",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4984",
+        "rodata": "38",
+        "clube": "Flamengo",
+        "atleta": "Luiz Antônio de Souza Soares",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4992",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "86",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5002",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Héctor Canteros",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5002",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5014",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5025",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5025",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Alecsandro",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5038",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5048",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Eduardo da Silva",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5081",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Emerson Sheik",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5095",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5103",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5103",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5118",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5135",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Marcelo Cirino da Silva",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5145",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Emerson Sheik",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5145",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5158",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Wallace Reis da Silva",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5158",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Emerson Sheik",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5158",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5170",
+        "rodata": "19",
+        "clube": "Flamengo",
+        "atleta": "Ederson Honorato Campos",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5170",
+        "rodata": "19",
+        "clube": "Flamengo",
+        "atleta": "Ederson Honorato Campos",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5185",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Ederson Honorato Campos",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5185",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5193",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5200",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Kayke Moreno",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5200",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5200",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Kayke Moreno",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5215",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Emerson Sheik",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5215",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Kayke Moreno",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5215",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Paulinho",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5226",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Luiz Antônio de Souza Soares",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5226",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5233",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Héctor Canteros",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5233",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Kayke Moreno",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5233",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Paulinho",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5253",
+        "rodata": "27",
+        "clube": "Flamengo",
+        "atleta": "Paulinho",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5261",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Emerson Sheik",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5271",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Ayrton Ganino",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5271",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5322",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Kayke Moreno",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5322",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Kayke Moreno",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5322",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5322",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5343",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5358",
+        "rodata": "38",
+        "clube": "Flamengo",
+        "atleta": "Marcos Rogério Ricci Lopes",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5368",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5389",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5389",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "90+6",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5400",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Felipe Azevedo",
+        "minuto": "21",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5400",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Jorge Marco de Oliveira Moraes",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5416",
+        "rodata": "5",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5424",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5444",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Réver",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5453",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Rodrigo Caio",
+        "minuto": "22",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5453",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5460",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5470",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5477",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Ederson Honorato Campos",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5501",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5501",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5507",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5507",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Jorge Marco de Oliveira Moraes",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5507",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5526",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5526",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "60",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5532",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5532",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Marcelo Cirino da Silva",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5547",
+        "rodata": "19",
+        "clube": "Flamengo",
+        "atleta": "Federico Mancuello",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5569",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5569",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Leandro Damião",
+        "minuto": "30",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5582",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5582",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Federico Mancuello",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5582",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Leandro Damião",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5592",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5592",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Luiz Fernando Pereira da Silva",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5597",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Luiz Fernando Pereira da Silva",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5597",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5612",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Alan Patrick",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5618",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5618",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5634",
+        "rodata": "27",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5634",
+        "rodata": "27",
+        "clube": "Flamengo",
+        "atleta": "Federico Mancuello",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5654",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5654",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5654",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Marcelo Cirino da Silva",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5664",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Luiz Fernando Pereira da Silva",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5664",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "William Matheus",
+        "minuto": "12",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5670",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Réver",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5679",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5679",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5689",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5689",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5711",
+        "rodata": "35",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5723",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Santana",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5723",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5732",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5732",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5746",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Matheus Sávio",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5757",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5757",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Leandro Damião",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5757",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Rodinei de Almeida",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5770",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Federico Mancuello",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5800",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Leandro Damião",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5810",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Réver",
+        "minuto": "45+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5810",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Leandro Damião",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5821",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5821",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Miguel Trauco",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5835",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5835",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5835",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5835",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5835",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5843",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Orlando Berrío",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5851",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5851",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5857",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5881",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5892",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Marcos Rogério Ricci Lopes",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5892",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5897",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Orlando Berrío",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5897",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "90+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5911",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Réver",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5920",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5920",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5947",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Vinícius Júnior",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5947",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Vinícius Júnior",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5961",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5961",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5983",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5983",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5986",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Rodinei de Almeida",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6023",
+        "rodata": "27",
+        "clube": "Flamengo",
+        "atleta": "Réver",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6009",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6034",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Réver",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6034",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "85",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6034",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Réver",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6034",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6062",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6071",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Éverton Cardoso da Silva",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6071",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Vinícius Júnior",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6097",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "33",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6097",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Federico Mancuello",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6097",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6113",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6120",
+        "rodata": "38",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "90+6",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6120",
+        "rodata": "38",
+        "clube": "Flamengo",
+        "atleta": "Rafael Vaz",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6127",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6127",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Réver",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6137",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Henrique Dourado",
+        "minuto": "35",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6137",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Henrique Dourado",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6148",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6148",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Vinícius Júnior",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6148",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Vinícius Júnior",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6159",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6159",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6172",
+        "rodata": "5",
+        "clube": "Flamengo",
+        "atleta": "Vinícius Júnior",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6172",
+        "rodata": "5",
+        "clube": "Flamengo",
+        "atleta": "Paolo Guerrero",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6177",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Vinícius Júnior",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6188",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6203",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6203",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6210",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6224",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6224",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Henrique Dourado",
+        "minuto": "30",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6234",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6234",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Felipe Vizeu",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6241",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Thuler",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6256",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Matheus Sávio",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6256",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6269",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "2",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6279",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Fernando Uribe",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6279",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Réver",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6279",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6279",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6311",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Henrique Dourado",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6303",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6332",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6332",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6352",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6358",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Renê Rodrigues Martins",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6358",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "57",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6368",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Luiz Gustavo",
+        "minuto": "62",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6379",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6379",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6397",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6397",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6397",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Renê Rodrigues Martins",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6406",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Léo Duarte",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6406",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Fernando Uribe",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6406",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Fernando Uribe",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6424",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Fernando Uribe",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6424",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Henrique Dourado",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6424",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Lucas Paquetá",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6424",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6432",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Marlos Moreno",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6441",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Fernando Uribe",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6441",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Rodinei de Almeida",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6448",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6463",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Henrique Dourado",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6471",
+        "rodata": "35",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6480",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Fernando Uribe",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6480",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6488",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6488",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6496",
+        "rodata": "38",
+        "clube": "Flamengo",
+        "atleta": "Luiz Rhodolfo Dini Gaioto",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6509",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6509",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6509",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6516",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6530",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Orlando Berrío",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6539",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6539",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Lincoln Corrêa dos Santos",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6548",
+        "rodata": "5",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6558",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "32",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6558",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6558",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Rodrigo Caio",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6566",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6566",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6589",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6589",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6600",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6600",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6600",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6600",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6600",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "45+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6600",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6613",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6621",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Gerson Santos da Silva",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6621",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6621",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6638",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6638",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6638",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6648",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6648",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "83",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6648",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6648",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6661",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Pablo Marí Villar",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6661",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6661",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "90+7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6671",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "61",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6671",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6671",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6678",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6678",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Pablo Marí Villar",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6678",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Reinier",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6686",
+        "rodata": "19",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6697",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6697",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6708",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "20",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6708",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6708",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6731",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6745",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6745",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6745",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Reinier",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6750",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6750",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6758",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Reinier",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6758",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "83",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6771",
+        "rodata": "27",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6771",
+        "rodata": "27",
+        "clube": "Flamengo",
+        "atleta": "Gerson Santos da Silva",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6785",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6793",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6793",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Rodrigo Caio",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6800",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6800",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6800",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6800",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6814",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Lincoln Corrêa dos Santos",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6821",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6821",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6821",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Reinier",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6826",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6826",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Danilo Barcelos",
+        "minuto": "45+5",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6826",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6826",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6838",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "37",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6850",
+        "rodata": "35",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6850",
+        "rodata": "35",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6850",
+        "rodata": "35",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6850",
+        "rodata": "35",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6859",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6859",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6859",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6875",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6875",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Reinier",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6875",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6875",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Reinier",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6875",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6875",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Lincoln Corrêa dos Santos",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6907",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6916",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "89",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6929",
+        "rodata": "5",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "90+11",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6952",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "45+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6961",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6961",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6961",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6961",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6961",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6966",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6966",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6980",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Filipe Luís",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6980",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7001",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7011",
+        "rodata": "13",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7011",
+        "rodata": "13",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7011",
+        "rodata": "13",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "59",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7017",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7017",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7017",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7026",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7026",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Léo Pereira",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6945",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6945",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7042",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Lincoln Corrêa dos Santos",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7050",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7050",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7050",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7050",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Natan Bernardo de Souza",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7050",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7063",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7063",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7070",
+        "rodata": "19",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7093",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7098",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7098",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7098",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Renê Rodrigues Martins",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7118",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7132",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "50",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7132",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7132",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Gerson Santos da Silva",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7132",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Filipe Luís",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7143",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7143",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7143",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Mauricio Isla",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7143",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7160",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7184",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7184",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7184",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7192",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Luan Garcia Teixeira",
+        "minuto": "45+1",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7192",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Pepê",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7199",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7115",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7115",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Mauricio Isla",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7115",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7115",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7213",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7213",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7213",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7222",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7222",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "45+3",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7228",
+        "rodata": "35",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "35",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7239",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7239",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7250",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7250",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7262",
+        "rodata": "38",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7270",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7290",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Rodrigo Muniz",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7290",
+        "rodata": "3",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7306",
+        "rodata": "5",
+        "clube": "Flamengo",
+        "atleta": "Rodrigo Muniz",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7306",
+        "rodata": "5",
+        "clube": "Flamengo",
+        "atleta": "Rodrigo Muniz",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7318",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7318",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7345",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7345",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Thiago Maia",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7361",
+        "rodata": "10",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7374",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7374",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7382",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7382",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7382",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "23",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7382",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7382",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7390",
+        "rodata": "13",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7390",
+        "rodata": "13",
+        "clube": "Flamengo",
+        "atleta": "Welington",
+        "minuto": "90+2",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7390",
+        "rodata": "13",
+        "clube": "Flamengo",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7390",
+        "rodata": "13",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7390",
+        "rodata": "13",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7399",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7399",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7399",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7419",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Ronaldo",
+        "minuto": "47",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7419",
+        "rodata": "16",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7430",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7437",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "52",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7437",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7437",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7437",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Andreas Pereira",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7462",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7462",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7462",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7479",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7490",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Andreas Pereira",
+        "minuto": "45+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7490",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7490",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7501",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7509",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7509",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7509",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7520",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7520",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Andreas Pereira",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7520",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Kenedy",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7538",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Renê Rodrigues Martins",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7557",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7305",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7305",
+        "rodata": "4",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7455",
+        "rodata": "19",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7455",
+        "rodata": "19",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7584",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Matheuzinho",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7584",
+        "rodata": "30",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7575",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Andreas Pereira",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7575",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "32",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7575",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7591",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7591",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7591",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7591",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7604",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7551",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Andreas Pereira",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7551",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7285",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7285",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Victor Vinícius Coelho Santos",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7622",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7622",
+        "rodata": "36",
+        "clube": "Flamengo",
+        "atleta": "Matheuzinho",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7615",
+        "rodata": "35",
+        "clube": "Flamengo",
+        "atleta": "Michael Richard Delgado de Oliveira",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7647",
+        "rodata": "1",
+        "clube": "Flamengo",
+        "atleta": "Bruno Henrique",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7661",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7661",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Mauricio Isla",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7661",
+        "rodata": "2",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7707",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7707",
+        "rodata": "6",
+        "clube": "Flamengo",
+        "atleta": "Willian Arão",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7698",
+        "rodata": "7",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7723",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Andreas Pereira",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7723",
+        "rodata": "8",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7732",
+        "rodata": "9",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "45+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7750",
+        "rodata": "11",
+        "clube": "Flamengo",
+        "atleta": "Andreas Pereira",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7760",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Ayrton Lucas Dantas de Medeiros",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7760",
+        "rodata": "12",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7778",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7778",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7778",
+        "rodata": "14",
+        "clube": "Flamengo",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7788",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7788",
+        "rodata": "15",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7807",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7807",
+        "rodata": "17",
+        "clube": "Flamengo",
+        "atleta": "Diego Ribas",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7820",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7820",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7820",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Éverton Ribeiro",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7820",
+        "rodata": "18",
+        "clube": "Flamengo",
+        "atleta": "Lázaro Vinícius",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7828",
+        "rodata": "19",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7828",
+        "rodata": "19",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7839",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Lázaro Vinícius",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7839",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Arturo Vidal",
+        "minuto": "32",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7839",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7839",
+        "rodata": "20",
+        "clube": "Flamengo",
+        "atleta": "Victor Hugo",
+        "minuto": "45+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7850",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7850",
+        "rodata": "21",
+        "clube": "Flamengo",
+        "atleta": "Lázaro Vinícius",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7862",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Fabrício Bruno",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7862",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Ayrton Lucas Dantas de Medeiros",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7862",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Lázaro Vinícius",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7862",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Fabrício Bruno",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7862",
+        "rodata": "22",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7869",
+        "rodata": "23",
+        "clube": "Flamengo",
+        "atleta": "Victor Hugo",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7882",
+        "rodata": "24",
+        "clube": "Flamengo",
+        "atleta": "Arturo Vidal",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7890",
+        "rodata": "25",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7905",
+        "rodata": "26",
+        "clube": "Flamengo",
+        "atleta": "Matheus França",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7909",
+        "rodata": "27",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7921",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "45+5",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7921",
+        "rodata": "28",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7931",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7931",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7931",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Gabriel Barbosa Almeida",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7931",
+        "rodata": "29",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7946",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Matheus França",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7946",
+        "rodata": "31",
+        "clube": "Flamengo",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "66",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7956",
+        "rodata": "32",
+        "clube": "Flamengo",
+        "atleta": "Everton Cebolinha",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7967",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Everton Cebolinha",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7967",
+        "rodata": "33",
+        "clube": "Flamengo",
+        "atleta": "Matheus França",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7976",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Pedro",
+        "minuto": "45+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7976",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7976",
+        "rodata": "34",
+        "clube": "Flamengo",
+        "atleta": "Giorgian De Arrascaeta",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7995",
+        "rodata": "35",
+        "clube": "Flamengo",
+        "atleta": "Matheus França",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8011",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Werton",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8011",
+        "rodata": "37",
+        "clube": "Flamengo",
+        "atleta": "Matheuzinho",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8016",
+        "rodata": "38",
+        "clube": "Flamengo",
+        "atleta": "Wellington Ferreira Nascimento",
+        "minuto": "42",
+        "tipo_de_gol": "Gol Contra"
+    }
+]

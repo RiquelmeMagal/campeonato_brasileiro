@@ -1,0 +1,2034 @@
+[
+    {
+        "partida_id": "4612",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Anderson Talisca",
+        "minuto": "80",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4623",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Fahel",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4623",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Lincoln Cássio de Souza Soares",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4633",
+        "rodata": "3",
+        "clube": "Bahia",
+        "atleta": "Maxi Biancucchi",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4646",
+        "rodata": "4",
+        "clube": "Bahia",
+        "atleta": "Pará",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4658",
+        "rodata": "6",
+        "clube": "Bahia",
+        "atleta": "Anderson Talisca",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4691",
+        "rodata": "9",
+        "clube": "Bahia",
+        "atleta": "Demerson Bruno Costa",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4719",
+        "rodata": "11",
+        "clube": "Bahia",
+        "atleta": "Cristian Chagas Tarouco",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4740",
+        "rodata": "13",
+        "clube": "Bahia",
+        "atleta": "Kieza",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4748",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Fahel",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4758",
+        "rodata": "15",
+        "clube": "Bahia",
+        "atleta": "Kieza",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4816",
+        "rodata": "20",
+        "clube": "Bahia",
+        "atleta": "Rafael Miranda",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4820",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "Kieza",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4820",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "Kieza",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4820",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "Maxi Biancucchi",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4831",
+        "rodata": "22",
+        "clube": "Bahia",
+        "atleta": "Maxi Biancucchi",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4831",
+        "rodata": "22",
+        "clube": "Bahia",
+        "atleta": "Wellington Clayton Gonçalves dos Santos",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4831",
+        "rodata": "22",
+        "clube": "Bahia",
+        "atleta": "Dankler",
+        "minuto": "31",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "4843",
+        "rodata": "23",
+        "clube": "Bahia",
+        "atleta": "Kieza",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4849",
+        "rodata": "24",
+        "clube": "Bahia",
+        "atleta": "Railan dos Santos Reis",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4860",
+        "rodata": "25",
+        "clube": "Bahia",
+        "atleta": "Emanuel Biancucchi",
+        "minuto": "49",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4860",
+        "rodata": "25",
+        "clube": "Bahia",
+        "atleta": "Emanuel Biancucchi",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4869",
+        "rodata": "26",
+        "clube": "Bahia",
+        "atleta": "Marcos Aurélio de Oliveira Lima",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4888",
+        "rodata": "29",
+        "clube": "Bahia",
+        "atleta": "Fahel",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4897",
+        "rodata": "30",
+        "clube": "Bahia",
+        "atleta": "Guilherme Oliveira Santos",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4949",
+        "rodata": "34",
+        "clube": "Bahia",
+        "atleta": "Kieza",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4942",
+        "rodata": "35",
+        "clube": "Bahia",
+        "atleta": "Guilherme Oliveira Santos",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4958",
+        "rodata": "36",
+        "clube": "Bahia",
+        "atleta": "Henrique Almeida",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4976",
+        "rodata": "37",
+        "clube": "Bahia",
+        "atleta": "Rafael Galhardo",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4979",
+        "rodata": "38",
+        "clube": "Bahia",
+        "atleta": "Henrique Almeida",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4979",
+        "rodata": "38",
+        "clube": "Bahia",
+        "atleta": "Rômulo José Pacheco da Silva",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5750",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "José Rafael Vivian",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5750",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Edson Felipe da Cruz",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5750",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Régis",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5750",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Régis",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5750",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Tiago Pagnussat",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5750",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5759",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Gustavo",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5785",
+        "rodata": "4",
+        "clube": "Bahia",
+        "atleta": "Vinícius",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5785",
+        "rodata": "4",
+        "clube": "Bahia",
+        "atleta": "Gustavo Ferrareis",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5785",
+        "rodata": "4",
+        "clube": "Bahia",
+        "atleta": "Renê Júnior",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5795",
+        "rodata": "5",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5820",
+        "rodata": "8",
+        "clube": "Bahia",
+        "atleta": "João Paulo",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5820",
+        "rodata": "8",
+        "clube": "Bahia",
+        "atleta": "Vinícius",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5860",
+        "rodata": "12",
+        "clube": "Bahia",
+        "atleta": "João Paulo",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5866",
+        "rodata": "13",
+        "clube": "Bahia",
+        "atleta": "Rodrigão",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5866",
+        "rodata": "13",
+        "clube": "Bahia",
+        "atleta": "Rodrigão",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5866",
+        "rodata": "13",
+        "clube": "Bahia",
+        "atleta": "Renê Júnior",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5883",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Renê Júnior",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5890",
+        "rodata": "15",
+        "clube": "Bahia",
+        "atleta": "Paulo Roberto Valoura Junior",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5890",
+        "rodata": "15",
+        "clube": "Bahia",
+        "atleta": "Paulo Roberto Valoura Junior",
+        "minuto": "13",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5910",
+        "rodata": "17",
+        "clube": "Bahia",
+        "atleta": "Rodrigão",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5917",
+        "rodata": "18",
+        "clube": "Bahia",
+        "atleta": "Rodrigão",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5933",
+        "rodata": "19",
+        "clube": "Bahia",
+        "atleta": "Régis",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5933",
+        "rodata": "19",
+        "clube": "Bahia",
+        "atleta": "Stiven Mendoza",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5942",
+        "rodata": "20",
+        "clube": "Bahia",
+        "atleta": "Stiven Mendoza",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5950",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "Tiago Pagnussat",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5950",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "Stiven Mendoza",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5950",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "Stiven Mendoza",
+        "minuto": "45+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5960",
+        "rodata": "22",
+        "clube": "Bahia",
+        "atleta": "Renê Júnior",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5975",
+        "rodata": "23",
+        "clube": "Bahia",
+        "atleta": "José Rafael Vivian",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5994",
+        "rodata": "25",
+        "clube": "Bahia",
+        "atleta": "Rodrigão",
+        "minuto": "90+7",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5997",
+        "rodata": "26",
+        "clube": "Bahia",
+        "atleta": "José Rafael Vivian",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6025",
+        "rodata": "27",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "89",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6025",
+        "rodata": "27",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6014",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "Vinícius",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6014",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "Régis",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6034",
+        "rodata": "29",
+        "clube": "Bahia",
+        "atleta": "Stiven Mendoza",
+        "minuto": "69",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6038",
+        "rodata": "30",
+        "clube": "Bahia",
+        "atleta": "Stiven Mendoza",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6038",
+        "rodata": "30",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6050",
+        "rodata": "31",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6063",
+        "rodata": "32",
+        "clube": "Bahia",
+        "atleta": "Stiven Mendoza",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6063",
+        "rodata": "32",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6067",
+        "rodata": "33",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6067",
+        "rodata": "33",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6082",
+        "rodata": "34",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "55",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6082",
+        "rodata": "34",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6095",
+        "rodata": "35",
+        "clube": "Bahia",
+        "atleta": "Alison Lopes Ferreira",
+        "minuto": "54",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6095",
+        "rodata": "35",
+        "clube": "Bahia",
+        "atleta": "Stiven Mendoza",
+        "minuto": "22",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6095",
+        "rodata": "35",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "78",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6122",
+        "rodata": "38",
+        "clube": "Bahia",
+        "atleta": "Éder",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6136",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Júnior Brumado",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6171",
+        "rodata": "5",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "12",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6171",
+        "rodata": "5",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6191",
+        "rodata": "7",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6191",
+        "rodata": "7",
+        "clube": "Bahia",
+        "atleta": "José Rafael Vivian",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6191",
+        "rodata": "7",
+        "clube": "Bahia",
+        "atleta": "Régis",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6231",
+        "rodata": "11",
+        "clube": "Bahia",
+        "atleta": "Vinícius",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6231",
+        "rodata": "11",
+        "clube": "Bahia",
+        "atleta": "Agustín Allione",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6231",
+        "rodata": "11",
+        "clube": "Bahia",
+        "atleta": "Régis",
+        "minuto": "45+4",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6243",
+        "rodata": "12",
+        "clube": "Bahia",
+        "atleta": "Eugenio Mena",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6251",
+        "rodata": "13",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6261",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Tiago Pagnussat",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6261",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6261",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "José Rafael Vivian",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6261",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Vinícius",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6285",
+        "rodata": "16",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6285",
+        "rodata": "16",
+        "clube": "Bahia",
+        "atleta": "Régis",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6293",
+        "rodata": "17",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6307",
+        "rodata": "18",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6322",
+        "rodata": "19",
+        "clube": "Bahia",
+        "atleta": "Douglas Grolli",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6274",
+        "rodata": "15",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6274",
+        "rodata": "15",
+        "clube": "Bahia",
+        "atleta": "Lucas Fonseca",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6346",
+        "rodata": "23",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6346",
+        "rodata": "23",
+        "clube": "Bahia",
+        "atleta": "Tiago Pagnussat",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6371",
+        "rodata": "25",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6385",
+        "rodata": "26",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "45+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6402",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6402",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6408",
+        "rodata": "29",
+        "clube": "Bahia",
+        "atleta": "Vinícius",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6408",
+        "rodata": "29",
+        "clube": "Bahia",
+        "atleta": "Vinícius",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6417",
+        "rodata": "30",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6430",
+        "rodata": "31",
+        "clube": "Bahia",
+        "atleta": "Clayton da Silveira da Silva",
+        "minuto": "85",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6444",
+        "rodata": "32",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6450",
+        "rodata": "33",
+        "clube": "Bahia",
+        "atleta": "Eric dos Santos Rodrigues",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6450",
+        "rodata": "33",
+        "clube": "Bahia",
+        "atleta": "Nílton Ferreira Júnior",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6457",
+        "rodata": "34",
+        "clube": "Bahia",
+        "atleta": "José Rafael Vivian",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6457",
+        "rodata": "34",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6484",
+        "rodata": "36",
+        "clube": "Bahia",
+        "atleta": "Edigar Junio",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6484",
+        "rodata": "36",
+        "clube": "Bahia",
+        "atleta": "José Rafael Vivian",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6511",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "45+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6511",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Artur Victor Guimarães",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6511",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6525",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6525",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Ernando Rodrigues Lopes",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6535",
+        "rodata": "3",
+        "clube": "Bahia",
+        "atleta": "Artur Victor Guimarães",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6562",
+        "rodata": "6",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "69",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6562",
+        "rodata": "6",
+        "clube": "Bahia",
+        "atleta": "Artur Victor Guimarães",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6562",
+        "rodata": "6",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6567",
+        "rodata": "7",
+        "clube": "Bahia",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "55",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6588",
+        "rodata": "9",
+        "clube": "Bahia",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6630",
+        "rodata": "13",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6630",
+        "rodata": "13",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6630",
+        "rodata": "13",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "45+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6641",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "53",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6641",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "85",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6653",
+        "rodata": "15",
+        "clube": "Bahia",
+        "atleta": "Alejandro Guerra",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6656",
+        "rodata": "16",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6667",
+        "rodata": "17",
+        "clube": "Bahia",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6676",
+        "rodata": "18",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6676",
+        "rodata": "18",
+        "clube": "Bahia",
+        "atleta": "Nino Paraíba",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6692",
+        "rodata": "19",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "14",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6698",
+        "rodata": "20",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "64",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6707",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "Artur Victor Guimarães",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6707",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6723",
+        "rodata": "22",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6723",
+        "rodata": "22",
+        "clube": "Bahia",
+        "atleta": "Nino Paraíba",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6729",
+        "rodata": "23",
+        "clube": "Bahia",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6757",
+        "rodata": "26",
+        "clube": "Bahia",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "90+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6774",
+        "rodata": "27",
+        "clube": "Bahia",
+        "atleta": "Artur Victor Guimarães",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6778",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "Artur Victor Guimarães",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6778",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "José Carlos Ferreira Júnior",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6804",
+        "rodata": "30",
+        "clube": "Bahia",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "66",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6811",
+        "rodata": "31",
+        "clube": "Bahia",
+        "atleta": "Marco Antonio Rosa Furtado Júnior",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6821",
+        "rodata": "32",
+        "clube": "Bahia",
+        "atleta": "Willian Arão",
+        "minuto": "39",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6839",
+        "rodata": "33",
+        "clube": "Bahia",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6830",
+        "rodata": "34",
+        "clube": "Bahia",
+        "atleta": "João Pedro Maturano dos Santos",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6830",
+        "rodata": "34",
+        "clube": "Bahia",
+        "atleta": "José Fernando Viana de Santana",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6830",
+        "rodata": "34",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6848",
+        "rodata": "35",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6861",
+        "rodata": "36",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6861",
+        "rodata": "36",
+        "clube": "Bahia",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6874",
+        "rodata": "37",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "45",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6885",
+        "rodata": "38",
+        "clube": "Bahia",
+        "atleta": "Artur Victor Guimarães",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6899",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "40",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6910",
+        "rodata": "3",
+        "clube": "Bahia",
+        "atleta": "Ernando Rodrigues Lopes",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6910",
+        "rodata": "3",
+        "clube": "Bahia",
+        "atleta": "José Carlos Ferreira Júnior",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6925",
+        "rodata": "4",
+        "clube": "Bahia",
+        "atleta": "Rossicley Pereira da Silva",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6948",
+        "rodata": "6",
+        "clube": "Bahia",
+        "atleta": "Marco Antonio Rosa Furtado Júnior",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6961",
+        "rodata": "7",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6961",
+        "rodata": "7",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6961",
+        "rodata": "7",
+        "clube": "Bahia",
+        "atleta": "Daniel Sampaio Simões",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6970",
+        "rodata": "8",
+        "clube": "Bahia",
+        "atleta": "Clayson Henrique da Silva Vieira",
+        "minuto": "90+7",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6970",
+        "rodata": "8",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6937",
+        "rodata": "11",
+        "clube": "Bahia",
+        "atleta": "Nino Paraíba",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6937",
+        "rodata": "11",
+        "clube": "Bahia",
+        "atleta": "Saldanha",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6893",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6893",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7014",
+        "rodata": "13",
+        "clube": "Bahia",
+        "atleta": "Saldanha",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7018",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Rossicley Pereira da Silva",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7018",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7018",
+        "rodata": "14",
+        "clube": "Bahia",
+        "atleta": "Clayson Henrique da Silva Vieira",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7043",
+        "rodata": "16",
+        "clube": "Bahia",
+        "atleta": "Fessin (futebolista)",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7054",
+        "rodata": "17",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7054",
+        "rodata": "17",
+        "clube": "Bahia",
+        "atleta": "Daniel Sampaio Simões",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7054",
+        "rodata": "17",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7072",
+        "rodata": "19",
+        "clube": "Bahia",
+        "atleta": "Daniel Sampaio Simões",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7083",
+        "rodata": "20",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "90+9",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7064",
+        "rodata": "18",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7064",
+        "rodata": "18",
+        "clube": "Bahia",
+        "atleta": "José Carlos Ferreira Júnior",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7094",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "José Carlos Cracco Neto",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7094",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7111",
+        "rodata": "23",
+        "clube": "Bahia",
+        "atleta": "Clayson Henrique da Silva Vieira",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7143",
+        "rodata": "26",
+        "clube": "Bahia",
+        "atleta": "Juan Pablo Ramírez Velásquez",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7143",
+        "rodata": "26",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7143",
+        "rodata": "26",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7151",
+        "rodata": "27",
+        "clube": "Bahia",
+        "atleta": "Juan Pablo Ramírez Velásquez",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7156",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "Anderson Martins",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7171",
+        "rodata": "29",
+        "clube": "Bahia",
+        "atleta": "Gabriel Novaes",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7187",
+        "rodata": "31",
+        "clube": "Bahia",
+        "atleta": "Thiago Andrade",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7185",
+        "rodata": "30",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7185",
+        "rodata": "30",
+        "clube": "Bahia",
+        "atleta": "Juan Pablo Ramírez Velásquez",
+        "minuto": "45+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7226",
+        "rodata": "35",
+        "clube": "Bahia",
+        "atleta": "Gabriel Novaes",
+        "minuto": "45+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7226",
+        "rodata": "35",
+        "clube": "Bahia",
+        "atleta": "Alesson",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7226",
+        "rodata": "35",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7237",
+        "rodata": "36",
+        "clube": "Bahia",
+        "atleta": "Rossicley Pereira da Silva",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7247",
+        "rodata": "37",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7247",
+        "rodata": "37",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7247",
+        "rodata": "37",
+        "clube": "Bahia",
+        "atleta": "Rossicley Pereira da Silva",
+        "minuto": "81",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7247",
+        "rodata": "37",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7257",
+        "rodata": "38",
+        "clube": "Bahia",
+        "atleta": "Alesson",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7257",
+        "rodata": "38",
+        "clube": "Bahia",
+        "atleta": "Rossicley Pereira da Silva",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7267",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Thaciano",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7267",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "Thaciano",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7267",
+        "rodata": "1",
+        "clube": "Bahia",
+        "atleta": "José Carlos Ferreira Júnior",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7278",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Jonas Gomes de Sousa",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7278",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7278",
+        "rodata": "2",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7301",
+        "rodata": "4",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7301",
+        "rodata": "4",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "31",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7324",
+        "rodata": "6",
+        "clube": "Bahia",
+        "atleta": "Patrick de Lucca",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7324",
+        "rodata": "6",
+        "clube": "Bahia",
+        "atleta": "Rossicley Pereira da Silva",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7328",
+        "rodata": "7",
+        "clube": "Bahia",
+        "atleta": "Luiz Otávio da Silva Santos",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7328",
+        "rodata": "7",
+        "clube": "Bahia",
+        "atleta": "Maycon Douglas",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7339",
+        "rodata": "8",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7339",
+        "rodata": "8",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7339",
+        "rodata": "8",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7349",
+        "rodata": "9",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7349",
+        "rodata": "9",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7357",
+        "rodata": "10",
+        "clube": "Bahia",
+        "atleta": "Matheus Bahia Santos",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7409",
+        "rodata": "15",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7421",
+        "rodata": "16",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7446",
+        "rodata": "19",
+        "clube": "Bahia",
+        "atleta": "Hugo Rodallega",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7446",
+        "rodata": "19",
+        "clube": "Bahia",
+        "atleta": "Hugo Rodallega",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7446",
+        "rodata": "19",
+        "clube": "Bahia",
+        "atleta": "Hugo Rodallega",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7446",
+        "rodata": "19",
+        "clube": "Bahia",
+        "atleta": "Hugo Rodallega",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7469",
+        "rodata": "21",
+        "clube": "Bahia",
+        "atleta": "Hugo Rodallega",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7496",
+        "rodata": "24",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "33",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7510",
+        "rodata": "25",
+        "clube": "Bahia",
+        "atleta": "Raí Nascimento de Oliveira",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7510",
+        "rodata": "25",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7543",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "Raí Nascimento de Oliveira",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7543",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "Luiz Otávio da Silva Santos",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7543",
+        "rodata": "28",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7495",
+        "rodata": "23",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7582",
+        "rodata": "30",
+        "clube": "Bahia",
+        "atleta": "Rossicley Pereira da Silva",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7616",
+        "rodata": "36",
+        "clube": "Bahia",
+        "atleta": "Raí Nascimento de Oliveira",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7616",
+        "rodata": "36",
+        "clube": "Bahia",
+        "atleta": "Daniel Sampaio Simões",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7616",
+        "rodata": "36",
+        "clube": "Bahia",
+        "atleta": "Matheus Bahia Santos",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7610",
+        "rodata": "35",
+        "clube": "Bahia",
+        "atleta": "Hugo Rodallega",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7595",
+        "rodata": "32",
+        "clube": "Bahia",
+        "atleta": "Luiz Otávio da Silva Santos",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7595",
+        "rodata": "32",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7626",
+        "rodata": "37",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "39",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7626",
+        "rodata": "37",
+        "clube": "Bahia",
+        "atleta": "Gilberto Oliveira Souza Junior",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7636",
+        "rodata": "38",
+        "clube": "Bahia",
+        "atleta": "Rodrigo Eduardo Costa Marinho",
+        "minuto": "25",
+        "tipo_de_gol": "Penalty"
+    }
+]

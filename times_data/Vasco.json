@@ -1,0 +1,1482 @@
+[
+    {
+        "partida_id": "5008",
+        "rodata": "3",
+        "clube": "Vasco",
+        "atleta": "Lucas Santos Siqueira",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5052",
+        "rodata": "7",
+        "clube": "Vasco",
+        "atleta": "Rodrigo Baldasso da Costa",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5058",
+        "rodata": "8",
+        "clube": "Vasco",
+        "atleta": "Duvier Riascos",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5075",
+        "rodata": "9",
+        "clube": "Vasco",
+        "atleta": "Duvier Riascos",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5078",
+        "rodata": "10",
+        "clube": "Vasco",
+        "atleta": "Emanuel Biancucchi",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5123",
+        "rodata": "14",
+        "clube": "Vasco",
+        "atleta": "Jhon Cley",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5123",
+        "rodata": "14",
+        "clube": "Vasco",
+        "atleta": "Andrezinho",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5136",
+        "rodata": "15",
+        "clube": "Vasco",
+        "atleta": "Duvier Riascos",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5208",
+        "rodata": "23",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "74",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5217",
+        "rodata": "24",
+        "clube": "Vasco",
+        "atleta": "Leandro Costa Miranda Moraes",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5234",
+        "rodata": "25",
+        "clube": "Vasco",
+        "atleta": "Júlio César Coelho Moraes Júnior",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5234",
+        "rodata": "25",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "48",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5244",
+        "rodata": "26",
+        "clube": "Vasco",
+        "atleta": "Rafael Silva dos Santos",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5244",
+        "rodata": "26",
+        "clube": "Vasco",
+        "atleta": "Rafael Silva dos Santos",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5252",
+        "rodata": "27",
+        "clube": "Vasco",
+        "atleta": "Rafael Vaz",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5252",
+        "rodata": "27",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5261",
+        "rodata": "28",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "62",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5261",
+        "rodata": "28",
+        "clube": "Vasco",
+        "atleta": "Rodrigo Baldasso da Costa",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5270",
+        "rodata": "29",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "45",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5284",
+        "rodata": "30",
+        "clube": "Vasco",
+        "atleta": "Rodrigo Baldasso da Costa",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5293",
+        "rodata": "31",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "45+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5293",
+        "rodata": "31",
+        "clube": "Vasco",
+        "atleta": "Rodrigo Baldasso da Costa",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5321",
+        "rodata": "34",
+        "clube": "Vasco",
+        "atleta": "Rafael Silva dos Santos",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5321",
+        "rodata": "34",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5336",
+        "rodata": "35",
+        "clube": "Vasco",
+        "atleta": "Júlio César Coelho Moraes Júnior",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5338",
+        "rodata": "36",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5338",
+        "rodata": "36",
+        "clube": "Vasco",
+        "atleta": "Duvier Riascos",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5354",
+        "rodata": "37",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "45",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5759",
+        "rodata": "2",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5759",
+        "rodata": "2",
+        "clube": "Vasco",
+        "atleta": "Luís Fabiano",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5766",
+        "rodata": "3",
+        "clube": "Vasco",
+        "atleta": "Luís Fabiano",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5766",
+        "rodata": "3",
+        "clube": "Vasco",
+        "atleta": "Andrés Escobar",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5766",
+        "rodata": "3",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5790",
+        "rodata": "5",
+        "clube": "Vasco",
+        "atleta": "Luís Fabiano",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5790",
+        "rodata": "5",
+        "clube": "Vasco",
+        "atleta": "Luís Fabiano",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5797",
+        "rodata": "6",
+        "clube": "Vasco",
+        "atleta": "Luís Fabiano",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5797",
+        "rodata": "6",
+        "clube": "Vasco",
+        "atleta": "Douglas Luiz",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5812",
+        "rodata": "7",
+        "clube": "Vasco",
+        "atleta": "Jean Carlos de Souza Irmer",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5817",
+        "rodata": "8",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5828",
+        "rodata": "9",
+        "clube": "Vasco",
+        "atleta": "Caio Monteiro",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5837",
+        "rodata": "10",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5854",
+        "rodata": "11",
+        "clube": "Vasco",
+        "atleta": "Thalles Lima de Conceição Penha",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5854",
+        "rodata": "11",
+        "clube": "Vasco",
+        "atleta": "Wagner Ferreira dos Santos",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5871",
+        "rodata": "13",
+        "clube": "Vasco",
+        "atleta": "Guilherme Costa Machado Silveira",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5871",
+        "rodata": "13",
+        "clube": "Vasco",
+        "atleta": "Antônio Eduardo Pereira dos Santos",
+        "minuto": "14",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5871",
+        "rodata": "13",
+        "clube": "Vasco",
+        "atleta": "Thalles Lima de Conceição Penha",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5871",
+        "rodata": "13",
+        "clube": "Vasco",
+        "atleta": "Paulo Vitor Fernandes Pereira",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5904",
+        "rodata": "16",
+        "clube": "Vasco",
+        "atleta": "Paulinho",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5904",
+        "rodata": "16",
+        "clube": "Vasco",
+        "atleta": "Paulinho",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5941",
+        "rodata": "20",
+        "clube": "Vasco",
+        "atleta": "Andrés Escobar",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5956",
+        "rodata": "22",
+        "clube": "Vasco",
+        "atleta": "Ramon de Morais Motta",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5967",
+        "rodata": "23",
+        "clube": "Vasco",
+        "atleta": "Mateus Vital",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5995",
+        "rodata": "25",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5996",
+        "rodata": "26",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6020",
+        "rodata": "27",
+        "clube": "Vasco",
+        "atleta": "Wagner Ferreira dos Santos",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6020",
+        "rodata": "27",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6007",
+        "rodata": "28",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6026",
+        "rodata": "29",
+        "clube": "Vasco",
+        "atleta": "Jonathan Francisco Lemos",
+        "minuto": "30",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6036",
+        "rodata": "30",
+        "clube": "Vasco",
+        "atleta": "Matheus Galdezani",
+        "minuto": "16",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6064",
+        "rodata": "32",
+        "clube": "Vasco",
+        "atleta": "Breno Vinícius Rodrigues Borges",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6070",
+        "rodata": "33",
+        "clube": "Vasco",
+        "atleta": "Nenê",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6070",
+        "rodata": "33",
+        "clube": "Vasco",
+        "atleta": "Evander",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6078",
+        "rodata": "34",
+        "clube": "Vasco",
+        "atleta": "Caio Monteiro",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6089",
+        "rodata": "35",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6101",
+        "rodata": "36",
+        "clube": "Vasco",
+        "atleta": "Wanderson",
+        "minuto": "16",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6111",
+        "rodata": "37",
+        "clube": "Vasco",
+        "atleta": "Paulo Marcos de Jesus Ribeiro",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6124",
+        "rodata": "38",
+        "clube": "Vasco",
+        "atleta": "Paulinho",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6124",
+        "rodata": "38",
+        "clube": "Vasco",
+        "atleta": "Mateus Vital",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6130",
+        "rodata": "1",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "90+9",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6130",
+        "rodata": "1",
+        "clube": "Vasco",
+        "atleta": "Wagner Ferreira dos Santos",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6142",
+        "rodata": "2",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6156",
+        "rodata": "4",
+        "clube": "Vasco",
+        "atleta": "Bruno Cosendey",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6156",
+        "rodata": "4",
+        "clube": "Vasco",
+        "atleta": "Caio Monteiro",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6156",
+        "rodata": "4",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6156",
+        "rodata": "4",
+        "clube": "Vasco",
+        "atleta": "Kelvin Mateus de Oliveira",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6169",
+        "rodata": "5",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "40",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6169",
+        "rodata": "5",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6177",
+        "rodata": "6",
+        "clube": "Vasco",
+        "atleta": "Wagner Ferreira dos Santos",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6196",
+        "rodata": "8",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6208",
+        "rodata": "9",
+        "clube": "Vasco",
+        "atleta": "Andrey",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6222",
+        "rodata": "10",
+        "clube": "Vasco",
+        "atleta": "Andrey",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6228",
+        "rodata": "11",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "45+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6228",
+        "rodata": "11",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6228",
+        "rodata": "11",
+        "clube": "Vasco",
+        "atleta": "Ramon de Morais Motta",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6244",
+        "rodata": "12",
+        "clube": "Vasco",
+        "atleta": "Andrey",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6253",
+        "rodata": "13",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6258",
+        "rodata": "14",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6278",
+        "rodata": "16",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "45+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6292",
+        "rodata": "17",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6325",
+        "rodata": "19",
+        "clube": "Vasco",
+        "atleta": "Wagner Ferreira dos Santos",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6335",
+        "rodata": "21",
+        "clube": "Vasco",
+        "atleta": "Wagner Ferreira dos Santos",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6335",
+        "rodata": "21",
+        "clube": "Vasco",
+        "atleta": "Maxi López",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6335",
+        "rodata": "21",
+        "clube": "Vasco",
+        "atleta": "Thiago Galhardo",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6355",
+        "rodata": "23",
+        "clube": "Vasco",
+        "atleta": "Maxi López",
+        "minuto": "78",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6368",
+        "rodata": "25",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6385",
+        "rodata": "26",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "32",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6385",
+        "rodata": "26",
+        "clube": "Vasco",
+        "atleta": "Marrony",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6155",
+        "rodata": "3",
+        "clube": "Vasco",
+        "atleta": "Andrés Ríos",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6395",
+        "rodata": "27",
+        "clube": "Vasco",
+        "atleta": "Maxi López",
+        "minuto": "45+5",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6404",
+        "rodata": "28",
+        "clube": "Vasco",
+        "atleta": "Maxi López",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6410",
+        "rodata": "29",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6410",
+        "rodata": "29",
+        "clube": "Vasco",
+        "atleta": "Maxi López",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6419",
+        "rodata": "30",
+        "clube": "Vasco",
+        "atleta": "Fabrício dos Santos Silva",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6427",
+        "rodata": "31",
+        "clube": "Vasco",
+        "atleta": "Maxi López",
+        "minuto": "90+2",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6436",
+        "rodata": "32",
+        "clube": "Vasco",
+        "atleta": "Maxi López",
+        "minuto": "59",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6453",
+        "rodata": "33",
+        "clube": "Vasco",
+        "atleta": "Thiago Galhardo",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6456",
+        "rodata": "34",
+        "clube": "Vasco",
+        "atleta": "Thiago Galhardo",
+        "minuto": "67",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6482",
+        "rodata": "36",
+        "clube": "Vasco",
+        "atleta": "Andrey",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6482",
+        "rodata": "36",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6512",
+        "rodata": "1",
+        "clube": "Vasco",
+        "atleta": "Bruno César",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6522",
+        "rodata": "2",
+        "clube": "Vasco",
+        "atleta": "Maxi López",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6526",
+        "rodata": "3",
+        "clube": "Vasco",
+        "atleta": "Maxi López",
+        "minuto": "39",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6554",
+        "rodata": "5",
+        "clube": "Vasco",
+        "atleta": "Ricardo Graça",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6560",
+        "rodata": "6",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6576",
+        "rodata": "8",
+        "clube": "Vasco",
+        "atleta": "Andrey",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6576",
+        "rodata": "8",
+        "clube": "Vasco",
+        "atleta": "Tiago Reis",
+        "minuto": "45+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6591",
+        "rodata": "9",
+        "clube": "Vasco",
+        "atleta": "Danilo Barcelos",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6596",
+        "rodata": "10",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "15",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6606",
+        "rodata": "11",
+        "clube": "Vasco",
+        "atleta": "Leandro Castán",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6606",
+        "rodata": "11",
+        "clube": "Vasco",
+        "atleta": "Bruno César",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6616",
+        "rodata": "12",
+        "clube": "Vasco",
+        "atleta": "Marrony",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6644",
+        "rodata": "14",
+        "clube": "Vasco",
+        "atleta": "Marcos Antônio Candido Ferreira Júnior",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6648",
+        "rodata": "15",
+        "clube": "Vasco",
+        "atleta": "Leandro Castán",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6659",
+        "rodata": "16",
+        "clube": "Vasco",
+        "atleta": "Talles Magno",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6659",
+        "rodata": "16",
+        "clube": "Vasco",
+        "atleta": "Fellipe Bastos",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6687",
+        "rodata": "19",
+        "clube": "Vasco",
+        "atleta": "Ribamar",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6687",
+        "rodata": "19",
+        "clube": "Vasco",
+        "atleta": "Talles Magno",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6703",
+        "rodata": "20",
+        "clube": "Vasco",
+        "atleta": "Danilo Barcelos",
+        "minuto": "69",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6714",
+        "rodata": "21",
+        "clube": "Vasco",
+        "atleta": "Marcos Antônio Candido Ferreira Júnior",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6714",
+        "rodata": "21",
+        "clube": "Vasco",
+        "atleta": "Rossicley Pereira da Silva",
+        "minuto": "67",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6752",
+        "rodata": "25",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "68",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6762",
+        "rodata": "26",
+        "clube": "Vasco",
+        "atleta": "Bruno Gomes",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6762",
+        "rodata": "26",
+        "clube": "Vasco",
+        "atleta": "Ribamar",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6768",
+        "rodata": "27",
+        "clube": "Vasco",
+        "atleta": "Marrony",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6777",
+        "rodata": "28",
+        "clube": "Vasco",
+        "atleta": "Rossicley Pereira da Silva",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6790",
+        "rodata": "29",
+        "clube": "Vasco",
+        "atleta": "Fredy Guarín",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6810",
+        "rodata": "31",
+        "clube": "Vasco",
+        "atleta": "Mayke",
+        "minuto": "18",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6824",
+        "rodata": "32",
+        "clube": "Vasco",
+        "atleta": "Raul",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6824",
+        "rodata": "32",
+        "clube": "Vasco",
+        "atleta": "Oswaldo José Henríquez Bocanegra",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6824",
+        "rodata": "32",
+        "clube": "Vasco",
+        "atleta": "Carlos Andrade Souza",
+        "minuto": "81",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6826",
+        "rodata": "34",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "38",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6826",
+        "rodata": "34",
+        "clube": "Vasco",
+        "atleta": "Marrony",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6826",
+        "rodata": "34",
+        "clube": "Vasco",
+        "atleta": "Marcos Antônio Candido Ferreira Júnior",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6826",
+        "rodata": "34",
+        "clube": "Vasco",
+        "atleta": "Ribamar",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6844",
+        "rodata": "33",
+        "clube": "Vasco",
+        "atleta": "Fredy Guarín",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6865",
+        "rodata": "36",
+        "clube": "Vasco",
+        "atleta": "Fredy Guarín",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6874",
+        "rodata": "37",
+        "clube": "Vasco",
+        "atleta": "Marrony",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6883",
+        "rodata": "38",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "84",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6905",
+        "rodata": "2",
+        "clube": "Vasco",
+        "atleta": "Fellipe Bastos",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6905",
+        "rodata": "2",
+        "clube": "Vasco",
+        "atleta": "Fellipe Bastos",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6911",
+        "rodata": "3",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6911",
+        "rodata": "3",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6924",
+        "rodata": "4",
+        "clube": "Vasco",
+        "atleta": "Ribamar",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6924",
+        "rodata": "4",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6924",
+        "rodata": "4",
+        "clube": "Vasco",
+        "atleta": "Fellipe Bastos",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6947",
+        "rodata": "6",
+        "clube": "Vasco",
+        "atleta": "Talles Magno",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6963",
+        "rodata": "7",
+        "clube": "Vasco",
+        "atleta": "Fellipe Bastos",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6963",
+        "rodata": "7",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "73",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6972",
+        "rodata": "8",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6985",
+        "rodata": "9",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6995",
+        "rodata": "10",
+        "clube": "Vasco",
+        "atleta": "Ygor Catatau",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6995",
+        "rodata": "10",
+        "clube": "Vasco",
+        "atleta": "Ribamar",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6995",
+        "rodata": "10",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7000",
+        "rodata": "12",
+        "clube": "Vasco",
+        "atleta": "Vinícius Paiva",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7015",
+        "rodata": "13",
+        "clube": "Vasco",
+        "atleta": "Martín Benítez",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7026",
+        "rodata": "15",
+        "clube": "Vasco",
+        "atleta": "Talles Magno",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7056",
+        "rodata": "18",
+        "clube": "Vasco",
+        "atleta": "Ribamar",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7073",
+        "rodata": "19",
+        "clube": "Vasco",
+        "atleta": "Léo Matos",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7086",
+        "rodata": "21",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7086",
+        "rodata": "21",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7100",
+        "rodata": "22",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7113",
+        "rodata": "23",
+        "clube": "Vasco",
+        "atleta": "Ribamar",
+        "minuto": "65",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7135",
+        "rodata": "25",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7142",
+        "rodata": "26",
+        "clube": "Vasco",
+        "atleta": "Carlinhos",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7173",
+        "rodata": "29",
+        "clube": "Vasco",
+        "atleta": "Talles Magno",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7173",
+        "rodata": "29",
+        "clube": "Vasco",
+        "atleta": "Andrey",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7173",
+        "rodata": "29",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "90+6",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7191",
+        "rodata": "31",
+        "clube": "Vasco",
+        "atleta": "Gabriel Pec",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7197",
+        "rodata": "32",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7197",
+        "rodata": "32",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7197",
+        "rodata": "32",
+        "clube": "Vasco",
+        "atleta": "Yago Pikachu",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6895",
+        "rodata": "1",
+        "clube": "Vasco",
+        "atleta": "Martín Benítez",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7264",
+        "rodata": "38",
+        "clube": "Vasco",
+        "atleta": "Germán Cano",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7264",
+        "rodata": "38",
+        "clube": "Vasco",
+        "atleta": "Ricardo Graça",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7264",
+        "rodata": "38",
+        "clube": "Vasco",
+        "atleta": "Ricardo Graça",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    }
+]

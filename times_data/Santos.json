@@ -1,0 +1,3514 @@
+[
+    {
+        "partida_id": "4615",
+        "rodata": "1",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4644",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4644",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Arouca",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4655",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Cícero Santos",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4665",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Cícero Santos",
+        "minuto": "39",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4665",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4686",
+        "rodata": "8",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4686",
+        "rodata": "8",
+        "clube": "Santos",
+        "atleta": "Alan Santos da Silva",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4694",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4694",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Diego Cardoso",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4714",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Bruno Uvini",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4714",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Alison Lopes Ferreira",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4727",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4727",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Diego Cardoso",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4727",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Rildo de Andrade Felicissimo",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4769",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Leandro Damião",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4769",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Thiago Ribeiro",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4783",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "86",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4797",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "David Braz",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4797",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "Leandro Damião",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4797",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "David Braz",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4810",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Thiago Ribeiro",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4819",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4819",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Robinho",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4844",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Robinho",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4844",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4844",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Leandro Damião",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4856",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4856",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Thiago Ribeiro",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4866",
+        "rodata": "25",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4866",
+        "rodata": "25",
+        "clube": "Santos",
+        "atleta": "David Braz",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4868",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Robinho",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4884",
+        "rodata": "27",
+        "clube": "Santos",
+        "atleta": "Leandro Damião",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4894",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4894",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4894",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4912",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Bruno Uvini",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4920",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4939",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Robinho",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4971",
+        "rodata": "37",
+        "clube": "Santos",
+        "atleta": "Leandro Damião",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4971",
+        "rodata": "37",
+        "clube": "Santos",
+        "atleta": "Leandro Damião",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4980",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Thiago Ribeiro",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4995",
+        "rodata": "1",
+        "clube": "Santos",
+        "atleta": "Robinho",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5003",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5020",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Robinho",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5020",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Werley Ananias da Silva",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5030",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5030",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5039",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5039",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "61",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5047",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5047",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5060",
+        "rodata": "8",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5086",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5093",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5098",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "90",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5107",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5107",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "David Braz",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5107",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5131",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5131",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5145",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5145",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5148",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5148",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5148",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Ivan Aparecido Martins",
+        "minuto": "43",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5159",
+        "rodata": "18",
+        "clube": "Santos",
+        "atleta": "Victor Ferraz",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5178",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Thiago Maia",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5178",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5178",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Nilson",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5178",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "90+2",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5178",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5195",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5205",
+        "rodata": "22",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5205",
+        "rodata": "22",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5205",
+        "rodata": "22",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5216",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5222",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "David Braz",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5222",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Rafael Longuine",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5222",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5229",
+        "rodata": "25",
+        "clube": "Santos",
+        "atleta": "Rafael Longuine",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5242",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Marquinhos",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5242",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5242",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5242",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5260",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Marquinhos",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5260",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "60",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5260",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Leandro",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5272",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Marquinhos",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5272",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Neto Berola",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5272",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5295",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Werley Ananias da Silva",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5295",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5295",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5312",
+        "rodata": "33",
+        "clube": "Santos",
+        "atleta": "Thiago Maia",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5312",
+        "rodata": "33",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5360",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5360",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5360",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5360",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Geuvânio",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5360",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5380",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5380",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Renato Dirnei Florêncio",
+        "minuto": "90+7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5387",
+        "rodata": "3",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "42",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5387",
+        "rodata": "3",
+        "clube": "Santos",
+        "atleta": "Joel Tagueu",
+        "minuto": "57",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5421",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Paulinho",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5421",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Bruno César Pereira da Silva",
+        "minuto": "70",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5421",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5436",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "José Carlos Cracco Neto",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5436",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "Joel Tagueu",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5440",
+        "rodata": "8",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5440",
+        "rodata": "8",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5461",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5461",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Luiz Felipe",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5461",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Rodrigão",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5461",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "45+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5474",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5474",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5474",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Rodrigão",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5479",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5479",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "José Carlos Cracco Neto",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5491",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Yuri Oliveira Lima",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5491",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Rodrigão",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5491",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5506",
+        "rodata": "14",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5508",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5508",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5508",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Victor Ferraz",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5525",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5525",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5525",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Jean Mota Oliveira de Souza",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5534",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5534",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Lucas Rios Marques",
+        "minuto": "74",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5562",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5562",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5562",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5574",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5596",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5603",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Renato Dirnei Florêncio",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5603",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5607",
+        "rodata": "25",
+        "clube": "Santos",
+        "atleta": "José Carlos Cracco Neto",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5624",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Jean Mota Oliveira de Souza",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5624",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Vitor Bueno",
+        "minuto": "90+13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5624",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5640",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "31",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5640",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Paulinho",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5650",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5650",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5665",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5674",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Fabián Noguera",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5685",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5695",
+        "rodata": "33",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5699",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5699",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5713",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5713",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "68",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5713",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5718",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "62",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5718",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5737",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5748",
+        "rodata": "1",
+        "clube": "Santos",
+        "atleta": "Victor Ferraz",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5748",
+        "rodata": "1",
+        "clube": "Santos",
+        "atleta": "Vladimir Hernández",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5756",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "David Braz",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5789",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Victor Ferraz",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5804",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Kayke Moreno",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5804",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Kayke Moreno",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5811",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "Kayke Moreno",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5826",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5826",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5847",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Thiago Maia",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5863",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5863",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5863",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5867",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Daniel Guedes",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5887",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Emiliano Vecchio",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5898",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5898",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5898",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5912",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "David Braz",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5920",
+        "rodata": "18",
+        "clube": "Santos",
+        "atleta": "Alison Lopes Ferreira",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5920",
+        "rodata": "18",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5920",
+        "rodata": "18",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5962",
+        "rodata": "22",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5970",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5970",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5987",
+        "rodata": "25",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5998",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6024",
+        "rodata": "27",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6015",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Jean Mota Oliveira de Souza",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6015",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Ramon Menezes Roma",
+        "minuto": "68",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6035",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6037",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6046",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Alison Lopes Ferreira",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6056",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6056",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Arthur Gomes",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6056",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "David Braz",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6070",
+        "rodata": "33",
+        "clube": "Santos",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6095",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6103",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6113",
+        "rodata": "37",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6113",
+        "rodata": "37",
+        "clube": "Santos",
+        "atleta": "Arthur Gomes",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6118",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6128",
+        "rodata": "1",
+        "clube": "Santos",
+        "atleta": "Pio",
+        "minuto": "42",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6128",
+        "rodata": "1",
+        "clube": "Santos",
+        "atleta": "Rodrygo Silva de Goes",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6163",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Jean Mota Oliveira de Souza",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6173",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Rodrygo Silva de Goes",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6173",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6173",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6213",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Rodrygo Silva de Goes",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6213",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6213",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Rodrygo Silva de Goes",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6213",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Rodrygo Silva de Goes",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6213",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Renato Dirnei Florêncio",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6219",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Victor Ferraz",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6235",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "51",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6238",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6254",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6269",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6296",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Jean Mota Oliveira de Souza",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6309",
+        "rodata": "18",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6316",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "Victor Ferraz",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6316",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6316",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "Rodrygo Silva de Goes",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6326",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Derlis González",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6326",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6338",
+        "rodata": "22",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6338",
+        "rodata": "22",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6338",
+        "rodata": "22",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6363",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6363",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6383",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6155",
+        "rodata": "3",
+        "clube": "Santos",
+        "atleta": "Diego Pituca",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6391",
+        "rodata": "27",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "90+7",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6398",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6407",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6425",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6425",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Fabiano",
+        "minuto": "79",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6428",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6428",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "84",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6428",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Victor Ferraz",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6438",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "José Rodolfo Pires Ribeiro",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6438",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Jonathan Copete",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6470",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6477",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Rodrygo Silva de Goes",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6486",
+        "rodata": "37",
+        "clube": "Santos",
+        "atleta": "Wanderson Felipe Cardoso dos Santos",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6486",
+        "rodata": "37",
+        "clube": "Santos",
+        "atleta": "Gabriel Barbosa",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6486",
+        "rodata": "37",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6501",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Rodrygo Silva de Goes",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6510",
+        "rodata": "1",
+        "clube": "Santos",
+        "atleta": "Felipe Jonatan",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6510",
+        "rodata": "1",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6524",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6524",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6540",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Diego Pituca",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6540",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Rodrygo Silva de Goes",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6540",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6569",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6584",
+        "rodata": "8",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6584",
+        "rodata": "8",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6584",
+        "rodata": "8",
+        "clube": "Santos",
+        "atleta": "Jean Mota Oliveira de Souza",
+        "minuto": "45+5",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6590",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6598",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6611",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6622",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Derlis González",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6622",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6622",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Felipe Jonatan",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6628",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6628",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6628",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Lucas Veríssimo",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6628",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6628",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6628",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6637",
+        "rodata": "14",
+        "clube": "Santos",
+        "atleta": "Raniel",
+        "minuto": "86",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6637",
+        "rodata": "14",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6660",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Jorge Marco de Oliveira Moraes",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6660",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6660",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6668",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Gum",
+        "minuto": "39",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6683",
+        "rodata": "18",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "90+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6711",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6718",
+        "rodata": "22",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6718",
+        "rodata": "22",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "35",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6726",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Tailson Pinto Gonçalves",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6742",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6742",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6764",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6764",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Gustavo Henrique Vernes",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6792",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "54",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6803",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6803",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6803",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6803",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6808",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6808",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6816",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6816",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6816",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6836",
+        "rodata": "33",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "8",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6827",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6827",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6827",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6827",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Diego Pituca",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6853",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6863",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Lucas Veríssimo",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6863",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Evandro Goebel",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6877",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6877",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Eduardo Sasha",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6877",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6877",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6889",
+        "rodata": "1",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6915",
+        "rodata": "3",
+        "clube": "Santos",
+        "atleta": "Felipe Jonatan",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6915",
+        "rodata": "3",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6915",
+        "rodata": "3",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6923",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6931",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Ramires",
+        "minuto": "48",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6963",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "Lucas Veríssimo",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6963",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6968",
+        "rodata": "8",
+        "clube": "Santos",
+        "atleta": "Felipe Jonatan",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6981",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6981",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "90+9",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6981",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Arthur Gomes",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6987",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6987",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7004",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7013",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "19",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7013",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7013",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Jefferson",
+        "minuto": "54",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7016",
+        "rodata": "14",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7031",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "20",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7031",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "79",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7047",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Kaio Jorge",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7047",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "27",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7061",
+        "rodata": "18",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7072",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7072",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "Jobson Souza Santos",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7072",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7081",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Léo Ortiz",
+        "minuto": "64",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7087",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Ivonei",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7087",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Kaio Jorge",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7110",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "82",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7110",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Lucas Braga Ribeiro",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7110",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique Marques Torres",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7110",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "7",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7117",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Diego Pituca",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7117",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7132",
+        "rodata": "25",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique Marques Torres",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7154",
+        "rodata": "27",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7169",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Jobson Souza Santos",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7180",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Bruno Henrique Marques Torres",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7180",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Yeferson Soteldo",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7203",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Kaio Jorge",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7203",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Lucas Braga Ribeiro",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7203",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "87",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7216",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Kaio Jorge",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7216",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Arthur Gomes",
+        "minuto": "67",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7216",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "90+6",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7227",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "79",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7238",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7238",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Mário Sérgio Santos Costa",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7215",
+        "rodata": "33",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7251",
+        "rodata": "37",
+        "clube": "Santos",
+        "atleta": "Jean Mota Oliveira de Souza",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7277",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Jean Mota Oliveira de Souza",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7277",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Marinho",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7277",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Kaio Jorge",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7312",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Marinho",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7312",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Gabriel Pirani",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7325",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Marcos Guilherme",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7325",
+        "rodata": "6",
+        "clube": "Santos",
+        "atleta": "Marinho",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7331",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "Marcos Guilherme",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7331",
+        "rodata": "7",
+        "clube": "Santos",
+        "atleta": "Jean Mota Oliveira de Souza",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7356",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Marcos Guilherme",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7356",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Ivaldo",
+        "minuto": "50",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7366",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "69",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7366",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Marinho",
+        "minuto": "90+2",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7384",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Marcos Guilherme",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7384",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7401",
+        "rodata": "14",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "43",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7423",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7432",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Gabriel Pirani",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7432",
+        "rodata": "17",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7447",
+        "rodata": "19",
+        "clube": "Santos",
+        "atleta": "Gabriel Pirani",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7505",
+        "rodata": "24",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7514",
+        "rodata": "25",
+        "clube": "Santos",
+        "atleta": "Wagner Leonardo",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7518",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Raniel",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7494",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7494",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Diego Tardelli",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7556",
+        "rodata": "29",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7570",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Marinho",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7570",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Carlos Andrés Sánchez",
+        "minuto": "90+3",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7599",
+        "rodata": "33",
+        "clube": "Santos",
+        "atleta": "Marinho",
+        "minuto": "27",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7599",
+        "rodata": "33",
+        "clube": "Santos",
+        "atleta": "Marcos Guilherme",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7608",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7608",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7621",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7634",
+        "rodata": "37",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7645",
+        "rodata": "38",
+        "clube": "Santos",
+        "atleta": "Lucas Braga Ribeiro",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7660",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Henrique Adriano Buss",
+        "minuto": "32",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7660",
+        "rodata": "2",
+        "clube": "Santos",
+        "atleta": "Léo Baptistão",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7681",
+        "rodata": "3",
+        "clube": "Santos",
+        "atleta": "Vinicius Zanocelo",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7681",
+        "rodata": "3",
+        "clube": "Santos",
+        "atleta": "Vinicius Zanocelo",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7681",
+        "rodata": "3",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7675",
+        "rodata": "4",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7692",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7692",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Bryan Angulo",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7692",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Rwan Philipe Rodrigues de Souza Cruz",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7692",
+        "rodata": "5",
+        "clube": "Santos",
+        "atleta": "Léo Baptistão",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7727",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7727",
+        "rodata": "9",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7742",
+        "rodata": "10",
+        "clube": "Santos",
+        "atleta": "Lucas Braga Ribeiro",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7747",
+        "rodata": "11",
+        "clube": "Santos",
+        "atleta": "Rwan Philipe Rodrigues de Souza Cruz",
+        "minuto": "84",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7756",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Eduardo",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7756",
+        "rodata": "12",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7767",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Léo Baptistão",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7767",
+        "rodata": "13",
+        "clube": "Santos",
+        "atleta": "Léo Baptistão",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7788",
+        "rodata": "15",
+        "clube": "Santos",
+        "atleta": "Vinicius Zanocelo",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7801",
+        "rodata": "16",
+        "clube": "Santos",
+        "atleta": "Lucas Barbosa",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7822",
+        "rodata": "18",
+        "clube": "Santos",
+        "atleta": "Léo Baptistão",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7822",
+        "rodata": "18",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7845",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Luiz Felipe",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7845",
+        "rodata": "20",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7855",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7855",
+        "rodata": "21",
+        "clube": "Santos",
+        "atleta": "Bryan Angulo",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7874",
+        "rodata": "23",
+        "clube": "Santos",
+        "atleta": "Lucas Braga Ribeiro",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7895",
+        "rodata": "25",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7898",
+        "rodata": "26",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7917",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Nicolás Hernández",
+        "minuto": "90+2",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7917",
+        "rodata": "28",
+        "clube": "Santos",
+        "atleta": "Luan Guilherme de Jesus Vieira",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7942",
+        "rodata": "30",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "88",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7955",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Madson",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7955",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Lucas Braga Ribeiro",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7955",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Lucas Braga Ribeiro",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7955",
+        "rodata": "31",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7964",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Guilherme Camacho",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7964",
+        "rodata": "32",
+        "clube": "Santos",
+        "atleta": "Ângelo Gabriel",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7976",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Gabriel Carabajal",
+        "minuto": "90+7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7976",
+        "rodata": "34",
+        "clube": "Santos",
+        "atleta": "Alex",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7993",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Lucas Braga Ribeiro",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7993",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Lucas Barbosa",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7993",
+        "rodata": "35",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7996",
+        "rodata": "36",
+        "clube": "Santos",
+        "atleta": "Marcos Leonardo Santos Almeida",
+        "minuto": "5",
+        "tipo_de_gol": "Penalty"
+    }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "partida_id": "6150",
+        "rodata": "3",
+        "clube": "Parana",
+        "atleta": "Jhonny Lucas",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6165",
+        "rodata": "4",
+        "clube": "Parana",
+        "atleta": "Carlos Júnior",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6173",
+        "rodata": "5",
+        "clube": "Parana",
+        "atleta": "Silvinho",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6215",
+        "rodata": "9",
+        "clube": "Parana",
+        "atleta": "Guilherme Biteco",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6215",
+        "rodata": "9",
+        "clube": "Parana",
+        "atleta": "Thiago Santos",
+        "minuto": "53",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6223",
+        "rodata": "10",
+        "clube": "Parana",
+        "atleta": "Silvinho",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6240",
+        "rodata": "12",
+        "clube": "Parana",
+        "atleta": "Silvinho",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6260",
+        "rodata": "14",
+        "clube": "Parana",
+        "atleta": "Rodolfo",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6308",
+        "rodata": "18",
+        "clube": "Parana",
+        "atleta": "Alex Paulo Menezes Santana",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6298",
+        "rodata": "20",
+        "clube": "Parana",
+        "atleta": "Junior",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6350",
+        "rodata": "23",
+        "clube": "Parana",
+        "atleta": "Rafael Grampola",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6395",
+        "rodata": "27",
+        "clube": "Parana",
+        "atleta": "Alex Paulo Menezes Santana",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6433",
+        "rodata": "31",
+        "clube": "Parana",
+        "atleta": "Egídio de Araújo Pereira Júnior",
+        "minuto": "20",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6440",
+        "rodata": "32",
+        "clube": "Parana",
+        "atleta": "Alex Paulo Menezes Santana",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6446",
+        "rodata": "33",
+        "clube": "Parana",
+        "atleta": "Andrey Nunes dos Santos",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6469",
+        "rodata": "35",
+        "clube": "Parana",
+        "atleta": "Keslley dos Santos Lopes",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6494",
+        "rodata": "37",
+        "clube": "Parana",
+        "atleta": "Alex Paulo Menezes Santana",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6502",
+        "rodata": "38",
+        "clube": "Parana",
+        "atleta": "Jhonny Lucas",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    }
+]

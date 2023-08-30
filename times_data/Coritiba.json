@@ -1,0 +1,1810 @@
+[
+    {
+        "partida_id": "4629",
+        "rodata": "3",
+        "clube": "Coritiba",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4629",
+        "rodata": "3",
+        "clube": "Coritiba",
+        "atleta": "Luis Francisco Grando",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4648",
+        "rodata": "5",
+        "clube": "Coritiba",
+        "atleta": "Alexsandro de Souza",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4648",
+        "rodata": "5",
+        "clube": "Coritiba",
+        "atleta": "Norberto Pereira Marinho Neto",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4657",
+        "rodata": "6",
+        "clube": "Coritiba",
+        "atleta": "Alexsandro de Souza",
+        "minuto": "75",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4687",
+        "rodata": "9",
+        "clube": "Coritiba",
+        "atleta": "Alexsandro de Souza",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4687",
+        "rodata": "9",
+        "clube": "Coritiba",
+        "atleta": "Keirrison",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4687",
+        "rodata": "9",
+        "clube": "Coritiba",
+        "atleta": "Dener Assunção Braz",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4736",
+        "rodata": "12",
+        "clube": "Coritiba",
+        "atleta": "Zé Love",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4736",
+        "rodata": "12",
+        "clube": "Coritiba",
+        "atleta": "Alexsandro de Souza",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4736",
+        "rodata": "12",
+        "clube": "Coritiba",
+        "atleta": "Zé Love",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4749",
+        "rodata": "14",
+        "clube": "Coritiba",
+        "atleta": "Germano Borovicz Cardoso Schweger",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4770",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Luiz Eduardo Figueiredo",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4770",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Keirrison",
+        "minuto": "63",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4811",
+        "rodata": "20",
+        "clube": "Coritiba",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4811",
+        "rodata": "20",
+        "clube": "Coritiba",
+        "atleta": "Alejandro Martinuccio",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4811",
+        "rodata": "20",
+        "clube": "Coritiba",
+        "atleta": "Joel Tagueu",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4819",
+        "rodata": "21",
+        "clube": "Coritiba",
+        "atleta": "Luiz Eduardo Figueiredo",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4833",
+        "rodata": "22",
+        "clube": "Coritiba",
+        "atleta": "Joel Tagueu",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4833",
+        "rodata": "22",
+        "clube": "Coritiba",
+        "atleta": "Hélder",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4833",
+        "rodata": "22",
+        "clube": "Coritiba",
+        "atleta": "Joel Tagueu",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4848",
+        "rodata": "24",
+        "clube": "Coritiba",
+        "atleta": "Alejandro Martinuccio",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4865",
+        "rodata": "25",
+        "clube": "Coritiba",
+        "atleta": "Leandro Almeida",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4865",
+        "rodata": "25",
+        "clube": "Coritiba",
+        "atleta": "Zé Love",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4870",
+        "rodata": "26",
+        "clube": "Coritiba",
+        "atleta": "Hélder",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4878",
+        "rodata": "27",
+        "clube": "Coritiba",
+        "atleta": "Luccas Claro",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4903",
+        "rodata": "30",
+        "clube": "Coritiba",
+        "atleta": "Joel Tagueu",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4903",
+        "rodata": "30",
+        "clube": "Coritiba",
+        "atleta": "Alexsandro de Souza",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4913",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Leandro Almeida",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4919",
+        "rodata": "32",
+        "clube": "Coritiba",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4919",
+        "rodata": "32",
+        "clube": "Coritiba",
+        "atleta": "Alexsandro de Souza",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4927",
+        "rodata": "33",
+        "clube": "Coritiba",
+        "atleta": "Joel Tagueu",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4951",
+        "rodata": "34",
+        "clube": "Coritiba",
+        "atleta": "Joel Tagueu",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4951",
+        "rodata": "34",
+        "clube": "Coritiba",
+        "atleta": "Joel Tagueu",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4941",
+        "rodata": "35",
+        "clube": "Coritiba",
+        "atleta": "Luccas Claro",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4966",
+        "rodata": "36",
+        "clube": "Coritiba",
+        "atleta": "Zé Love",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4966",
+        "rodata": "36",
+        "clube": "Coritiba",
+        "atleta": "Joel Tagueu",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4974",
+        "rodata": "37",
+        "clube": "Coritiba",
+        "atleta": "Carlos Emiliano Pereira",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4974",
+        "rodata": "37",
+        "clube": "Coritiba",
+        "atleta": "Leandro Almeida",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4979",
+        "rodata": "38",
+        "clube": "Coritiba",
+        "atleta": "Keirrison",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4979",
+        "rodata": "38",
+        "clube": "Coritiba",
+        "atleta": "Zé Love",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4979",
+        "rodata": "38",
+        "clube": "Coritiba",
+        "atleta": "Luiz Eduardo Figueiredo",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4987",
+        "rodata": "1",
+        "clube": "Coritiba",
+        "atleta": "Rafhael Lucas",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4998",
+        "rodata": "2",
+        "clube": "Coritiba",
+        "atleta": "Thiago Galhardo",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4998",
+        "rodata": "2",
+        "clube": "Coritiba",
+        "atleta": "Frickson Erazo",
+        "minuto": "34",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5018",
+        "rodata": "4",
+        "clube": "Coritiba",
+        "atleta": "Paulinho Moccelin",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5064",
+        "rodata": "8",
+        "clube": "Coritiba",
+        "atleta": "Wellington Paulista",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5064",
+        "rodata": "8",
+        "clube": "Coritiba",
+        "atleta": "Ruy Franco de Almeida Junior",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5074",
+        "rodata": "9",
+        "clube": "Coritiba",
+        "atleta": "Rafhael Lucas",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5110",
+        "rodata": "13",
+        "clube": "Coritiba",
+        "atleta": "Marcos Aurélio de Oliveira Lima",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5133",
+        "rodata": "15",
+        "clube": "Coritiba",
+        "atleta": "Evandro da Silva",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5140",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Evandro da Silva",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5157",
+        "rodata": "18",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5157",
+        "rodata": "18",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5167",
+        "rodata": "19",
+        "clube": "Coritiba",
+        "atleta": "Evandro da Silva",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5180",
+        "rodata": "20",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5214",
+        "rodata": "23",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5214",
+        "rodata": "23",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5221",
+        "rodata": "24",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5246",
+        "rodata": "26",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "9",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5246",
+        "rodata": "26",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5256",
+        "rodata": "27",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5256",
+        "rodata": "27",
+        "clube": "Coritiba",
+        "atleta": "Negueba",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5279",
+        "rodata": "30",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "89",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5302",
+        "rodata": "32",
+        "clube": "Coritiba",
+        "atleta": "Luis Cáceres",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5310",
+        "rodata": "33",
+        "clube": "Coritiba",
+        "atleta": "Juan Maldonado Jaimez Júnior",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5318",
+        "rodata": "34",
+        "clube": "Coritiba",
+        "atleta": "Negueba",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5328",
+        "rodata": "35",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5328",
+        "rodata": "35",
+        "clube": "Coritiba",
+        "atleta": "Juan Maldonado Jaimez Júnior",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5328",
+        "rodata": "35",
+        "clube": "Coritiba",
+        "atleta": "João Paulo Silva",
+        "minuto": "45+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5345",
+        "rodata": "36",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5355",
+        "rodata": "37",
+        "clube": "Coritiba",
+        "atleta": "Juan Maldonado Jaimez Júnior",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5355",
+        "rodata": "37",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5370",
+        "rodata": "1",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5380",
+        "rodata": "2",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5393",
+        "rodata": "3",
+        "clube": "Coritiba",
+        "atleta": "Alan Santos da Silva",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5410",
+        "rodata": "5",
+        "clube": "Coritiba",
+        "atleta": "José Carlos Ferreira Júnior",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5410",
+        "rodata": "5",
+        "clube": "Coritiba",
+        "atleta": "Rafael Marques Pinto",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5410",
+        "rodata": "5",
+        "clube": "Coritiba",
+        "atleta": "Jorge Ortega",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5419",
+        "rodata": "6",
+        "clube": "Coritiba",
+        "atleta": "Negueba",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5431",
+        "rodata": "7",
+        "clube": "Coritiba",
+        "atleta": "Ruy Franco de Almeida Junior",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5431",
+        "rodata": "7",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5431",
+        "rodata": "7",
+        "clube": "Coritiba",
+        "atleta": "Luccas Claro",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5443",
+        "rodata": "8",
+        "clube": "Coritiba",
+        "atleta": "João Paulo Silva",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5443",
+        "rodata": "8",
+        "clube": "Coritiba",
+        "atleta": "Leandro",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5449",
+        "rodata": "9",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5466",
+        "rodata": "10",
+        "clube": "Coritiba",
+        "atleta": "Nery Bareiro",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5480",
+        "rodata": "12",
+        "clube": "Coritiba",
+        "atleta": "Colin Kâzım-Richards",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5516",
+        "rodata": "15",
+        "clube": "Coritiba",
+        "atleta": "Carlos Emiliano Pereira",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5518",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5537",
+        "rodata": "18",
+        "clube": "Coritiba",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5549",
+        "rodata": "19",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5549",
+        "rodata": "19",
+        "clube": "Coritiba",
+        "atleta": "Luccas Claro",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5549",
+        "rodata": "19",
+        "clube": "Coritiba",
+        "atleta": "Juan Maldonado Jaimez Júnior",
+        "minuto": "80",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5561",
+        "rodata": "20",
+        "clube": "Coritiba",
+        "atleta": "Colin Kâzım-Richards",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5561",
+        "rodata": "20",
+        "clube": "Coritiba",
+        "atleta": "Juan Maldonado Jaimez Júnior",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5574",
+        "rodata": "21",
+        "clube": "Coritiba",
+        "atleta": "Iago Dias",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5574",
+        "rodata": "21",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5593",
+        "rodata": "23",
+        "clube": "Coritiba",
+        "atleta": "Neto Berola",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5593",
+        "rodata": "23",
+        "clube": "Coritiba",
+        "atleta": "Walisson",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5593",
+        "rodata": "23",
+        "clube": "Coritiba",
+        "atleta": "Leandro",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5593",
+        "rodata": "23",
+        "clube": "Coritiba",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5611",
+        "rodata": "25",
+        "clube": "Coritiba",
+        "atleta": "Leandro",
+        "minuto": "28",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5620",
+        "rodata": "26",
+        "clube": "Coritiba",
+        "atleta": "Willian José de Souza",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5627",
+        "rodata": "27",
+        "clube": "Coritiba",
+        "atleta": "Iago Dias",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5646",
+        "rodata": "28",
+        "clube": "Coritiba",
+        "atleta": "Juan Maldonado Jaimez Júnior",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5646",
+        "rodata": "28",
+        "clube": "Coritiba",
+        "atleta": "Colin Kâzım-Richards",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5646",
+        "rodata": "28",
+        "clube": "Coritiba",
+        "atleta": "Juan Maldonado Jaimez Júnior",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5683",
+        "rodata": "32",
+        "clube": "Coritiba",
+        "atleta": "Leandro",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5704",
+        "rodata": "34",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "90+3",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5704",
+        "rodata": "34",
+        "clube": "Coritiba",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5709",
+        "rodata": "35",
+        "clube": "Coritiba",
+        "atleta": "Leandro",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5723",
+        "rodata": "36",
+        "clube": "Coritiba",
+        "atleta": "Willian José de Souza",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5723",
+        "rodata": "36",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5755",
+        "rodata": "1",
+        "clube": "Coritiba",
+        "atleta": "Tomas Almino da Silva Bastos",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5755",
+        "rodata": "1",
+        "clube": "Coritiba",
+        "atleta": "Tomas Almino da Silva Bastos",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5755",
+        "rodata": "1",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5755",
+        "rodata": "1",
+        "clube": "Coritiba",
+        "atleta": "Neto Berola",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5768",
+        "rodata": "3",
+        "clube": "Coritiba",
+        "atleta": "Rildo de Andrade Felicissimo",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5776",
+        "rodata": "4",
+        "clube": "Coritiba",
+        "atleta": "Marcio",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5788",
+        "rodata": "5",
+        "clube": "Coritiba",
+        "atleta": "Matheus Galdezani",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5798",
+        "rodata": "6",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "7",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5798",
+        "rodata": "6",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "55",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5854",
+        "rodata": "11",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5854",
+        "rodata": "11",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5875",
+        "rodata": "13",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5875",
+        "rodata": "13",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "11",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5875",
+        "rodata": "13",
+        "clube": "Coritiba",
+        "atleta": "Rildo de Andrade Felicissimo",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5875",
+        "rodata": "13",
+        "clube": "Coritiba",
+        "atleta": "Rildo de Andrade Felicissimo",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5884",
+        "rodata": "14",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5897",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5924",
+        "rodata": "18",
+        "clube": "Coritiba",
+        "atleta": "Yilmar Filigrana",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5924",
+        "rodata": "18",
+        "clube": "Coritiba",
+        "atleta": "Thiago Carleto",
+        "minuto": "57",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5931",
+        "rodata": "19",
+        "clube": "Coritiba",
+        "atleta": "Alecsandro",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5931",
+        "rodata": "19",
+        "clube": "Coritiba",
+        "atleta": "Rildo de Andrade Felicissimo",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5969",
+        "rodata": "23",
+        "clube": "Coritiba",
+        "atleta": "Werley Ananias da Silva",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5990",
+        "rodata": "25",
+        "clube": "Coritiba",
+        "atleta": "Werley Ananias da Silva",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5990",
+        "rodata": "25",
+        "clube": "Coritiba",
+        "atleta": "Thiago Carleto",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5997",
+        "rodata": "26",
+        "clube": "Coritiba",
+        "atleta": "Rildo de Andrade Felicissimo",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6018",
+        "rodata": "27",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6027",
+        "rodata": "29",
+        "clube": "Coritiba",
+        "atleta": "Diogo Barbosa",
+        "minuto": "34",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6036",
+        "rodata": "30",
+        "clube": "Coritiba",
+        "atleta": "Rildo de Andrade Felicissimo",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6053",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Henrique Almeida",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6053",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Jonas Gomes de Sousa",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6053",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Yan Sasse",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6053",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Werley Ananias da Silva",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6059",
+        "rodata": "32",
+        "clube": "Coritiba",
+        "atleta": "Wilson Rodrigues de Moura Júnior",
+        "minuto": "41",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6059",
+        "rodata": "32",
+        "clube": "Coritiba",
+        "atleta": "Jonas Gomes de Sousa",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6059",
+        "rodata": "32",
+        "clube": "Coritiba",
+        "atleta": "Alan Santos da Silva",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6059",
+        "rodata": "32",
+        "clube": "Coritiba",
+        "atleta": "Tiago Real",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6075",
+        "rodata": "33",
+        "clube": "Coritiba",
+        "atleta": "Cleber Reis",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6075",
+        "rodata": "33",
+        "clube": "Coritiba",
+        "atleta": "Werley Ananias da Silva",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6084",
+        "rodata": "34",
+        "clube": "Coritiba",
+        "atleta": "Yan Sasse",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6094",
+        "rodata": "35",
+        "clube": "Coritiba",
+        "atleta": "Cleber Reis",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6110",
+        "rodata": "37",
+        "clube": "Coritiba",
+        "atleta": "Wilson Rodrigues de Moura Júnior",
+        "minuto": "42",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6123",
+        "rodata": "38",
+        "clube": "Coritiba",
+        "atleta": "Kléber",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6921",
+        "rodata": "4",
+        "clube": "Coritiba",
+        "atleta": "Luiz Ricardo Alves",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6932",
+        "rodata": "5",
+        "clube": "Coritiba",
+        "atleta": "Sabino",
+        "minuto": "45+4",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6932",
+        "rodata": "5",
+        "clube": "Coritiba",
+        "atleta": "Robson Fernandes",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6951",
+        "rodata": "6",
+        "clube": "Coritiba",
+        "atleta": "Sabino",
+        "minuto": "90+5",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6978",
+        "rodata": "9",
+        "clube": "Coritiba",
+        "atleta": "Robson Fernandes",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6978",
+        "rodata": "9",
+        "clube": "Coritiba",
+        "atleta": "Sabino",
+        "minuto": "90+6",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6978",
+        "rodata": "9",
+        "clube": "Coritiba",
+        "atleta": "William Matheus",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6942",
+        "rodata": "11",
+        "clube": "Coritiba",
+        "atleta": "Robson Fernandes",
+        "minuto": "90",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7010",
+        "rodata": "13",
+        "clube": "Coritiba",
+        "atleta": "Robson Fernandes",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7019",
+        "rodata": "14",
+        "clube": "Coritiba",
+        "atleta": "Nathan Silva",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7036",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Robson Fernandes",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7036",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Robson Fernandes",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7036",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Giovanni Augusto",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7047",
+        "rodata": "17",
+        "clube": "Coritiba",
+        "atleta": "Giovanni Augusto",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7058",
+        "rodata": "18",
+        "clube": "Coritiba",
+        "atleta": "Rodrigo Muniz",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7067",
+        "rodata": "19",
+        "clube": "Coritiba",
+        "atleta": "Matheus Galdezani",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7080",
+        "rodata": "20",
+        "clube": "Coritiba",
+        "atleta": "Giovanni Augusto",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7080",
+        "rodata": "20",
+        "clube": "Coritiba",
+        "atleta": "Sabino",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7094",
+        "rodata": "21",
+        "clube": "Coritiba",
+        "atleta": "Giovanni Augusto",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7098",
+        "rodata": "22",
+        "clube": "Coritiba",
+        "atleta": "Mattheus Oliveira",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7140",
+        "rodata": "26",
+        "clube": "Coritiba",
+        "atleta": "Neilton Mestzk",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7158",
+        "rodata": "28",
+        "clube": "Coritiba",
+        "atleta": "Robson Fernandes",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7178",
+        "rodata": "30",
+        "clube": "Coritiba",
+        "atleta": "Hugo Moura",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7189",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Luiz Henrique",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7189",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Natanael",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7189",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Robson Fernandes",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7196",
+        "rodata": "32",
+        "clube": "Coritiba",
+        "atleta": "Martín Sarrafiore",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7209",
+        "rodata": "33",
+        "clube": "Coritiba",
+        "atleta": "Wilson Rodrigues de Moura Júnior",
+        "minuto": "73",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7221",
+        "rodata": "34",
+        "clube": "Coritiba",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7235",
+        "rodata": "35",
+        "clube": "Coritiba",
+        "atleta": "Jonathan Francisco Lemos",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7259",
+        "rodata": "38",
+        "clube": "Coritiba",
+        "atleta": "Ricardo Oliveira",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7649",
+        "rodata": "1",
+        "clube": "Coritiba",
+        "atleta": "Léo Gamalho",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7649",
+        "rodata": "1",
+        "clube": "Coritiba",
+        "atleta": "Andrey",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7649",
+        "rodata": "1",
+        "clube": "Coritiba",
+        "atleta": "Alef Manga",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7660",
+        "rodata": "2",
+        "clube": "Coritiba",
+        "atleta": "Léo Gamalho",
+        "minuto": "28",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7680",
+        "rodata": "3",
+        "clube": "Coritiba",
+        "atleta": "Igor Paixão",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7680",
+        "rodata": "3",
+        "clube": "Coritiba",
+        "atleta": "Adrián Emmanuel Martínez",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7673",
+        "rodata": "4",
+        "clube": "Coritiba",
+        "atleta": "Andrey",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7673",
+        "rodata": "4",
+        "clube": "Coritiba",
+        "atleta": "Léo Gamalho",
+        "minuto": "53",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7673",
+        "rodata": "4",
+        "clube": "Coritiba",
+        "atleta": "Léo Gamalho",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7695",
+        "rodata": "5",
+        "clube": "Coritiba",
+        "atleta": "Igor Paixão",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7712",
+        "rodata": "6",
+        "clube": "Coritiba",
+        "atleta": "Andrey",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7719",
+        "rodata": "8",
+        "clube": "Coritiba",
+        "atleta": "Igor Paixão",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7728",
+        "rodata": "9",
+        "clube": "Coritiba",
+        "atleta": "Adrián Emmanuel Martínez",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7744",
+        "rodata": "10",
+        "clube": "Coritiba",
+        "atleta": "Alef Manga",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7758",
+        "rodata": "12",
+        "clube": "Coritiba",
+        "atleta": "Igor Paixão",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7758",
+        "rodata": "12",
+        "clube": "Coritiba",
+        "atleta": "Adrián Emmanuel Martínez",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7794",
+        "rodata": "15",
+        "clube": "Coritiba",
+        "atleta": "Léo Gamalho",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7794",
+        "rodata": "15",
+        "clube": "Coritiba",
+        "atleta": "José Hugo",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7799",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Adrián Emmanuel Martínez",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7799",
+        "rodata": "16",
+        "clube": "Coritiba",
+        "atleta": "Léo Gamalho",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7823",
+        "rodata": "18",
+        "clube": "Coritiba",
+        "atleta": "Luciano Castán",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7835",
+        "rodata": "19",
+        "clube": "Coritiba",
+        "atleta": "Alef Manga",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7855",
+        "rodata": "21",
+        "clube": "Coritiba",
+        "atleta": "Léo Gamalho",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7867",
+        "rodata": "23",
+        "clube": "Coritiba",
+        "atleta": "Alef Manga",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7867",
+        "rodata": "23",
+        "clube": "Coritiba",
+        "atleta": "Egídio",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7877",
+        "rodata": "24",
+        "clube": "Coritiba",
+        "atleta": "Fabrício Daniel de Souza",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7904",
+        "rodata": "26",
+        "clube": "Coritiba",
+        "atleta": "Alef Manga",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7904",
+        "rodata": "26",
+        "clube": "Coritiba",
+        "atleta": "Fabrício Daniel de Souza",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7918",
+        "rodata": "28",
+        "clube": "Coritiba",
+        "atleta": "Fabrício Daniel de Souza",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7951",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Alef Manga",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7951",
+        "rodata": "31",
+        "clube": "Coritiba",
+        "atleta": "Bruno Gomes",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7935",
+        "rodata": "29",
+        "clube": "Coritiba",
+        "atleta": "Matheus Cadorini",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7972",
+        "rodata": "33",
+        "clube": "Coritiba",
+        "atleta": "Luciano Castán",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7982",
+        "rodata": "34",
+        "clube": "Coritiba",
+        "atleta": "Matheus Cadorini",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7991",
+        "rodata": "35",
+        "clube": "Coritiba",
+        "atleta": "Régis",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8003",
+        "rodata": "36",
+        "clube": "Coritiba",
+        "atleta": "Alef Manga",
+        "minuto": "58",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "8007",
+        "rodata": "37",
+        "clube": "Coritiba",
+        "atleta": "Alef Manga",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8007",
+        "rodata": "37",
+        "clube": "Coritiba",
+        "atleta": "Alef Manga",
+        "minuto": "37",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "8021",
+        "rodata": "38",
+        "clube": "Coritiba",
+        "atleta": "Léo Gamalho",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    }
+]

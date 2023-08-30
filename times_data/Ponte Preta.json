@@ -1,0 +1,1010 @@
+[
+    {
+        "partida_id": "4990",
+        "rodata": "1",
+        "clube": "Ponte Preta",
+        "atleta": "Rildo de Andrade Felicissimo",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4990",
+        "rodata": "1",
+        "clube": "Ponte Preta",
+        "atleta": "Diego Oliveira",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4990",
+        "rodata": "1",
+        "clube": "Ponte Preta",
+        "atleta": "Renato Cajá",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5005",
+        "rodata": "2",
+        "clube": "Ponte Preta",
+        "atleta": "Renato Cajá",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5015",
+        "rodata": "3",
+        "clube": "Ponte Preta",
+        "atleta": "Biro-Biro",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5017",
+        "rodata": "4",
+        "clube": "Ponte Preta",
+        "atleta": "Renato Cajá",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5017",
+        "rodata": "4",
+        "clube": "Ponte Preta",
+        "atleta": "Tiago dos Santos Alves",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5017",
+        "rodata": "4",
+        "clube": "Ponte Preta",
+        "atleta": "Biro-Biro",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5028",
+        "rodata": "5",
+        "clube": "Ponte Preta",
+        "atleta": "Borges",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5028",
+        "rodata": "5",
+        "clube": "Ponte Preta",
+        "atleta": "Diego Oliveira",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5028",
+        "rodata": "5",
+        "clube": "Ponte Preta",
+        "atleta": "Tiago dos Santos Alves",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5039",
+        "rodata": "6",
+        "clube": "Ponte Preta",
+        "atleta": "Felipe Azevedo",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5039",
+        "rodata": "6",
+        "clube": "Ponte Preta",
+        "atleta": "Renato Cajá",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5073",
+        "rodata": "9",
+        "clube": "Ponte Preta",
+        "atleta": "Renato Cajá",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5073",
+        "rodata": "9",
+        "clube": "Ponte Preta",
+        "atleta": "Felipe Azevedo",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5126",
+        "rodata": "14",
+        "clube": "Ponte Preta",
+        "atleta": "Fernando Paixão da Silva",
+        "minuto": "74",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5144",
+        "rodata": "16",
+        "clube": "Ponte Preta",
+        "atleta": "Renato de Araújo Chaves Júnior",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5153",
+        "rodata": "17",
+        "clube": "Ponte Preta",
+        "atleta": "Pablo Castro",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5164",
+        "rodata": "18",
+        "clube": "Ponte Preta",
+        "atleta": "Borges",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5164",
+        "rodata": "18",
+        "clube": "Ponte Preta",
+        "atleta": "Felipe Azevedo",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5174",
+        "rodata": "19",
+        "clube": "Ponte Preta",
+        "atleta": "Borges",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5198",
+        "rodata": "22",
+        "clube": "Ponte Preta",
+        "atleta": "Biro-Biro",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5229",
+        "rodata": "25",
+        "clube": "Ponte Preta",
+        "atleta": "Luiz Antonio Linhares Garcia",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5229",
+        "rodata": "25",
+        "clube": "Ponte Preta",
+        "atleta": "Borges",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5229",
+        "rodata": "25",
+        "clube": "Ponte Preta",
+        "atleta": "Renato Baruffi",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5239",
+        "rodata": "26",
+        "clube": "Ponte Preta",
+        "atleta": "Alexandro da Silva Batista",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5239",
+        "rodata": "26",
+        "clube": "Ponte Preta",
+        "atleta": "Biro-Biro",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5249",
+        "rodata": "27",
+        "clube": "Ponte Preta",
+        "atleta": "Marlon",
+        "minuto": "42",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5249",
+        "rodata": "27",
+        "clube": "Ponte Preta",
+        "atleta": "Borges",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5249",
+        "rodata": "27",
+        "clube": "Ponte Preta",
+        "atleta": "Fernando Paixão da Silva",
+        "minuto": "26",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5259",
+        "rodata": "28",
+        "clube": "Ponte Preta",
+        "atleta": "Biro-Biro",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5259",
+        "rodata": "28",
+        "clube": "Ponte Preta",
+        "atleta": "Biro-Biro",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5275",
+        "rodata": "29",
+        "clube": "Ponte Preta",
+        "atleta": "Elton Junior Melo Ataíde",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5275",
+        "rodata": "29",
+        "clube": "Ponte Preta",
+        "atleta": "Felipe Azevedo",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5281",
+        "rodata": "30",
+        "clube": "Ponte Preta",
+        "atleta": "Fernando Paixão da Silva",
+        "minuto": "28",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5289",
+        "rodata": "31",
+        "clube": "Ponte Preta",
+        "atleta": "Biro-Biro",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5289",
+        "rodata": "31",
+        "clube": "Ponte Preta",
+        "atleta": "Alexandro da Silva Batista",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5289",
+        "rodata": "31",
+        "clube": "Ponte Preta",
+        "atleta": "Alexandro da Silva Batista",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5306",
+        "rodata": "32",
+        "clube": "Ponte Preta",
+        "atleta": "Renato de Araújo Chaves Júnior",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5309",
+        "rodata": "33",
+        "clube": "Ponte Preta",
+        "atleta": "Guti",
+        "minuto": "55",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5343",
+        "rodata": "36",
+        "clube": "Ponte Preta",
+        "atleta": "Diego Oliveira",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5377",
+        "rodata": "2",
+        "clube": "Ponte Preta",
+        "atleta": "Felipe Azevedo",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5377",
+        "rodata": "2",
+        "clube": "Ponte Preta",
+        "atleta": "Felipe Azevedo",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5400",
+        "rodata": "4",
+        "clube": "Ponte Preta",
+        "atleta": "Wellington Paulista",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5414",
+        "rodata": "5",
+        "clube": "Ponte Preta",
+        "atleta": "Felipe Azevedo",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5414",
+        "rodata": "5",
+        "clube": "Ponte Preta",
+        "atleta": "Clayson Henrique da Silva Vieira",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5428",
+        "rodata": "7",
+        "clube": "Ponte Preta",
+        "atleta": "Felipe Azevedo",
+        "minuto": "45+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5428",
+        "rodata": "7",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5439",
+        "rodata": "8",
+        "clube": "Ponte Preta",
+        "atleta": "Reinaldo Manoel da Silva",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5439",
+        "rodata": "8",
+        "clube": "Ponte Preta",
+        "atleta": "Jeferson",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5439",
+        "rodata": "8",
+        "clube": "Ponte Preta",
+        "atleta": "Fábio Ferreira",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5471",
+        "rodata": "11",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5484",
+        "rodata": "12",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5484",
+        "rodata": "12",
+        "clube": "Ponte Preta",
+        "atleta": "Felipe Azevedo",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5484",
+        "rodata": "12",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5492",
+        "rodata": "13",
+        "clube": "Ponte Preta",
+        "atleta": "Clayson Henrique da Silva Vieira",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5499",
+        "rodata": "14",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5499",
+        "rodata": "14",
+        "clube": "Ponte Preta",
+        "atleta": "Douglas Grolli",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5508",
+        "rodata": "15",
+        "clube": "Ponte Preta",
+        "atleta": "Roger Rodrigues da Silva",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5520",
+        "rodata": "16",
+        "clube": "Ponte Preta",
+        "atleta": "Wendel Geraldo Maurício e Silva",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5520",
+        "rodata": "16",
+        "clube": "Ponte Preta",
+        "atleta": "Roger Rodrigues da Silva",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5541",
+        "rodata": "18",
+        "clube": "Ponte Preta",
+        "atleta": "Reinaldo Manoel da Silva",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5541",
+        "rodata": "18",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5549",
+        "rodata": "19",
+        "clube": "Ponte Preta",
+        "atleta": "Rhayner",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5558",
+        "rodata": "20",
+        "clube": "Ponte Preta",
+        "atleta": "Wendel Geraldo Maurício e Silva",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5558",
+        "rodata": "20",
+        "clube": "Ponte Preta",
+        "atleta": "Roger Rodrigues da Silva",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5573",
+        "rodata": "21",
+        "clube": "Ponte Preta",
+        "atleta": "Wellington Paulista",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5573",
+        "rodata": "21",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5577",
+        "rodata": "22",
+        "clube": "Ponte Preta",
+        "atleta": "Clayson Henrique da Silva Vieira",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5577",
+        "rodata": "22",
+        "clube": "Ponte Preta",
+        "atleta": "Roger Rodrigues da Silva",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5592",
+        "rodata": "23",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5604",
+        "rodata": "24",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5609",
+        "rodata": "25",
+        "clube": "Ponte Preta",
+        "atleta": "Roger Rodrigues da Silva",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5609",
+        "rodata": "25",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "90+5",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5609",
+        "rodata": "25",
+        "clube": "Ponte Preta",
+        "atleta": "Fábio Ferreira",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5622",
+        "rodata": "26",
+        "clube": "Ponte Preta",
+        "atleta": "Fábio Ferreira",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5622",
+        "rodata": "26",
+        "clube": "Ponte Preta",
+        "atleta": "Roger Rodrigues da Silva",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5642",
+        "rodata": "28",
+        "clube": "Ponte Preta",
+        "atleta": "Roger Rodrigues da Silva",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5662",
+        "rodata": "30",
+        "clube": "Ponte Preta",
+        "atleta": "Wendel Geraldo Maurício e Silva",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5662",
+        "rodata": "30",
+        "clube": "Ponte Preta",
+        "atleta": "Rhayner",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5673",
+        "rodata": "31",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5673",
+        "rodata": "31",
+        "clube": "Ponte Preta",
+        "atleta": "Roger Rodrigues da Silva",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5673",
+        "rodata": "31",
+        "clube": "Ponte Preta",
+        "atleta": "Maycon de Andrade Barberan",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5699",
+        "rodata": "34",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "22",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5715",
+        "rodata": "35",
+        "clube": "Ponte Preta",
+        "atleta": "Antonio Carlos Capocasali",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5722",
+        "rodata": "36",
+        "clube": "Ponte Preta",
+        "atleta": "Wendel Geraldo Maurício e Silva",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5728",
+        "rodata": "37",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5745",
+        "rodata": "38",
+        "clube": "Ponte Preta",
+        "atleta": "Ravanelli Ferreira dos Santos",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5745",
+        "rodata": "38",
+        "clube": "Ponte Preta",
+        "atleta": "William Pottker",
+        "minuto": "60",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5751",
+        "rodata": "1",
+        "clube": "Ponte Preta",
+        "atleta": "Clayson Henrique da Silva Vieira",
+        "minuto": "73",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5751",
+        "rodata": "1",
+        "clube": "Ponte Preta",
+        "atleta": "Nino Paraíba",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5751",
+        "rodata": "1",
+        "clube": "Ponte Preta",
+        "atleta": "Clayson Henrique da Silva Vieira",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5751",
+        "rodata": "1",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5769",
+        "rodata": "3",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5769",
+        "rodata": "3",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5782",
+        "rodata": "4",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5799",
+        "rodata": "6",
+        "clube": "Ponte Preta",
+        "atleta": "Renato Cajá",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5799",
+        "rodata": "6",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5799",
+        "rodata": "6",
+        "clube": "Ponte Preta",
+        "atleta": "Marinaldo dos Santos Oliveira",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5833",
+        "rodata": "9",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "37",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5842",
+        "rodata": "10",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5882",
+        "rodata": "14",
+        "clube": "Ponte Preta",
+        "atleta": "Rafael Thyere de Albuquerque Marques",
+        "minuto": "35",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5889",
+        "rodata": "15",
+        "clube": "Ponte Preta",
+        "atleta": "Leonardo Artur de Melo",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5889",
+        "rodata": "15",
+        "clube": "Ponte Preta",
+        "atleta": "Emerson Sheik",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5889",
+        "rodata": "15",
+        "clube": "Ponte Preta",
+        "atleta": "Emerson Sheik",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5889",
+        "rodata": "15",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5902",
+        "rodata": "16",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5902",
+        "rodata": "16",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "90+3",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5919",
+        "rodata": "18",
+        "clube": "Ponte Preta",
+        "atleta": "Elton Junior Melo Ataíde",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5952",
+        "rodata": "21",
+        "clube": "Ponte Preta",
+        "atleta": "Emerson Sheik",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5952",
+        "rodata": "21",
+        "clube": "Ponte Preta",
+        "atleta": "Emerson Sheik",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5958",
+        "rodata": "22",
+        "clube": "Ponte Preta",
+        "atleta": "Léo Gamalho",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5968",
+        "rodata": "23",
+        "clube": "Ponte Preta",
+        "atleta": "Léo Gamalho",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5968",
+        "rodata": "23",
+        "clube": "Ponte Preta",
+        "atleta": "Danilo Barcelos",
+        "minuto": "65",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5977",
+        "rodata": "24",
+        "clube": "Ponte Preta",
+        "atleta": "William Alves",
+        "minuto": "47",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6005",
+        "rodata": "26",
+        "clube": "Ponte Preta",
+        "atleta": "Jean Patrick Reis",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6006",
+        "rodata": "28",
+        "clube": "Ponte Preta",
+        "atleta": "Danilo Barcelos",
+        "minuto": "13",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6024",
+        "rodata": "27",
+        "clube": "Ponte Preta",
+        "atleta": "Marinaldo dos Santos Oliveira",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6044",
+        "rodata": "30",
+        "clube": "Ponte Preta",
+        "atleta": "Danilo Barcelos",
+        "minuto": "39",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6049",
+        "rodata": "31",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6084",
+        "rodata": "34",
+        "clube": "Ponte Preta",
+        "atleta": "Léo Gamalho",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6086",
+        "rodata": "35",
+        "clube": "Ponte Preta",
+        "atleta": "Danilo Barcelos",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6086",
+        "rodata": "35",
+        "clube": "Ponte Preta",
+        "atleta": "Danilo Barcelos",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6109",
+        "rodata": "37",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6109",
+        "rodata": "37",
+        "clube": "Ponte Preta",
+        "atleta": "Danilo Barcelos",
+        "minuto": "15",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6124",
+        "rodata": "38",
+        "clube": "Ponte Preta",
+        "atleta": "Lucca Borges de Brito",
+        "minuto": "88",
+        "tipo_de_gol": "Penalty"
+    }
+]

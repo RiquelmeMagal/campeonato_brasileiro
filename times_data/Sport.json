@@ -1,0 +1,2194 @@
+[
+    {
+        "partida_id": "4615",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "Neto Baiano",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4626",
+        "rodata": "2",
+        "clube": "Sport",
+        "atleta": "Rithely",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4626",
+        "rodata": "2",
+        "clube": "Sport",
+        "atleta": "Ananias Elói Castro Monteiro",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4632",
+        "rodata": "3",
+        "clube": "Sport",
+        "atleta": "Patric Cabral Lalau",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4645",
+        "rodata": "4",
+        "clube": "Sport",
+        "atleta": "Rithely",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4671",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Augusto",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4689",
+        "rodata": "9",
+        "clube": "Sport",
+        "atleta": "Neto Baiano",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4656",
+        "rodata": "5",
+        "clube": "Sport",
+        "atleta": "Mike dos Santos Nenatarvicius",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4709",
+        "rodata": "10",
+        "clube": "Sport",
+        "atleta": "Neto Baiano",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4734",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "Felipe Azevedo",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4734",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "Durval",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4765",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "Régis",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4767",
+        "rodata": "16",
+        "clube": "Sport",
+        "atleta": "Fábio Szymonek",
+        "minuto": "23",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "4767",
+        "rodata": "16",
+        "clube": "Sport",
+        "atleta": "Patric Cabral Lalau",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4791",
+        "rodata": "18",
+        "clube": "Sport",
+        "atleta": "Neto Baiano",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4791",
+        "rodata": "18",
+        "clube": "Sport",
+        "atleta": "Danilo Barcelos",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4810",
+        "rodata": "20",
+        "clube": "Sport",
+        "atleta": "Patric Cabral Lalau",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4810",
+        "rodata": "20",
+        "clube": "Sport",
+        "atleta": "Patric Cabral Lalau",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4810",
+        "rodata": "20",
+        "clube": "Sport",
+        "atleta": "Patric Cabral Lalau",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4818",
+        "rodata": "21",
+        "clube": "Sport",
+        "atleta": "Felipe Azevedo",
+        "minuto": "83",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4841",
+        "rodata": "23",
+        "clube": "Sport",
+        "atleta": "Felipe Azevedo",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4705",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4896",
+        "rodata": "29",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4911",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Danilo Barcelos",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4911",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Rodrigo Mancha",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4921",
+        "rodata": "32",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "64",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4933",
+        "rodata": "33",
+        "clube": "Sport",
+        "atleta": "Danilo Barcelos",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4933",
+        "rodata": "33",
+        "clube": "Sport",
+        "atleta": "Mike dos Santos Nenatarvicius",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4950",
+        "rodata": "34",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4944",
+        "rodata": "35",
+        "clube": "Sport",
+        "atleta": "Ananias Elói Castro Monteiro",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4944",
+        "rodata": "35",
+        "clube": "Sport",
+        "atleta": "Patric Cabral Lalau",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4961",
+        "rodata": "36",
+        "clube": "Sport",
+        "atleta": "Mike dos Santos Nenatarvicius",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4961",
+        "rodata": "36",
+        "clube": "Sport",
+        "atleta": "Joelinton Cassio Apolinário de Lira",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4967",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "Patric Cabral Lalau",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4967",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "Ewerton Páscoa",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4981",
+        "rodata": "38",
+        "clube": "Sport",
+        "atleta": "Joelinton Cassio Apolinário de Lira",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4994",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "64",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4994",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "Matheus Ferraz Pereira",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4994",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "78",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4994",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "Régis",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5002",
+        "rodata": "2",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "45+2",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5002",
+        "rodata": "2",
+        "clube": "Sport",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5016",
+        "rodata": "3",
+        "clube": "Sport",
+        "atleta": "Neto",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5020",
+        "rodata": "4",
+        "clube": "Sport",
+        "atleta": "Joelinton Cassio Apolinário de Lira",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5020",
+        "rodata": "4",
+        "clube": "Sport",
+        "atleta": "Samuel Xavier",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5035",
+        "rodata": "5",
+        "clube": "Sport",
+        "atleta": "Maikon Leite",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5051",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Maikon Leite",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5051",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Maikon Leite",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5058",
+        "rodata": "8",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5058",
+        "rodata": "8",
+        "clube": "Sport",
+        "atleta": "Wendel Geraldo Maurício e Silva",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5068",
+        "rodata": "9",
+        "clube": "Sport",
+        "atleta": "Rithely",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5077",
+        "rodata": "10",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "10",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5077",
+        "rodata": "10",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5077",
+        "rodata": "10",
+        "clube": "Sport",
+        "atleta": "Jonathan Marlone",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5090",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "90+3",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5090",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5102",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "Matheus Ferraz Pereira",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5115",
+        "rodata": "13",
+        "clube": "Sport",
+        "atleta": "Matheus Ferraz Pereira",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5115",
+        "rodata": "13",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5122",
+        "rodata": "14",
+        "clube": "Sport",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5122",
+        "rodata": "14",
+        "clube": "Sport",
+        "atleta": "Wéverton Almeida Santos",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5128",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5149",
+        "rodata": "17",
+        "clube": "Sport",
+        "atleta": "Jonathan Marlone",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5163",
+        "rodata": "18",
+        "clube": "Sport",
+        "atleta": "Hernane Vidal de Souza",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5163",
+        "rodata": "18",
+        "clube": "Sport",
+        "atleta": "Hernane Vidal de Souza",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5163",
+        "rodata": "18",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5174",
+        "rodata": "19",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5179",
+        "rodata": "20",
+        "clube": "Sport",
+        "atleta": "Renê Rodrigues Martins",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5216",
+        "rodata": "23",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5236",
+        "rodata": "25",
+        "clube": "Sport",
+        "atleta": "Danilo Barcelos",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5237",
+        "rodata": "26",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5252",
+        "rodata": "27",
+        "clube": "Sport",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5265",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Apodi",
+        "minuto": "78",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5265",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Régis",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5265",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5267",
+        "rodata": "29",
+        "clube": "Sport",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5278",
+        "rodata": "30",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5278",
+        "rodata": "30",
+        "clube": "Sport",
+        "atleta": "Régis",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5278",
+        "rodata": "30",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5296",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Matheus Ferraz Pereira",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5296",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5296",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "José Élber Pimentel da Silva",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5296",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Maikon Leite",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5300",
+        "rodata": "32",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "59",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5300",
+        "rodata": "32",
+        "clube": "Sport",
+        "atleta": "Jonathan Marlone",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5326",
+        "rodata": "34",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5350",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "Matheus Ferraz Pereira",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5350",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5361",
+        "rodata": "38",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5386",
+        "rodata": "2",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5409",
+        "rodata": "5",
+        "clube": "Sport",
+        "atleta": "Edmilson dos Santos Silva",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5423",
+        "rodata": "6",
+        "clube": "Sport",
+        "atleta": "Edmilson dos Santos Silva",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5423",
+        "rodata": "6",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5423",
+        "rodata": "6",
+        "clube": "Sport",
+        "atleta": "Rithely",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5423",
+        "rodata": "6",
+        "clube": "Sport",
+        "atleta": "Gabriel Xavier",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5431",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5431",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5455",
+        "rodata": "9",
+        "clube": "Sport",
+        "atleta": "Gabriel Xavier",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5455",
+        "rodata": "9",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5475",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5475",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Rodney Wallace",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5475",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Ronaldo",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5475",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Rodney Wallace",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5475",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Rithely",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5478",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "Matheus Ferraz Pereira",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5478",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "Matheus Ferraz Pereira",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5496",
+        "rodata": "13",
+        "clube": "Sport",
+        "atleta": "Gabriel Xavier",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5499",
+        "rodata": "14",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5515",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5515",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "75",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5515",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "Edmilson dos Santos Silva",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5515",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "Sérgio Antônio Borges Júnior",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5523",
+        "rodata": "16",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5523",
+        "rodata": "16",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5528",
+        "rodata": "17",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "17",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5528",
+        "rodata": "17",
+        "clube": "Sport",
+        "atleta": "Edmilson dos Santos Silva",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5538",
+        "rodata": "18",
+        "clube": "Sport",
+        "atleta": "Mark González",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5553",
+        "rodata": "19",
+        "clube": "Sport",
+        "atleta": "Túlio de Melo",
+        "minuto": "82",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5557",
+        "rodata": "20",
+        "clube": "Sport",
+        "atleta": "Edmilson dos Santos Silva",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5584",
+        "rodata": "22",
+        "clube": "Sport",
+        "atleta": "Vinícius Vasconcelos Araújo",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5601",
+        "rodata": "24",
+        "clube": "Sport",
+        "atleta": "Luis Carlos Ruiz",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5601",
+        "rodata": "24",
+        "clube": "Sport",
+        "atleta": "Vinícius Vasconcelos Araújo",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5601",
+        "rodata": "24",
+        "clube": "Sport",
+        "atleta": "Durval",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5601",
+        "rodata": "24",
+        "clube": "Sport",
+        "atleta": "Everton Felipe",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5601",
+        "rodata": "24",
+        "clube": "Sport",
+        "atleta": "Rodney Wallace",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5628",
+        "rodata": "27",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5637",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Gum",
+        "minuto": "11",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5651",
+        "rodata": "29",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5675",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5681",
+        "rodata": "32",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5687",
+        "rodata": "33",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5706",
+        "rodata": "34",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5706",
+        "rodata": "34",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5706",
+        "rodata": "34",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5727",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "Ronaldo Alves",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5727",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "Rodney Wallace",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5742",
+        "rodata": "38",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "47",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5742",
+        "rodata": "38",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5764",
+        "rodata": "2",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "34",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5773",
+        "rodata": "3",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5773",
+        "rodata": "3",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5773",
+        "rodata": "3",
+        "clube": "Sport",
+        "atleta": "Matheus Ferraz Pereira",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5773",
+        "rodata": "3",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5791",
+        "rodata": "5",
+        "clube": "Sport",
+        "atleta": "Osvaldo Filho",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5791",
+        "rodata": "5",
+        "clube": "Sport",
+        "atleta": "Thomás Jaguaribe Bedinelli",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5797",
+        "rodata": "6",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "90+4",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5824",
+        "rodata": "8",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5831",
+        "rodata": "9",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "64",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5831",
+        "rodata": "9",
+        "clube": "Sport",
+        "atleta": "Osvaldo Filho",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5836",
+        "rodata": "10",
+        "clube": "Sport",
+        "atleta": "Osvaldo Filho",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5848",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "76",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5865",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5865",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "Eugenio Mena",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5865",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "Walisson",
+        "minuto": "90+2",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5873",
+        "rodata": "13",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5873",
+        "rodata": "13",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5873",
+        "rodata": "13",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5885",
+        "rodata": "14",
+        "clube": "Sport",
+        "atleta": "Rithely",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5894",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5894",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5894",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5894",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "Patrick",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5910",
+        "rodata": "17",
+        "clube": "Sport",
+        "atleta": "Ronaldo Alves",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5910",
+        "rodata": "17",
+        "clube": "Sport",
+        "atleta": "Reinaldo Lenis",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5910",
+        "rodata": "17",
+        "clube": "Sport",
+        "atleta": "Everton Felipe",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5916",
+        "rodata": "18",
+        "clube": "Sport",
+        "atleta": "Patrick",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5916",
+        "rodata": "18",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5926",
+        "rodata": "19",
+        "clube": "Sport",
+        "atleta": "Thallyson",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5995",
+        "rodata": "25",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6022",
+        "rodata": "27",
+        "clube": "Sport",
+        "atleta": "Reinaldo Lenis",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6022",
+        "rodata": "27",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6012",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Patrick",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6035",
+        "rodata": "29",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6041",
+        "rodata": "30",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "70",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6053",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6053",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6053",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6065",
+        "rodata": "32",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "90+7",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6068",
+        "rodata": "33",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6093",
+        "rodata": "35",
+        "clube": "Sport",
+        "atleta": "Diego Souza",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6096",
+        "rodata": "36",
+        "clube": "Sport",
+        "atleta": "Marcos Antônio da Silva Gonçalves",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6106",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6106",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6119",
+        "rodata": "38",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6145",
+        "rodata": "2",
+        "clube": "Sport",
+        "atleta": "Everton Felipe",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6150",
+        "rodata": "3",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6150",
+        "rodata": "3",
+        "clube": "Sport",
+        "atleta": "Jonathan Marlone",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6164",
+        "rodata": "4",
+        "clube": "Sport",
+        "atleta": "Cláudio Winck",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6164",
+        "rodata": "4",
+        "clube": "Sport",
+        "atleta": "Douglas Friedrich",
+        "minuto": "44",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6183",
+        "rodata": "6",
+        "clube": "Sport",
+        "atleta": "Carlos Henrique Alves Pereira",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6187",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Anselmo de Moraes",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6187",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Anselmo de Moraes",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6187",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6198",
+        "rodata": "8",
+        "clube": "Sport",
+        "atleta": "Gabriel Santana",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6198",
+        "rodata": "8",
+        "clube": "Sport",
+        "atleta": "Michel Bastos",
+        "minuto": "72",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6198",
+        "rodata": "8",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6220",
+        "rodata": "10",
+        "clube": "Sport",
+        "atleta": "Fellipe Bastos",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6228",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Michel Bastos",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6228",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Paulo Marcos de Jesus Ribeiro",
+        "minuto": "43",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6262",
+        "rodata": "14",
+        "clube": "Sport",
+        "atleta": "Gabriel Santana",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6279",
+        "rodata": "16",
+        "clube": "Sport",
+        "atleta": "Cláudio Winck",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6294",
+        "rodata": "17",
+        "clube": "Sport",
+        "atleta": "Carlos Henrique Alves Pereira",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6310",
+        "rodata": "18",
+        "clube": "Sport",
+        "atleta": "Jonathan Marlone",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6342",
+        "rodata": "22",
+        "clube": "Sport",
+        "atleta": "Gabriel Santana",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6374",
+        "rodata": "25",
+        "clube": "Sport",
+        "atleta": "Hernane Vidal de Souza",
+        "minuto": "22",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6390",
+        "rodata": "27",
+        "clube": "Sport",
+        "atleta": "Leonardo Silva",
+        "minuto": "7",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "6390",
+        "rodata": "27",
+        "clube": "Sport",
+        "atleta": "Michel Bastos",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6396",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Adryelson",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6396",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Mateus Gonçalves Martins",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6419",
+        "rodata": "30",
+        "clube": "Sport",
+        "atleta": "Mateus Gonçalves Martins",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6419",
+        "rodata": "30",
+        "clube": "Sport",
+        "atleta": "Cláudio Winck",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6429",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Jair Rodrigues Júnior",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6429",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Mateus Gonçalves Martins",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6429",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Gabriel Santana",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6429",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Jair Rodrigues Júnior",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6445",
+        "rodata": "32",
+        "clube": "Sport",
+        "atleta": "Gabriel Santana",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6485",
+        "rodata": "36",
+        "clube": "Sport",
+        "atleta": "Michel Bastos",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6501",
+        "rodata": "38",
+        "clube": "Sport",
+        "atleta": "José Rogério de Oliveira Melo",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6501",
+        "rodata": "38",
+        "clube": "Sport",
+        "atleta": "Hernane Vidal de Souza",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6888",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "Jonatan Gómez",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6888",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "Elton Rodrigues Brandão",
+        "minuto": "34",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6888",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "Elton Rodrigues Brandão",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6913",
+        "rodata": "3",
+        "clube": "Sport",
+        "atleta": "Iago Maidana",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6964",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Iago Maidana",
+        "minuto": "74",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6964",
+        "rodata": "7",
+        "clube": "Sport",
+        "atleta": "Patric Cabral Lalau",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6974",
+        "rodata": "8",
+        "clube": "Sport",
+        "atleta": "Marquinhos",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6974",
+        "rodata": "8",
+        "clube": "Sport",
+        "atleta": "Leandro Barcia Montero",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6994",
+        "rodata": "10",
+        "clube": "Sport",
+        "atleta": "Iago Maidana",
+        "minuto": "12",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6994",
+        "rodata": "10",
+        "clube": "Sport",
+        "atleta": "Lucas Mugni",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6944",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "Hernane Vidal de Souza",
+        "minuto": "13",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6996",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "Iago Maidana",
+        "minuto": "37",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7014",
+        "rodata": "13",
+        "clube": "Sport",
+        "atleta": "Hernane Vidal de Souza",
+        "minuto": "40",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7014",
+        "rodata": "13",
+        "clube": "Sport",
+        "atleta": "Marcão",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7032",
+        "rodata": "15",
+        "clube": "Sport",
+        "atleta": "Thiago Neves",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7041",
+        "rodata": "16",
+        "clube": "Sport",
+        "atleta": "Leandro Barcia Montero",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7041",
+        "rodata": "16",
+        "clube": "Sport",
+        "atleta": "Mikael",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7041",
+        "rodata": "16",
+        "clube": "Sport",
+        "atleta": "Marquinhos",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7071",
+        "rodata": "19",
+        "clube": "Sport",
+        "atleta": "Thiago Neves",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7110",
+        "rodata": "23",
+        "clube": "Sport",
+        "atleta": "Leandro Barcia Montero",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7110",
+        "rodata": "23",
+        "clube": "Sport",
+        "atleta": "Marquinhos",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7134",
+        "rodata": "25",
+        "clube": "Sport",
+        "atleta": "Thiago Neves",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7138",
+        "rodata": "26",
+        "clube": "Sport",
+        "atleta": "Dalberto",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7159",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Thiago Neves",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7202",
+        "rodata": "32",
+        "clube": "Sport",
+        "atleta": "Thiago Neves",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7202",
+        "rodata": "32",
+        "clube": "Sport",
+        "atleta": "Iago Maidana",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7224",
+        "rodata": "34",
+        "clube": "Sport",
+        "atleta": "Iago Maidana",
+        "minuto": "24",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7230",
+        "rodata": "35",
+        "clube": "Sport",
+        "atleta": "Marcão",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7230",
+        "rodata": "35",
+        "clube": "Sport",
+        "atleta": "Dalberto",
+        "minuto": "45+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7248",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "Thiago Neves",
+        "minuto": "87",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7248",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "Dalberto",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7275",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7275",
+        "rodata": "1",
+        "clube": "Sport",
+        "atleta": "Thiago Neves",
+        "minuto": "62",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7302",
+        "rodata": "4",
+        "clube": "Sport",
+        "atleta": "Sander Henrique Bortolotto",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7322",
+        "rodata": "6",
+        "clube": "Sport",
+        "atleta": "Santiago Tréllez",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7362",
+        "rodata": "10",
+        "clube": "Sport",
+        "atleta": "Marcão",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7369",
+        "rodata": "11",
+        "clube": "Sport",
+        "atleta": "André Felipe Ribeiro de Souza",
+        "minuto": "42",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7385",
+        "rodata": "12",
+        "clube": "Sport",
+        "atleta": "Paulinho Moccelin",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7402",
+        "rodata": "14",
+        "clube": "Sport",
+        "atleta": "Mikael",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7493",
+        "rodata": "23",
+        "clube": "Sport",
+        "atleta": "Gustavo",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7493",
+        "rodata": "23",
+        "clube": "Sport",
+        "atleta": "Mikael",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7499",
+        "rodata": "24",
+        "clube": "Sport",
+        "atleta": "Mikael",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7499",
+        "rodata": "24",
+        "clube": "Sport",
+        "atleta": "Francisco Alves da Silva Neto",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7499",
+        "rodata": "24",
+        "clube": "Sport",
+        "atleta": "José Welison",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7508",
+        "rodata": "25",
+        "clube": "Sport",
+        "atleta": "Paulinho Moccelin",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7545",
+        "rodata": "28",
+        "clube": "Sport",
+        "atleta": "Leandro Barcia Montero",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7563",
+        "rodata": "29",
+        "clube": "Sport",
+        "atleta": "Mikael",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7563",
+        "rodata": "29",
+        "clube": "Sport",
+        "atleta": "Mikael",
+        "minuto": "76",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7573",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "Mikael",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7573",
+        "rodata": "31",
+        "clube": "Sport",
+        "atleta": "José Welison",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7593",
+        "rodata": "32",
+        "clube": "Sport",
+        "atleta": "Mikael",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7605",
+        "rodata": "33",
+        "clube": "Sport",
+        "atleta": "Paulinho Moccelin",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7615",
+        "rodata": "35",
+        "clube": "Sport",
+        "atleta": "Gustavo",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7635",
+        "rodata": "37",
+        "clube": "Sport",
+        "atleta": "Luciano Juba",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7642",
+        "rodata": "38",
+        "clube": "Sport",
+        "atleta": "Mikael",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    }
+]

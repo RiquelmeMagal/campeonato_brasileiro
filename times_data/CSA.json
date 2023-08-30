@@ -1,0 +1,194 @@
+[
+    {
+        "partida_id": "6517",
+        "rodata": "2",
+        "clube": "CSA",
+        "atleta": "Matheus Sávio",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6564",
+        "rodata": "6",
+        "clube": "CSA",
+        "atleta": "Francinilson Santos Meirelles",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6582",
+        "rodata": "8",
+        "clube": "CSA",
+        "atleta": "Carlos Andrade Souza",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6651",
+        "rodata": "15",
+        "clube": "CSA",
+        "atleta": "Jonatan Gómez",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6663",
+        "rodata": "16",
+        "clube": "CSA",
+        "atleta": "Apodi",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6685",
+        "rodata": "18",
+        "clube": "CSA",
+        "atleta": "Alecsandro",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6685",
+        "rodata": "18",
+        "clube": "CSA",
+        "atleta": "Jonatan Gómez",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6695",
+        "rodata": "19",
+        "clube": "CSA",
+        "atleta": "Héctor Bustamante",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6702",
+        "rodata": "20",
+        "clube": "CSA",
+        "atleta": "Carlos Andrade Souza",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6710",
+        "rodata": "21",
+        "clube": "CSA",
+        "atleta": "Apodi",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6710",
+        "rodata": "21",
+        "clube": "CSA",
+        "atleta": "Ricardo Bueno",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6735",
+        "rodata": "23",
+        "clube": "CSA",
+        "atleta": "Ricardo Bueno",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6735",
+        "rodata": "23",
+        "clube": "CSA",
+        "atleta": "Apodi",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6735",
+        "rodata": "23",
+        "clube": "CSA",
+        "atleta": "Jonatan Gómez",
+        "minuto": "71",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6736",
+        "rodata": "24",
+        "clube": "CSA",
+        "atleta": "Jonatan Gómez",
+        "minuto": "66",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6756",
+        "rodata": "26",
+        "clube": "CSA",
+        "atleta": "Jonatan Gómez",
+        "minuto": "89",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6756",
+        "rodata": "26",
+        "clube": "CSA",
+        "atleta": "Alecsandro",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6775",
+        "rodata": "27",
+        "clube": "CSA",
+        "atleta": "Ricardo Bueno",
+        "minuto": "67",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6791",
+        "rodata": "29",
+        "clube": "CSA",
+        "atleta": "Ricardo Bueno",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6791",
+        "rodata": "29",
+        "clube": "CSA",
+        "atleta": "Apodi",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6815",
+        "rodata": "31",
+        "clube": "CSA",
+        "atleta": "Rafinha",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6855",
+        "rodata": "35",
+        "clube": "CSA",
+        "atleta": "Alan Henrique Costa",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6861",
+        "rodata": "36",
+        "clube": "CSA",
+        "atleta": "Nílton Ferreira Júnior",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6879",
+        "rodata": "38",
+        "clube": "CSA",
+        "atleta": "Jarro Pedroso",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    }
+]

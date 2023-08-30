@@ -1,0 +1,4138 @@
+[
+    {
+        "partida_id": "4616",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Leandro",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4616",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Alan Kardec",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4634",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Wesley Lopes Beltrame",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4634",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4638",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4638",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Lucimar da Silva Ferreira",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4653",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Marquinhos",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4664",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4722",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Fernando Tobio",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4740",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4754",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4760",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "60",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4767",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4779",
+        "rodata": "17",
+        "clube": "Palmeiras",
+        "atleta": "Juninho",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4805",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "53",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4808",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Jonatan Cristaldo",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4832",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Diogo Luís Santo",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4832",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Victor Luis",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4854",
+        "rodata": "24",
+        "clube": "Palmeiras",
+        "atleta": "Lucimar da Silva Ferreira",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4854",
+        "rodata": "24",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4864",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Jonatan Cristaldo",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4867",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Wesley Lopes Beltrame",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4867",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "66",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4867",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4867",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "70",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4877",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4699",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "João Pedro Maturano dos Santos",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4699",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Pablo Mouche",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4894",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4901",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Pablo Mouche",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4908",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4926",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Anderson da Silva",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4968",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Renato Júnior",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4983",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Henrique Dourado",
+        "minuto": "19",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "4988",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "4988",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Vitor Hugo Franchescoli de Souza",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5023",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5023",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Zé Roberto",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5036",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Vitor Hugo Franchescoli de Souza",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5044",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Girotto Franco",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5055",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5055",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Jonatan Cristaldo",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5071",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Jonatan Cristaldo",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5071",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Leandro",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5071",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Victor Ramos",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5071",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5079",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Egídio de Araújo Pereira Júnior",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5079",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Jonatan Cristaldo",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5094",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5094",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5101",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Jonatan Cristaldo",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5101",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5101",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Rios Marques",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5115",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Leandro",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5115",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Leandro",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5124",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Leandro",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5136",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Leandro",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5136",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5136",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Victor Ramos",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5136",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Leandro",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5152",
+        "rodata": "17",
+        "clube": "Palmeiras",
+        "atleta": "Jonatan Cristaldo",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5157",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5170",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Jackson de Souza",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5170",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Samir",
+        "minuto": "58",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5170",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5170",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Alecsandro",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5186",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Andrei Girotto",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5191",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5191",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "24",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5191",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5213",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5213",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Rios Marques",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5213",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5228",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Zé Roberto",
+        "minuto": "88",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5228",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Jackson de Souza",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5238",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Barrios",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5238",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5238",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Barrios",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5238",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Barrios",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5247",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Vitor Hugo Franchescoli de Souza",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5247",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Barrios",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5247",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5264",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5276",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5287",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5287",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5287",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Jonatan Cristaldo",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5312",
+        "rodata": "33",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5331",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Jackson de Souza",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5331",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Alecsandro",
+        "minuto": "90+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5331",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Róbson Michael Signorini",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5337",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Barrios",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5358",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5358",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Vitor Hugo Franchescoli de Souza",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5367",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Róger Guedes",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5367",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5367",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5367",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Thiago Martins Bueno",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5377",
+        "rodata": "2",
+        "clube": "Palmeiras",
+        "atleta": "Moisés Lima Magalhães",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5392",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Vitor Hugo Franchescoli de Souza",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5392",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Alecsandro",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5415",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Vitor Hugo Franchescoli de Souza",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5415",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Thiago dos Santos",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5415",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5415",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Róger Guedes",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5424",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5424",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Jean Raphael Vanderlei Moreira",
+        "minuto": "72",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5434",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Cleiton Xavier",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5443",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Jonatan Cristaldo",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5443",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Róger Guedes",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5447",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5447",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5447",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Jean Raphael Vanderlei Moreira",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5457",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5457",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5467",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5485",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5485",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5485",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Moisés Lima Magalhães",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5485",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5496",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5496",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5496",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Cleiton Xavier",
+        "minuto": "72",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5506",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Yerry Mina",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5510",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5535",
+        "rodata": "17",
+        "clube": "Palmeiras",
+        "atleta": "Erik Nascimento de Lima",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5545",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Jean Raphael Vanderlei Moreira",
+        "minuto": "85",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5550",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Barrios",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5550",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Cleiton Xavier",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5565",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Vitor Hugo Franchescoli de Souza",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5573",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Thiago Martins Bueno",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5573",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Rafael Marques Mariano",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5581",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5581",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Jean Raphael Vanderlei Moreira",
+        "minuto": "25",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5591",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Vitor Hugo Franchescoli de Souza",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5591",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Yerry Mina",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5612",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5617",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Yerry Mina",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5617",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Moisés Lima Magalhães",
+        "minuto": "5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5627",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Leandro",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5627",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Yerry Mina",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5645",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Leandro",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5645",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Róger Guedes",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5645",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Zé Roberto",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5655",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Alecsandro",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5655",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Danilo Neves",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5671",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Jean Raphael Vanderlei Moreira",
+        "minuto": "57",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5671",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Jean Raphael Vanderlei Moreira",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5681",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5681",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Danilo Neves",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5702",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Cleiton Xavier",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5716",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Jesus",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5719",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5731",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Fabiano",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5744",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Alecsandro",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5744",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Girotto Franco",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5753",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Jean Raphael Vanderlei Moreira",
+        "minuto": "6",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5753",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "80",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5753",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Alejandro Guerra",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5753",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5796",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Alejandro Guerra",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5796",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Keno",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5796",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Róger Guedes",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5820",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Keno",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5820",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Yerry Mina",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5820",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5820",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Róger Guedes",
+        "minuto": "18",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5827",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5842",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Alejandro Guerra",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5842",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Alejandro Guerra",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5846",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Machado",
+        "minuto": "78",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5862",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "62",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5877",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5877",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Róger Guedes",
+        "minuto": "37",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5877",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5877",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Mayke",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5892",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5892",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Róger Guedes",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5900",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5900",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Keno",
+        "minuto": "45+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5907",
+        "rodata": "17",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5907",
+        "rodata": "17",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5922",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5922",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Igor Rabello",
+        "minuto": "45+1",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "5941",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Alejandro Guerra",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5959",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Hyoran",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5959",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5959",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5959",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Keno",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5966",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5985",
+        "rodata": "24",
+        "clube": "Palmeiras",
+        "atleta": "Jean Raphael Vanderlei Moreira",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5992",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Egídio de Araújo Pereira Júnior",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6025",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6025",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6010",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Moisés Lima Magalhães",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6010",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6010",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "21",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6033",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6033",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Keno",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6039",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6039",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6039",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Moisés Lima Magalhães",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6055",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6055",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6060",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Moisés Lima Magalhães",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6060",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Yerry Mina",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6072",
+        "rodata": "33",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6079",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6079",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6093",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6093",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Luan Garcia Teixeira",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6093",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6093",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6093",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Keno",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6105",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Keno",
+        "minuto": "74",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6115",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6115",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Keno",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6135",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Alejandro Guerra",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6143",
+        "rodata": "2",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6161",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6161",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6161",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Marcos Rocha",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6178",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6178",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6178",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Antonio Carlos Capocasali",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6187",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Hyoran",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6187",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Keno",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6209",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6209",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6209",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "68",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6221",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6221",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6233",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Thiago dos Santos",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6233",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6241",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6254",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6259",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Moisés Lima Magalhães",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6259",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6259",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6277",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6277",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6277",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6314",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6320",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6320",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6320",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6299",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6299",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6345",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Hyoran",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6345",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6349",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6349",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Moisés Lima Magalhães",
+        "minuto": "90+5",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6360",
+        "rodata": "24",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6371",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Felipe Melo",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6381",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6389",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6389",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Hyoran",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6389",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "66",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6401",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6401",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6412",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6412",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "79",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6422",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "35",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6422",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "18",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6432",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6438",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6438",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Edu Dracena",
+        "minuto": "40",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6438",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Victor Luis",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6452",
+        "rodata": "33",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "77",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6460",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6460",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Felipe Melo",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6460",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Luan Garcia Teixeira",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6469",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "54",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6479",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6479",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6479",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Luan Garcia Teixeira",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6479",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6490",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6505",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Edu Dracena",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6505",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6505",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6514",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Marcos Rocha",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6514",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6514",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6514",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6517",
+        "rodata": "2",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6527",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6541",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6541",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6547",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Hyoran",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6547",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6547",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6547",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6556",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "62",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6573",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6573",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Marcos Rocha",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6577",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "80",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6593",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6593",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6599",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6616",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "15",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6631",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Felipe Melo",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6641",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "13",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6641",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6650",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6681",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6681",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "90+11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6665",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6665",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6665",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6688",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "45+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6701",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6710",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6710",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6710",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6710",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6710",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6710",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6719",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6733",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6748",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Thiago dos Santos",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6760",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Felipe Melo",
+        "minuto": "90+9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6773",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "41",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6784",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6784",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "86",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6786",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6786",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6786",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Felipe Melo",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6798",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6810",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6810",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "12",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6817",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6839",
+        "rodata": "33",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Borja",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6828",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Bruno Henrique Corsini",
+        "minuto": "83",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6859",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Matheus Fernandes",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6873",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6873",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Veron",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6873",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6873",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Veron",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6873",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6881",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "58",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6881",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6902",
+        "rodata": "2",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6908",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6918",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6931",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Patrick de Paula",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6931",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "45+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6948",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6962",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6969",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Veron",
+        "minuto": "69",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6969",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6983",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Veron",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6983",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "43",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "6994",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6994",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6941",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7001",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Patrick de Paula",
+        "minuto": "54",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7007",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "82",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7007",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7022",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7036",
+        "rodata": "16",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Veron",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7060",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7060",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Wesley Ribeiro Silva",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7060",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7074",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7074",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7074",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Wesley Ribeiro Silva",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7079",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "73",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7092",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7092",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "52",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7109",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7109",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Patrick de Paula",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7109",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7117",
+        "rodata": "24",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7117",
+        "rodata": "24",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "55",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7129",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7129",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "36",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7129",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7153",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7166",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "27",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7176",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7164",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7164",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7164",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7164",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7200",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Veron",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "6895",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7214",
+        "rodata": "33",
+        "clube": "Palmeiras",
+        "atleta": "Emerson Santos",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7242",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "20",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7242",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Lucas Rafael Araújo Lima",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7242",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7225",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "90+3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7254",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Matías Viña",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7283",
+        "rodata": "2",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7283",
+        "rodata": "2",
+        "clube": "Palmeiras",
+        "atleta": "Wesley Ribeiro Silva",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7283",
+        "rodata": "2",
+        "clube": "Palmeiras",
+        "atleta": "Wesley Ribeiro Silva",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7287",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "3",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7299",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7299",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7299",
+        "rodata": "4",
+        "clube": "Palmeiras",
+        "atleta": "William Matheus",
+        "minuto": "53",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7307",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "39",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7307",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7319",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7328",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7328",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "7",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7328",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "78",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7338",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7338",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Danilo dos Santos de Oliveira",
+        "minuto": "89",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7351",
+        "rodata": "9",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7360",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7360",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Menino",
+        "minuto": "17",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7366",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7366",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7366",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7381",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7381",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7381",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Éder",
+        "minuto": "59",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7387",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Manoel Messias Silva Carvalho",
+        "minuto": "54",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7408",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Willian Gomes de Siqueira",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7408",
+        "rodata": "15",
+        "clube": "Palmeiras",
+        "atleta": "Cristian Chagas Tarouco",
+        "minuto": "12",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7439",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Luan Garcia Teixeira",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7439",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7462",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Wesley Ribeiro Silva",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7466",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "10",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7466",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7477",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Menino",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7492",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Danilo dos Santos de Oliveira",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7503",
+        "rodata": "24",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "29",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7511",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "62",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7511",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "43",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7529",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "52",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7452",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "45+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7452",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7545",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Felipe Melo",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7545",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Luiz Adriano",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7560",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "45+1",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7560",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "45+5",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7560",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "90+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7581",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7581",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7571",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "64",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7571",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7571",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7571",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7592",
+        "rodata": "32",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7606",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Wesley Ribeiro Silva",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7606",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Deyverson",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7623",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Veron",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7623",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Silva",
+        "minuto": "4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7623",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "Giovani Henrique",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7638",
+        "rodata": "38",
+        "clube": "Palmeiras",
+        "atleta": "Kevin",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7648",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "22",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7648",
+        "rodata": "1",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "90+6",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7656",
+        "rodata": "2",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7678",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7678",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7678",
+        "rodata": "3",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "14",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7689",
+        "rodata": "5",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7706",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Danilo",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7706",
+        "rodata": "6",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "90+9",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7700",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Menino",
+        "minuto": "90+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7700",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7700",
+        "rodata": "7",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7720",
+        "rodata": "8",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "80",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7743",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7743",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7743",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Wesley Ribeiro Silva",
+        "minuto": "87",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7743",
+        "rodata": "10",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7753",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "23",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7753",
+        "rodata": "11",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "63",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7764",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7764",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "José Rafael Vivian",
+        "minuto": "42",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7764",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7764",
+        "rodata": "12",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "45+4",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7775",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Murilo Cerqueira",
+        "minuto": "90+6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7775",
+        "rodata": "13",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7781",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "47",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7781",
+        "rodata": "14",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7815",
+        "rodata": "17",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Veron",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7825",
+        "rodata": "18",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "65",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7830",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "18",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7830",
+        "rodata": "19",
+        "clube": "Palmeiras",
+        "atleta": "Gabriel Menino",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7837",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7837",
+        "rodata": "20",
+        "clube": "Palmeiras",
+        "atleta": "José Manuel Alberto López",
+        "minuto": "45",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7852",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "45+5",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7852",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Mayke",
+        "minuto": "19",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7852",
+        "rodata": "21",
+        "clube": "Palmeiras",
+        "atleta": "Eduard Atuesta",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7857",
+        "rodata": "22",
+        "clube": "Palmeiras",
+        "atleta": "Roni",
+        "minuto": "72",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7869",
+        "rodata": "23",
+        "clube": "Palmeiras",
+        "atleta": "Raphael Cavalcante Veiga",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7878",
+        "rodata": "24",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "8",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7887",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Cleiton Schwengber",
+        "minuto": "45+4",
+        "tipo_de_gol": "Gol Contra"
+    },
+    {
+        "partida_id": "7887",
+        "rodata": "25",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Merentiel",
+        "minuto": "71",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7900",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "46",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7900",
+        "rodata": "26",
+        "clube": "Palmeiras",
+        "atleta": "Murilo Cerqueira",
+        "minuto": "67",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7913",
+        "rodata": "27",
+        "clube": "Palmeiras",
+        "atleta": "Miguel Merentiel",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7924",
+        "rodata": "28",
+        "clube": "Palmeiras",
+        "atleta": "Murilo Cerqueira",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7934",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "26",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7934",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Mayke",
+        "minuto": "36",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7934",
+        "rodata": "29",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "60",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7943",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7943",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Breno Lopes",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7943",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Mayke",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7943",
+        "rodata": "30",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "34",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7954",
+        "rodata": "31",
+        "clube": "Palmeiras",
+        "atleta": "Murilo Cerqueira",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7969",
+        "rodata": "33",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "4",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "7969",
+        "rodata": "33",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "55",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7969",
+        "rodata": "33",
+        "clube": "Palmeiras",
+        "atleta": "Vanderlan",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7977",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Gómez",
+        "minuto": "76",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7977",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Endrick",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7977",
+        "rodata": "34",
+        "clube": "Palmeiras",
+        "atleta": "Endrick",
+        "minuto": "70",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7994",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Eduardo Pereira Rodrigues",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7994",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Endrick",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7994",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "15",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "7994",
+        "rodata": "35",
+        "clube": "Palmeiras",
+        "atleta": "Rony",
+        "minuto": "48",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8004",
+        "rodata": "36",
+        "clube": "Palmeiras",
+        "atleta": "José Manuel Alberto López",
+        "minuto": "75",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8012",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Murilo Cerqueira",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "8012",
+        "rodata": "37",
+        "clube": "Palmeiras",
+        "atleta": "Gustavo Scarpa",
+        "minuto": "42",
+        "tipo_de_gol": "Penalty"
+    }
+]

@@ -1,0 +1,362 @@
+[
+    {
+        "partida_id": "5371",
+        "rodata": "1",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "87",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5371",
+        "rodata": "1",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "44",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5371",
+        "rodata": "1",
+        "clube": "Santa Cruz",
+        "atleta": "Fernando Gabriel Vougado Ribeiro",
+        "minuto": "85",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5371",
+        "rodata": "1",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "28",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5378",
+        "rodata": "2",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "83",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5378",
+        "rodata": "2",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "53",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5391",
+        "rodata": "3",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5391",
+        "rodata": "3",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "20",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5391",
+        "rodata": "3",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5391",
+        "rodata": "3",
+        "clube": "Santa Cruz",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "77",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5399",
+        "rodata": "4",
+        "clube": "Santa Cruz",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "38",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5441",
+        "rodata": "8",
+        "clube": "Santa Cruz",
+        "atleta": "Wesley de Jesus Correia",
+        "minuto": "26",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5447",
+        "rodata": "9",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "51",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5468",
+        "rodata": "11",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "52",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5494",
+        "rodata": "13",
+        "clube": "Santa Cruz",
+        "atleta": "João Paulo",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5502",
+        "rodata": "14",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "45+2",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5509",
+        "rodata": "15",
+        "clube": "Santa Cruz",
+        "atleta": "Marcílio",
+        "minuto": "16",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5509",
+        "rodata": "15",
+        "clube": "Santa Cruz",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5509",
+        "rodata": "15",
+        "clube": "Santa Cruz",
+        "atleta": "Tiago da Costa Silva",
+        "minuto": "9",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5551",
+        "rodata": "19",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "84",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5563",
+        "rodata": "20",
+        "clube": "Santa Cruz",
+        "atleta": "Matías Pisano",
+        "minuto": "83",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5563",
+        "rodata": "20",
+        "clube": "Santa Cruz",
+        "atleta": "Tiago da Costa Silva",
+        "minuto": "37",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5587",
+        "rodata": "23",
+        "clube": "Santa Cruz",
+        "atleta": "Bruno Eduardo Moraes",
+        "minuto": "64",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5587",
+        "rodata": "23",
+        "clube": "Santa Cruz",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "57",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5601",
+        "rodata": "24",
+        "clube": "Santa Cruz",
+        "atleta": "João Paulo",
+        "minuto": "50",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5601",
+        "rodata": "24",
+        "clube": "Santa Cruz",
+        "atleta": "Bruno Eduardo Moraes",
+        "minuto": "72",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5601",
+        "rodata": "24",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "6",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5610",
+        "rodata": "25",
+        "clube": "Santa Cruz",
+        "atleta": "Bruno Eduardo Moraes",
+        "minuto": "90+1",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5624",
+        "rodata": "26",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5624",
+        "rodata": "26",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "90+11",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5631",
+        "rodata": "27",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "66",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5645",
+        "rodata": "28",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "70",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5645",
+        "rodata": "28",
+        "clube": "Santa Cruz",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "56",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5659",
+        "rodata": "30",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "30",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5659",
+        "rodata": "30",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "81",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5693",
+        "rodata": "33",
+        "clube": "Santa Cruz",
+        "atleta": "Léo Moura",
+        "minuto": "32",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5700",
+        "rodata": "34",
+        "clube": "Santa Cruz",
+        "atleta": "Léo Moura",
+        "minuto": "33",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5725",
+        "rodata": "36",
+        "clube": "Santa Cruz",
+        "atleta": "Keno",
+        "minuto": "31",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5725",
+        "rodata": "36",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "14",
+        "tipo_de_gol": "Penalty"
+    },
+    {
+        "partida_id": "5725",
+        "rodata": "36",
+        "clube": "Santa Cruz",
+        "atleta": "Cícero Vítor dos Santos Júnior",
+        "minuto": "59",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5735",
+        "rodata": "37",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "88",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5735",
+        "rodata": "37",
+        "clube": "Santa Cruz",
+        "atleta": "Léo Moura",
+        "minuto": "61",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5735",
+        "rodata": "37",
+        "clube": "Santa Cruz",
+        "atleta": "Roberto Heuchayer",
+        "minuto": "86",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5735",
+        "rodata": "37",
+        "clube": "Santa Cruz",
+        "atleta": "Grafite",
+        "minuto": "49",
+        "tipo_de_gol": ""
+    },
+    {
+        "partida_id": "5735",
+        "rodata": "37",
+        "clube": "Santa Cruz",
+        "atleta": "Arthur Caike do Nascimento Cruz",
+        "minuto": "90",
+        "tipo_de_gol": ""
+    }
+]
