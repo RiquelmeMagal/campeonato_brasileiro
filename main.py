@@ -1,5 +1,5 @@
 import os
-import csv
+import pandas as pd
 import json
 from collections import defaultdict
 
@@ -8,13 +8,13 @@ def processar_csv_e_salvar_json(tipo_arquivo, caminho_arquivo_csv):
     # Dicionário para armazenar os dados dos jogadores por time
     dados_por_time = defaultdict(list)
 
-    # Abrir o arquivo CSV
-    with open(caminho_arquivo_csv, "r", encoding="utf-8") as csv_file:
-        csv_reader = csv.DictReader(csv_file)
-        for linha in csv_reader:
-            clube = linha["clube"]
-            if clube:  # Verificar se o campo "clube" não está vazio
-                dados_por_time[clube].append(linha)
+    # Carregar o arquivo CSV usando o Pandas
+    dataframe = pd.read_csv(caminho_arquivo_csv, encoding="utf-8")
+    
+    # Agrupar os dados por clube usando o Pandas
+    grupos = dataframe.groupby("clube")
+    for clube, grupo in grupos:
+        dados_por_time[clube] = grupo.to_dict(orient="records")
 
     # Criar a pasta do tipo de arquivo se ela não existir
     caminho_pasta_tipo_arquivo = os.path.join("times_data", tipo_arquivo)
